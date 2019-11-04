@@ -1,0 +1,21 @@
+{{#> templates/landing-pages title="Portal da Câmara dos Deputados" 
+description="Últimas Notícias de Rádio Agência no Portal da Câmara dos Deputados"
+main-heading="Últimas Rádio Agência"
+breadcrumbs-itens=breadcrumbs
+}}
+
+{{#*inline "content-block-landing-pages"}}
+<div class="noticias-conteiner">
+    {{> pages/radio-agencia/_conteudo-ultimas-noticias}}
+</div>
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/ultimas-noticias.css"> 
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/comunicacao/ultimas-noticias.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}

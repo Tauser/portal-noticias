@@ -1,0 +1,55 @@
+<div class="user-feedback">
+
+    <div class="user-feedback__trigger">
+        <a class="button button--secondary button--xs button--normal-case" href="#user-feedback-form" data-toggle="modal">
+            <span class="btn__icon icon-loadspeaker" aria-hidden="true"></span>
+            Comunicar erro ou fazer sugestão
+        </a>
+    </div>
+    <div class="user-feedback__modal">
+        <div id="user-feedback-form" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="user-feedback-form-heading">
+            <div class="modal-dialog modal-user-feedback__dialog" role="document">
+                <div class="modal-content modal-user-feedback__content">
+
+                    <div class="modal-header modal-user-feedback__header">
+                        <h2 id="user-feedback-form-heading" class="modal-user-feedback__heading">Comunicar erro ou fazer sugestão</h2>
+                        <button type="button" class="close modal-user-feedback__close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+
+                    <div class="modal-body modal-user-feedback__body">
+                        {{!-- A mensagem abaixo foi proposta pela Seuso.
+                            Para ficar sem qualquer mensagem (como feito no leiaute), basta retirar a tag abaixo. --}}
+                        <p>
+                            Use esse formulário para comunicar erros ou fazer sugestões sobre o novo portal da Câmara dos Deputados.
+                            Para qualquer outro assunto, utilize o <a href="http://camara.custhelp.com/">Fale Conosco</a>.
+                        </p>
+                        <div id="mensagemErroFeedback" class="alert alert-danger alert-dismissible" style="display: none;" role="alert">
+                            <span id="textoMensagemErroFeedback">Mensagem</span>
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <form id="feedback">
+                            <div class="form-group">
+                                <label for="feedbackEmail">Seu e-mail</label>
+                                <input type="email" class="form-control" id="feedbackEmail" placeholder="Informe seu endereço de e-mail" required="required">
+                            </div>
+                            <div class="form-group">
+                                <label for="feedbackContent">Descrição do erro ou sugestão (máximo de 500 caracteres).</label>
+                                <textarea rows="6" class="form-control" id="feedbackContent" required="required" maxlength="500"></textarea>
+                            </div>
+                            <button id="btnEnviarSugestaoOuErro" type="submit" class="button">Enviar</button>
+                            <button type="reset" class="button button--secondary" data-dismiss="modal">Cancelar</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{> includes/footer__feedback-finish finish="true" }}
+</div>
+
+

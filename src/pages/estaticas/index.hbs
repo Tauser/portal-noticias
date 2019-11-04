@@ -1,0 +1,22 @@
+{{#> templates/landing-pages title="Portal da Câmara dos Deputados" description="Portal da Câmara dos Deputados"
+main-heading=dados.areaConteudo.name
+breadcrumbs-itens=breadcrumbs}}
+
+{{#*inline "content-block-landing-pages"}}
+<div class="container">
+    <h3 class="titulo-secao">
+        <span class="titulo-secao__texto">{{dados.titulo}}</span>
+    </h3>
+    {{{dados.conteudo}}}
+</div>
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/home/index.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/home/index.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}

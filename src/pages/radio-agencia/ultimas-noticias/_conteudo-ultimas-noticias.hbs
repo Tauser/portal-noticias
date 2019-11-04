@@ -1,0 +1,161 @@
+<div class="container container--inner-page">
+    <section style="margin-top: 20px;">
+    <form>
+        <div class="input-group dias-eventos-legislativo" id="datetimepicker1" data-target-input="nearest">
+            <input type="text" class="dias-eventos-legislativo__data" placeholder="dd/mm/aaaa" value="{{dataFiltro}}"
+                name="data" data-target="#datetimepicker1" style="padding-left:10px"/>
+            <div class="input-group-append" data-target="#datetimepicker1" data-toggle="datetimepicker">
+                <button type="button" class="btn button--alternative dias-eventos-legislativo__calendario"><span
+                        class="sr-only">Abrir calendário</span><span class="far fa-calendar-alt"></span></button>
+                <button type="submit" class="btn button dias-eventos-legislativo__submit">Pesquisar</button>
+            </div>
+        </div>
+    </form>
+    </section> 
+    <ul class="l-lista-noticias" aria-label="Lista de últimas notícias">         
+        {{#each dados}}
+        <li class="l-lista-noticias__item">
+            <article class="g-chamada mt-3 mb-4">
+                <p class="g-chamada__data">{{this.dataFormatada}} {{formataHora horaFormatada}} 
+                    {{#compare this.temaPrincipal.titulo '!==' null}} - 
+                        <span style="font-size: .9em; font-weight: bold;">{{this.temaPrincipal.titulo}}</span>
+                    {{/compare}}
+                </p>
+
+                {{#each this.audios}}
+                <div class="l-players__item">
+                    <div class="g-player-audio">
+                        <p class="g-player-audio__titulo">
+                            {{../this.titulo}} <b>{{retornaTotalDeAudios @index ../this.audios.length }}</b>
+                        </p>
+                        <div class="g-player-audio__controles">
+                            <audio class="mejs__player" preload="none" controls data-mejsoptions='{"stretching":"responsive",
+                                    "audioVolume":"none",
+                                    "features":["playpause","current","progress","duration"]}'>
+                                <source src="{{this.url}}" type="audio/mp3">
+                            </audio>
+                            <div class="g-player-audio__acoes">
+                                <a class="g-player-audio__acao" href="#codigo-incorporado" data-toggle="modal"
+                                    data-target=".codigo-incorporado-{{../this.id}}">
+                                    <i class="fas fa-align-left g-player-audio__icone-acao"></i>
+                                    <span class="g-player-audio__texto-acao">Texto</span>
+                                </a>
+                                <a class="g-player-audio__acao" href="{{this.url}}" target="_blank">
+                                    <i class="fas fa-cloud-download-alt g-player-audio__icone-acao"></i>
+                                    <span class="g-player-audio__texto-acao">Baixe</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+                {{#unless this.audios}}
+
+                <div class="l-players__item" style="padding: 1rem 15px 45px;">
+                    <div class="g-player-audio">
+                        <p class="g-player-audio__titulo" style="padding-right: 2%;">
+                            {{this.titulo}}
+                        </p>
+                        <div style="position: absolute; right: 0; padding: 8px 0 15px;">
+                            <div class="g-player-audio__acoes">
+                                <a class="g-player-audio__acao" href="#codigo-incorporado" data-toggle="modal"
+                                    data-target=".codigo-incorporado-{{this.id}}">
+                                    <i class="fas fa-align-left g-player-audio__icone-acao"></i>
+                                    <span class="g-player-audio__texto-acao">Texto</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{/unless}}
+
+                </h3>
+            </article>
+        </li>
+        {{/each}}
+    </ul>
+    <section id="secao-incorporacao" class="secao-incorporacao">
+        {{#each dados}}
+        <div id="printThis-{{this.id}}" class="printable">
+            <div class="modal fade codigo-incorporado-{{this.id}}" tabindex="-1" role="dialog" aria-hidden="true"
+                aria-labelledby="codigo-incorporado--title" style="margin-top: 10%;">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 id="codigo-incorporado-title" class="modal-title">{{this.titulo}}</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body" style="overflow: auto; height: 300px;">
+                            <div id="codigo-incorporado">
+                                {{{this.conteudo}}}
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" id="btnPrint" onclick="element('printThis-{{this.id}}')" class="button">Imprimir</button>
+                            <button type="button" class="button" data-dismiss="modal">Fechar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{/each}}
+    </section>
+
+    <div class="carregar-mais">
+        {{!-- Botão para carregar resultados aparece apenas na resolução mobile --}}
+       <a class="button button--circular carregar-mais__botao" href="?pagina={{carregarProximas currentPage}}">Carregar mais últimas</a>
+
+        {{!-- Paginação aparece apenas na resolução desktop --}}
+        {{!-- Observação: O nome da categoria (aba) é alterado ao final do aria-label, conforme a aba selecionada --}}         
+         
+            {{#pagination currentPage dados.length 10 }}
+            <nav class="pagination" aria-label="Navegação entre páginas de Últimas Notícias">
+
+                <ul class="pagination-list pagination-list--circular">
+                    {{!-- Anterior - Classe disabled utilizada quando o elemento estiver desabilitado --}}
+                    <li class="pagination-list__nav pagination-list__nav--prev {{desabilitaAnterior  @root.currentPage}}">
+                        {{!-- Tabindex utilizado apenas quando existir a classe 'disabled' --}}
+                        {{!-- Anterior --}}
+                        <a href="?data={{replaceData ../dataFiltro}}&pagina={{mostraPaginaAnterior @root.currentPage}}" class="pagination-list__nav-link" tabindex="-1">
+                            <span class="sr-only">Página </span>Anterior
+                            <span class="pagination-list__btn pagination-list__btn--prev fas fa-chevron-left" aria-hidden="true"></span>
+                        </a>
+                    </li>
+
+                    {{!-- Números das páginas --}}                              
+                        {{#each pages}}
+                        <li class="pagination-list__number {{retornaActive @root.currentPage page}}">
+                            {{#if isCurrent}}
+                            <a class="pagination-list__number-link" id="numero-{{page}}" href="?data={{replaceData ../../dataFiltro}}&pagina={{page}}">
+                                <span class="sr-only">página </span>
+                                {{page}}
+                            </a>
+                            {{/if}}
+
+                            {{#unless isCurrent}}
+                            <a class="pagination-list__number-link" id="numero-{{page}}" href="?data={{replaceData ../../dataFiltro}}&pagina={{page}}">{{page}}</a>
+                            {{/unless}}
+                        </li>
+                        {{/each}}
+
+                    {{!-- .\ Fim Números das páginas --}}
+
+                    {{!-- Tabindex utilizado apenas quando existir a classe 'disabled' --}}
+                    {{!-- Próximo --}}
+                    <li class="pagination-list__nav pagination-list__nav--next {{desabilitaProxima  @root.currentPage ../dados.length}}">
+                        <a href="?data={{replaceData ../dataFiltro}}&pagina={{mostraProximaPagina @root.currentPage ../dados.length}}" class="pagination-list__nav-link">
+                            <span class="pagination-list__btn pagination-list__btn--next fas fa-chevron-right"
+                                aria-hidden="true"></span>
+                            Próxima<span class="sr-only"> página</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            {{/pagination}}
+        {{#if (retornaBuscaAvancada currentPage) }}
+            <a class="button button--circular" href="https://www.camara.leg.br/busca-portal?contextoBusca=BuscaNoticias&pagina=1&order=data&abaEspecifica=true&filtros=%5B%7B%22veiculo%22%3A%22R%C3%A1dio%20C%C3%A2mara%22%7D%5D">Busca avançada</a>
+        {{/if}}
+    </div>
+</div>

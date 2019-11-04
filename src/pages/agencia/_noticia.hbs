@@ -1,0 +1,145 @@
+<div id="marcacao-conteudo-portal" class="conteudo-portal container nopadding-right nopadding-left">
+  <div class="coluna-centro col-md-offset-2 col-md-8">
+    <div id="portal-column-content">
+      <div id="portal-content-wrapper">
+        <div class="documentContent">
+          <div class="container">
+            <div class="tarjaPrograma">
+              <div class="navProgramas">
+                <a href="{{baseURL}}">{{dados.temaPrincipal}}</a>
+              </div>
+            </div>
+
+            <div id="conteudoSite">
+              <!-- inicio Conteúdo Site -->
+
+              <div id="tituloNoticia">
+                <!-- // ATENÇÃO: >>>>> NÃO ALTERAR ID <<<<< -->
+                <h2>{{dados.titulo}}</h2>
+              </div>
+
+              <div id="resumoNoticia">
+                <p>{{dados.resumo}}</p>
+              </div>
+
+              <div id="videoNoticia">
+                {{#if dados.video.url}}
+                <video class="l-transmissoes__video mejs__player" controls poster="{{baseUrlTema}}/assets/images/_placeholders/video-placeholder.png"
+                  data-mejsoptions='{"stretching":"responsive"}'>
+                  <source src="{{dados.video.url}}" type='video/mp4;codecs="avc1.4D401E, mp4a.40.2"'>
+                  <p>Seu navegador não consegue mostrar o vídeo aqui. Você pode tentar fazer o seu <a href="{{dados.video.url}}">download</a>.</p>
+                </video>
+                {{/if}}
+              </div>
+
+              <div id="datas">
+                <span class="datahoraNoticia">{{dados.dataFormatada}} - {{dados.horaFormatada}}</span>
+                {{#if dados.dataAtualizacao}}
+                <span class="dataAtualizacao">
+                  . Atualizado em {{dados.dataAtualizacaoFormatada}} - {{dados.horaAtualizacaoFormatada}}
+                </span>
+                {{/if}}
+              </div>
+
+              <div id="conteudoNoticia">
+                <!-- AQUI VEM O TEXTO DA MATERIA -->
+                {{{dados.conteudo}}}
+              </div>
+              <div id="creditosMateria">
+                <span>{{{dados.rodape}}}</span>
+
+                <div>
+                  <br>
+                  <span style="font-weight: normal !important;">A
+                    reprodução das notícias é autorizada desde que contenha a
+                    assinatura '<a href="/camaranoticias" title="Agência Câmara de Notíticas">Agência
+                      Câmara Notícias</a>'
+                  </span><br>
+                  <br>
+                </div>
+              </div>
+
+              {{#if dados.continuacaoNoticia.length}}
+              <div id="continuadas" class="caixa-itens">
+                <h4>Continua</h4>
+                <ul>
+                  {{#each dados.continuacaoNoticia}}
+                  <li><a href="{{this.link}}">{{this.titulo}}</a></li>
+                  {{/each}}
+                </ul>
+              </div>
+              {{/if}}
+
+              {{#if dados.projetosDeLei.length}}
+              <div id="proposicao" class="caixa-itens">
+                <h4>Íntegra da proposta</h4>
+                <ul>
+                  {{#each dados.projetosDeLei}}
+                  <li><a href="{{this.link}}">{{this.nome}}</a></li>
+                  {{/each}}
+                </ul>
+              </div>
+              {{/if}}
+
+
+              {{> pages/comum/comentarios}}
+
+              {{#if dados.comentariosSisnews.length}}
+              <div id="comentarios_sisNews">
+                <p>COMENTÁRIOS ANTIGOS DO SISNEWS</p>
+                <ul>
+                  {{#each dados.comentariosSisnews}}
+                  <li>{{this.autor}}</li>
+                  <li>{{this.data}}</li>
+                  <li>{{this.conteudo}}</li>
+                  {{/each}}
+                </ul>
+              </div>
+              {{/if}}
+
+              {{#if dados.relacionadas.length}}
+              <div id="relacionadas" class="caixa-itens">
+                <h4>Veja também</h4>
+                <ul>
+                  {{#each dados.relacionadas}}
+                  <li><a href="{{this.link}}">{{this.titulo}}</a></li>
+                  {{/each}}
+                </ul>
+              </div>
+              {{/if}}
+
+              {{#if dados.tags.length}}
+              <div id="tags" class="caixa-itens">
+                <h4>Mais conteúdo sobre</h4>
+                <ul>
+                  {{#each dados.tags}}
+                  <li><a href="{{this.link}}">{{this.nome}}</a></li>
+                  {{/each}}
+                </ul>
+              </div>
+              {{/if}}
+
+            </div>
+            <!-- final Conteúdo Site -->
+          </div>
+          <!-- content //-->
+        </div>
+        <!-- documentContent //-->
+      </div>
+      <!-- portal-content-wrapper //-->
+    </div>
+    <!-- portal-column-content //-->
+  </div>
+
+</div>
+
+<div id="expediente">
+  <div class="container">
+    <ul class="col-md12">
+      <li class="ult">
+        <span>Câmara Notícias</span><br>
+        <a href="/camaranoticias/expediente.html">Expediente</a><br>
+      </li>
+    </ul>
+  </div>
+</div>

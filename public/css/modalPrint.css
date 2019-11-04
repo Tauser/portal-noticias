@@ -1,0 +1,30 @@
+@media screen {
+  #printSection {
+      display: none;
+  }
+}
+
+@media print {
+  body * {
+    visibility:hidden;
+  }
+  .modal-dialog.modal-lg{
+    max-width:100% !important;
+  }
+  #printSection, #printSection * {
+    visibility:visible;
+  }
+  .modal-body {
+    height:inherit !important;
+  }
+  #printSection {
+    position:absolute;
+    left:0;
+    top:0;
+  }
+  .modal-footer, .close{
+    display: none;
+  }
+}
+
+

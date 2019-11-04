@@ -1,0 +1,106 @@
+<section class="secao-principal">
+  {{!-- Início .container --}}
+  <div class="container container--inner-page">
+
+    <article class="g-artigo artigo--noticia">
+        <span class="g-artigo__categoria">{{dados.temaPrincipal.titulo}}</span>
+
+      <h1 class="g-artigo__titulo">{{dados.titulo}}</h1>
+
+      <p class="g-artigo__descricao">{{dados.resumo}}</p>
+
+      {{!-- Modificador local .artigo__imagem-identificacao--maior Utilizado para apresentar a imagem de proporção
+      1000x362 --}}
+      <div class="g-artigo__imagem-identificacao artigo__imagem-identificacao--maior">
+      </div>
+
+      {{!-- Quando não houver imagem de identificação, substituir a div anterior pela .artigo__sem-imagem-identificacao
+      --}}
+
+      <div class="g-artigo__texto-principal">
+        <aside class="l-acoes-apoio">
+          <div class="acoes-apoio">
+            <button class="acoes-apoio__item js-acao-compartilhamento">
+              <i class="fas fa-share-alt" aria-hidden="true"></i><span class="sr-only">Compartilhe</span>
+            </button>
+
+            <button class="acoes-apoio__item js-acao-impressao">
+              <i class="fas fa-print" aria-hidden="true"></i><span class="sr-only">Versão para impressão</span>
+            </button> <!-- versão para impressão em telas pequenas? -->
+
+            <button class="acoes-apoio__item">
+              <i class="far fa-comment-alt" aria-hidden="true"></i><span class="acoes-apoio__qtd-comentario">11</span><span
+                class="sr-only">Comentários</span>
+            </button> <!-- versão para impressão em telas pequenas? -->
+          </div>
+        </aside>
+
+        <div class="js-article-read-more">
+          <div class="js-article-read-more__content">
+            <p class="g-artigo__data-hora">
+              {{dados.dataFormatada}} - {{dados.horaFormatada}} &nbsp;
+              {{!-- <span>&bull; &nbsp; Atualizado em {{dados.dataAtualizacaoFormatada}} - {{dados.horaAtualizacaoFormatada}}</span> --}}
+            </p>
+
+            <p>
+              {{{dados.conteudo}}}
+            </p>
+
+            <dl>
+              <dt>{{{dados.rodape}}}</dt>
+              {{!-- <dd>Eduardo Piovesan</dd>
+              <dt>Edição</dt>
+              <dd>Pierre Triboli</dd> --}}
+            </dl>
+          </div>
+          <div class="js-article-read-more__trigger-wrapper artigo__leia-mais">
+          </div>
+        </div>
+
+        {{!-- TO-DO por enquanto vai ficar assim, mas irá precisar implementar um each pois os videos poderam ter mais
+        de 1(um) --}}
+        {{#if dados.video}}
+        <div class="artigo__sem-imagem-identificacao">
+          <video class="mejs__player" controls poster="{{baseUrlTema}}/assets/images/_placeholders/video-placeholder.png"
+            data-mejsoptions='{"stretching":"responsive"}'>
+            <source src="{{dados.video.url}}" type='video/mp4;codecs="avc1.4D401E, mp4a.40.2"'>
+            <p>Seu navegador não consegue mostrar o vídeo aqui. Você pode tentar fazer o seu <a href="{{dados.video.url}}">download</a>.</p>
+          </video>
+        </div>
+        {{/if}}
+
+        {{!-- TO-DO por enquanto vai ficar assim, mas irá precisar implementar um each pois os audios poderam ter mais
+        de 1(um) --}}
+        {{#if dados.audio}}
+        <section class="noticia-audio">
+          <div class="g-player-audio">
+            <h2 class="sr-only">Áudio da matéria</h2>
+            <p class="g-player-audio__titulo">Ouça esta matéria na Rádio Câmara</p>
+            <div class="g-player-audio__controles">
+              <audio class="mejs__player" preload="none" controls data-mejsoptions='{"stretching":"responsive","audioVolume":"none","features":["playpause","current","progress","duration"]}'>
+                <source src="{{dados.audio.url}}" type="audio/mp3">
+              </audio>
+            </div>
+          </div>
+        </section>
+        {{/if}}
+
+        {{#if dados.continuacaoNoticia.length}}
+        <aside class="g-l-menu-lateral-apoio l-menu-lateral-apoio--noticia-interna">
+          <div class="g-menu-lateral-apoio">
+            {{> templates/titulo-secao title="Continua" modificador="g-menu-lateral-apoio__titulo"}}
+            <ul class="g-menu-lateral-apoio__lista-links">
+              {{#each dados.continuacaoNoticia}}
+              <li class="g-menu-lateral-apoio__lista-item">
+                <a href="{{this.link}}" class="links-apoio__lista-link">{{this.titulo}}</a>
+              </li>
+              {{/each}}
+            </ul>
+          </div>
+        </aside>
+        {{/if}}
+      </div>
+    </article>
+  </div>
+  {{!-- .\ Fim .container --}}
+</section>

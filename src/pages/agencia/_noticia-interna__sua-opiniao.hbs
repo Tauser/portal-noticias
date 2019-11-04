@@ -1,0 +1,48 @@
+{{#if dados.projetoLeiPrincipal.length}}
+<section class="sua-opiniao-conteiner">
+  {{!-- Início .container --}}
+  <div class="container container--inner-page">
+    <div class="sua-opiniao-fundo">
+      {{!-- Título muda a cada notícia. "Sua opinião sobre [determinado assunto]" --}}
+      {{> templates/titulo-secao title=(concat proposicoes.0.siglaTipo proposicoes.0.numero proposicoes.0.ano)
+      modificador="titulo-secao--noticia-interna"}}
+
+      <ul class="l-lista-opiniao" aria-label="Opções de opinião">
+        <li class="l-lista-opiniao__item">
+          <div class="tipo-opiniao">
+            <span class="fas fa-mouse-pointer tipo-opiniao__icone tipo-opiniao__icone--ponteiro" aria-hidden="true"></span>
+            <a class="tipo-opiniao__link" href="{{enqueteURL}}{{retornaIdProposicao dados.projetoLeiPrincipal}}">Vote
+              na enquete</a>
+          </div>
+        </li>
+
+        {{!-- TO-DO esperar por novas implementacoes login cidadao e carteiro --}}
+        {{!-- <li class="l-lista-opiniao__item l-lista-opiniao__item--flex-lg-2">
+          <div class="tipo-opiniao">
+            <span class="fas fa-pencil-alt tipo-opiniao__icone tipo-opiniao__icone--lapis" aria-hidden="true"></span>
+            <a class="tipo-opiniao__link" href="">Sugira mudanças nesta proposta</a>
+          </div>
+        </li> --}}
+        {{#if deputados }}
+        <li class="l-lista-opiniao__item l-lista-opiniao__item--flex-lg-2">
+          <div class="tipo-opiniao">
+            <span class="fas fa-user-tie tipo-opiniao__icone tipo-opiniao__icone--deputado" aria-hidden="true"></span>
+              {{#if usuarioLogado }}
+                <a class="tipo-opiniao__link modalTriggerOpiniaoDeputado">Mande sua opinião para os
+                  deputados citados</a>
+              {{else}}
+                <a href="{{path}}/opiniao-deputados" class="tipo-opiniao__link modalTriggerOpiniaoDeputado">Mande sua opinião para os
+                  deputados citados</a>
+              {{/if}}
+          </div>
+        </li>
+        {{/if}}
+        <div id="modal-placeholder">
+          <div id="paragraphInModal"></div>
+        </div>
+      </ul>
+    </div>
+  </div>
+  {{!-- .\ Fim .container --}}
+</section>
+{{/if}}

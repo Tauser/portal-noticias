@@ -1,0 +1,33 @@
+{{#> templates/base
+            title=title
+            description=description }}
+
+    {{#*inline "content-block"}}
+        <div class="container">
+            <nav aria-label="Onde estou">
+                <ol class="breadcrumb portal-breadcrumbs">
+                    <li class="breadcrumb-item"><a href="/">Início</a></li>
+                {{#parseJson breadcrumbs-itens}}
+                    {{#each this }}
+                    <li class="breadcrumb-item">
+                        {{#if link}}
+                            <a href="{{link}}">
+                        {{/if}}
+                        {{rotulo}}
+                        {{#if link}}
+                            </a>
+                        {{/if}}
+                    </li>
+                    {{/each}}
+                {{/parseJson}}
+
+                    <li class="breadcrumb-item active" aria-current="page">Esta página</li>
+                </ol>
+            </nav>
+        </div>
+        {{#> content-block-base--breadcrumbs}}
+                <h1>Conteúdo base da template breadcrumbs</h1>
+        {{/content-block-base--breadcrumbs}}
+    {{/inline}}
+
+{{/templates/base}}

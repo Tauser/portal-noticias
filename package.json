@@ -1,0 +1,120 @@
+{
+  "name": "portal-noticias",
+  "version": "1.9.14-SNAPSHOT.0",
+  "description": "Novo portal da Camara dos Deputados",
+  "main": "index.js",
+  "scripts": {
+    "test-acessibilidade": "node pa11y.js",
+    "test": "./node_modules/.bin/eslint ./ && jest --no-cache --logHeapUsage --coverage --detectOpenHandles",
+    "dev": "nodemon --watch src -e js,hbs ./src/main",
+    "prod": "./node_modules/.bin/webpack --mode production",
+    "watch:lint": "node node_modules/eslint-watch/bin/esw -w --fix",
+    "precommit": "npm test",
+    "prepush": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "portal",
+    "noticias"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://git.camara.gov.br/SOCIT/portal-noticias.git"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "reporters": [
+      "default",
+      [
+        "jest-junit",
+        {
+          "suiteName": "Testes Unitários",
+          "output": "test/resultado/junit/junit.xml"
+        }
+      ]
+    ],
+    "coverageReporters": [
+      "json",
+      "lcov",
+      "text",
+      "text-summary",
+      "cobertura"
+    ],
+    "coverageDirectory": "test/resultado",
+    "transform": {
+      "\\.hbs$": "jest-handlebars",
+      "^.+\\.(js|jsx)?$": "babel-jest"
+    }
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.1.3",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.4.2",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-latest": "^6.24.1",
+    "concurrently": "^4.0.1",
+    "connect-browser-sync": "^2.1.0",
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.21.0",
+    "eslint-watch": "^4.0.2",
+    "extra-watch-webpack-plugin": "^1.0.3",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "fs": "0.0.1-security",
+    "fs-readdir-recursive": "^1.1.0",
+    "handlebars": "^4.0.11",
+    "handlebars-layouts": "^3.1.4",
+    "handlebars-loader": "^1.7.0",
+    "husky": "^1.1.2",
+    "jest-cli": "^23.5.0",
+    "jest-handlebars": "^1.0.1",
+    "jest-junit": "^5.1.0",
+    "jest-junit-reporter": "^1.1.0",
+    "json-loader": "^0.5.7",
+    "nodemon": "^1.18.4",
+    "superagent": "^3.8.3",
+    "supertest": "^3.1.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "carteiro-cliente": "^1.0.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-handlebars": "^3.0.0",
+    "express-handlebars-paginate": "^1.0.3",
+    "feed": "^3.0.0",
+    "handlebars-helpers": "^0.10.0",
+    "handlebars-paginate": "^0.1.0",
+    "helmet": "^3.13.0",
+    "http-errors": "~1.6.2",
+    "http-server": "^0.11.1",
+    "https": "^1.0.0",
+    "is-empty": "^1.2.0",
+    "login-cidadao-cliente-express": "^1.2.2",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "morgan": "^1.9.1",
+    "node-html-parser": "^1.1.16",
+    "podcast": "^1.1.0",
+    "portal-tema-downloader": "^2.0.0",
+    "redis": "^2.8.0",
+    "replaceall": "^0.1.6",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "rss": "^1.2.2",
+    "soap": "^0.26.0",
+    "tether": "^1.4.4",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.3.3",
+    "xml2js": "^0.4.19"
+  },
+  "engines": {
+    "node": ">= 8.12.0",
+    "npm": ">= 6.4.0"
+  }
+}

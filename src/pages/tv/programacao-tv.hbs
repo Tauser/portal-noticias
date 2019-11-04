@@ -1,0 +1,215 @@
+{{#> templates/landing-pages 
+title="Programação Semanal - TV Câmara - Portal da Câmara dos Deputados" 
+description="Programação Semanal - TV Câmara" 
+main-heading=titulo 
+breadcrumbs-itens=breadcrumbs}}
+
+{{#*inline "content-block-landing-pages"}}
+
+<div id="portal-column-content">
+    <!-- inicio --->
+    <div class="container">
+        <h2 class="titPrograma">Programação Semanal</h2>
+
+        <ul id="tabs-abas" class="nav nav-tabs">
+            {{#each semana}}
+                <li id="li_{{this.id}}" {{#if this.active}} class="active" {{/if}}>
+                    <a data-toggle="tab" data-indentify="{{this.id}}"
+                        href="#{{this.id}}" class="changeNav"
+                        aria-expanded="{{this.active}}">
+                         <span>{{this.dia}}</span>
+                    </a>
+                </li>
+            {{/each}} 
+
+        </ul>
+
+        <div class="tab-content programacao">
+            
+            {{#each programacaoCompletaSemanal}}
+                <div class="tab-pane fade{{#if this.active}} active in show{{/if}}" id="{{this.id}}">
+                    <table class="table table-striped" summary="Programação TV Câmara" border="0" cellpadding="0" cellspacing="3">
+                        <thead>
+                            <tr align="left">
+                                <th>Horário</th>
+                                <th>Programa</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {{#each this.resultado}}
+                                <tr>
+                                    <td><span>{{this.horaPrograma}}</span></td>
+                                    <td><span>{{this.dscPrograma}}</span></td>
+                                </tr>
+                            {{else}}
+                                <tr>
+                                    <td><span></span></td>
+                                    <td>
+                                        <span>*** Programação não disponível ***</span>
+                                    </td>
+                                </tr>
+                            {{/each}} 
+                        
+                        </tbody>
+                    </table>
+                </div>
+            {{/each}} 
+    </div>
+    <div class="clear"></div>
+    <br>
+    <div id="barraFuncoesFinal"></div>
+    <div id="rodapePagina" style="margin-top: 0px;">
+			<ul>
+				<li><span>TV Câmara</span><br> <a href="http://www2.camara.leg.br/camaranoticias/tv/expediente.html">Expediente</a><br>
+					Disque-Câmara: 0800 619 619</li>
+			</ul>
+	</div>
+</div>
+
+
+
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+    <link rel="stylesheet" href="{{baseUrlTema}}/home/index.css">
+    <style>
+        .titPrograma {
+            color: rgb(97,97,97);
+            font-size: 27px;
+            font-weight: 600;
+            padding-bottom: 5px;
+            padding-left: 0;
+            padding-bottom: 30px;
+            padding-top: 30px;
+        }
+
+        .nav-tabs {
+            border-bottom: 1px solid #ddd;
+        }
+
+        .nav-tabs {
+            border-bottom: 1px solid #dee2e6;
+        }
+
+        #tabs-abas {
+            list-style-type: none !important;
+            margin-left: 0 !important;
+        }
+
+        #tabs-abas li {
+            padding-bottom: 0 !important;
+        }
+
+        a {
+            color: rgb(51, 51, 51);
+        }
+
+        .nav-tabs>li {
+            float: left;
+            margin-bottom: -1px;
+        }
+
+        .nav>li {
+            position: relative;
+            display: block;
+        }
+
+        .nav, .localnav {
+            display: flex;
+            flex-wrap: wrap;
+            padding-left: 0;
+            margin-bottom: 0;
+            list-style: none;
+        }
+
+        .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+            color: #555;
+            cursor: default;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-bottom-color: transparent;
+        }
+
+        .nav-tabs>li>a {
+            margin-right: 2px;
+            line-height: 1.42857143;
+            border: 1px solid transparent;
+            border-radius: 4px 4px 0 0;
+        }
+
+        .nav>li>a {
+            position: relative;
+            display: block;
+            padding: 10px 15px;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        table {
+            background-color: transparent;
+        }
+
+        .programacao {
+            padding-top: 10px;
+            border: 1px solid #ddd;
+            border-top: none;
+            border-radius: 0 0 5px 5px;
+        }
+
+        #rodapePagina {
+            font-style: normal !important;
+            font-family: 'Open Sans' !important;
+        }
+
+        * ul, ol {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        #rodapePagina span {
+            font-size: 14px;
+        }
+
+        #rodapePagina a {
+            color: #116F3F !important;
+        }
+
+        #content {
+            font-style: normal !important;
+            font-weight: 400 !important;
+            line-height: 1.15;
+            font-family: 'Open Sans' !important;
+            color: #272727;
+        }
+
+        .programacao .table th:first-child {
+            width: 20%;
+            padding-left: 5%;
+        }
+
+        .programacao .table tr td:first-child {
+            width: 20%;
+            padding-left: 5%;
+        }
+
+    </style>
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+    <script src="{{baseUrlTema}}/home/index.js"></script>
+    <script>
+        $(document).ready(function() {
+            /* Função para alterar classe active entre tabs */   
+            $(".changeNav").click(function(e) { 
+                var day = e.currentTarget.getAttribute('data-indentify');
+                var li = $('#li_' + day);
+                $('#tabs-abas li').removeClass('active');
+                li.addClass('active');
+            });
+        });
+    </script>
+{{/inline}}
+
+{{/templates/landing-pages}}

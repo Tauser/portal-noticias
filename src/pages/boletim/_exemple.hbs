@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Boletins</title>
+</head>
+<body>
+    <style>
+        thead tr { display: flex; align-items: center; justify-content: center; }
+        tbody tr { display: flex; align-items: center; justify-content: center; flex-direction: column; margin: .8rem auto; }
+
+        ul { width: 100%; }
+        ul li { margin: .5% auto; color: #576567;}
+    </style>
+    <table cellspacing="10" cellpadding="5" border="0" width="100%" bgcolor="#e6f0ef">
+        <thead bgcolor="#004a2f"  >
+            <tr>
+                <th width="100%">
+                    <a href="https://www.camara.leg.br/" target="new" title="Câmara dos Deputados" style="display: inline-block; margin: .5% auto;">
+                        <img src="https://www.camara.leg.br/tema/assets/images/logo-brand-camara-desktop.png" alt="Logo Câmara dos Deputados" boder="0">
+                    </a>
+                </th>
+            </tr>
+            <tr bgcolor="#ffffff">
+                <th width="100%">
+                    <h1 style="margin: 0.3% auto; font-family: sans-serif; font-weight: 700; font-size: 1.8rem; text-transform: uppercase;">Noticias</h1>
+                    <small style="font-size: .75rem; text-transform: uppercase; font-family: sans-serif; line-height: 1.5; font-weight: 400; color:#6b6b6b">
+                        {{ dia }}
+                    </small>
+                </th>
+            </tr>
+        </thead>
+        <tbody >
+            {{#each conteudo }}
+            <tr>
+               <td  width="100%">
+                   <h3 style="font-family: sans-serif; font-weight: 600; line-height: 1.2; font-size: 1.2rem; text-transform: uppercase;">
+                       <a href="{{baseUrl}}{{this.linkTema}}" style="text-decoration: none; color: #000000;">
+                           {{this.tema}}
+                       </a>
+                    </h3>
+               </td>
+               <td bgcolor="#FFFFFF" width="99%">
+                   <ul style="width: 100%;" >
+                       {{#each this.noticias }}
+                        <li>
+                            <a href="{{this.link}}" style="text-decoration: none; color:#576567; font-family: sans-serif; font-weight: 400; font-size: 1rem;" 
+                                title="{{this.titulo}}">
+                                {{this.titulo}}
+                            </a>
+                        </li>
+                        {{/each}}
+                    </ul>
+               </td>
+            </tr>
+            {{/each}}
+            <tr>
+                <td bgcolor="#FFFFFF" width="99%" align="center">
+                    <a href="https://www.camara.leg.br/noticias" style="text-decoration: none; font-family: sans-serif; font-weight: 600; font-size:1.2rem; color:#2f7958">
+                    Câmara Notícias
+                    </a>
+                   <p style="font-family: sans-serif; font-weight: 400; font-size: .75rem; color: #576567;">
+                       Para cancelar o recebimento deste boletim, 
+                       <a href="#" style="color: #2f7958; text-decoration: none;">clique aqui</a>
+                    </p>
+                </td>
+            </tr>   
+        </tbody>
+    </table>
+</body>
+</html>

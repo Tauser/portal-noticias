@@ -1,0 +1,18 @@
+{
+    "breadcrumbs": [
+        {
+            "nivel": 0,
+            "name": "Notícias",
+            "slug": "noticias",
+            "id": 1925,
+            "link": "/portal/1925-noticias"
+        },
+        {
+            "nivel": 1,
+            "name": "NOTICIA TESTE AGENCIA",
+            "slug": "noticia-teste-agencia",
+            "id": 2208,
+            "link": "/portal/noticias/2208-noticia-teste-agencia"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+<h2 id="ultimas-noticias-titulo" class="ultimas-noticias__titulo">
+  <a class="link-com-icone" href="{{baseUrl}}/noticias/ultimas">Últimas</a>
+</h2>
+
+<ul class="l-lista-noticias" aria-labelledby="ultimas-noticias-titulo">
+  {{#each noticias}}
+  <li class="l-lista-noticias__item">
+    <article class="g-chamada">
+      <a class="g-chamada__titulo-link" href="{{this.link}}">
+        <span class="ultimas-noticias__data">{{this.dataFormatada}} </span>
+        <span class="ultimas-noticias__hora">{{this.horaFormatada}} </br></span>
+        {{titulo}}
+      </a>
+    </article>
+  </li>
+  {{/each}}
+</ul>
+
+<div class="ultimas-noticias__mais">
+  <a href="{{baseUrl}}/noticias/ultimas">
+    mais em últimas <span class="" aria-hidden="true">→</span>
+  </a>
+</div>

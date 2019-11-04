@@ -1,0 +1,18 @@
+<div>
+
+  <div class="comentarios">
+    <iframe class="comentarios-camara" src="{{urlComentarios}}" height="500" width="100%" frameborder="0"></iframe>
+    <script>
+      window.addEventListener('message', function (e) {
+        var scroll_height = e.data.height;
+        var x = document.getElementsByClassName('comentarios-camara');
+        for (var i = 0; i < x.length; i++) {
+          if (x[i].src === e.data.url) {
+            x[i].style.height = scroll_height + 5 + 'px';
+          }
+        }
+      }, false);
+    </script>
+  </div>
+
+</div>

@@ -1,0 +1,182 @@
+{
+  "id": 2541,
+  "tipo_conteudo": "programa_tv",
+  "objeto_wp": {
+    "label": "Programa de TV",
+    "capability": "post"
+  },
+  "area_conteudo": {
+    "id": 1926,
+    "name": "TV Câmara",
+    "slug": "tv-camara"
+  },
+  "link": "/tv-camara/2541-melanina-sim/",
+  "path_separado": [
+    "tv-camara",
+    "2541-melanina-sim"
+  ],
+  "breadcrumbs": [
+    {
+      "nivel": 0,
+      "name": "TV Câmara",
+      "slug": "tv-camara",
+      "id": 1926,
+      "link": "/1926-tv-camara"
+    }
+  ],
+  "menu_local": [
+    {
+      "ID": 1926,
+      "label": "TV Câmara",
+      "slug": "tv-camara",
+      "link": "/1926-tv-camara"
+    }
+  ],
+  "titulo": "Melanina Sim",
+  "data": 1549623019,
+  "data_formatada": "08/02/2019",
+  "hora_formatada": "10:50",
+  "data_atualizacao": 1552645358,
+  "data_atualizacao_formatada": "15/03/2019",
+  "hora_atualizacao_formatada": "10:22",
+  "conteudo": "<p>No programa Melanina Sim, jovens negros narram suas vivências de racismo e as ações que empreendem - de forma coletiva ou individual - para superar o preconceito e as situações de vulnerabilidade social que atingem a juventude negra.</p>\n",
+  "resumo": "",
+  "imagem_destaque": {
+    "nome": "eye-for-ebony-399310-unsplash",
+    "descricao": "",
+    "legenda": "",
+    "texto_alternativo": "",
+    "credito": "",
+    "sizes": [
+      {
+        "tipo": "thumbnail",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash-150x113.jpg",
+        "width": 150,
+        "height": 113
+      },
+      {
+        "tipo": "medium",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash-300x225.jpg",
+        "width": 300,
+        "height": 225
+      },
+      {
+        "tipo": "medium_large",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash-768x576.jpg",
+        "width": 768,
+        "height": 576
+      },
+      {
+        "tipo": "large",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash-1024x768.jpg",
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash.jpg"
+  },
+  "videos": null,
+  "imagem_poster": null,
+  "audios": null,
+  "arquivo_anexo": null,
+  "tags": [],
+  "horario": "Ao vivo toda terça-feira, 21h, com reprises na quarta, 21h30, sexta, 19h, e domingo, às 19h.",
+  "destaque": [],
+  "ultimas": [
+    {
+      "id": 3184,
+      "titulo": "Melanina Sim: Racismo e Estética Negra 1",
+      "link": "/tv-camara/3184-melanina-sim-racismo-e-estetica-negra-1/",
+      "data": "2019-03-13 09:57:36",
+      "data_formatada": "13/03/2019",
+      "hora_formatada": "09:57",
+      "resumo": "Jovem fotógrafo se dedica a produzir imagens que valorizem a estética negra e ajudem no combate ao racismo",
+      "tema_principal": "",
+      "area": "1926",
+      "imagem_destaque": {
+        "nome": "eye-for-ebony-399310-unsplash",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": "",
+        "credito": "",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash-150x113.jpg",
+            "width": 150,
+            "height": 113
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash-300x225.jpg",
+            "width": 300,
+            "height": 225
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash-768x576.jpg",
+            "width": 768,
+            "height": 576
+          },
+          {
+            "tipo": "large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash-1024x768.jpg",
+            "width": 1024,
+            "height": 768
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/eye-for-ebony-399310-unsplash.jpg"
+      },
+      "video": {
+        "nome": "tvcafatoseopinioes_20180706",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": "",
+        "credito": "",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/tvcafatoseopinioes_20180706.mp4"
+      }
+    },
+    {
+      "id": 3183,
+      "titulo": "Melanina Sim: Racismo e Estética Negra 2",
+      "link": "/tv-camara/3183-melanina-sim-racismo-e-estetica-negra-2/",
+      "data": "2018-04-03 16:00:00",
+      "data_formatada": "03/04/2018",
+      "hora_formatada": "16:00",
+      "resumo": "Jovem fotógrafo se dedica a produzir imagens que valorizem a estética negra e ajudem no combate ao racismo",
+      "tema_principal": "",
+      "area": "1926",
+      "imagem_destaque": null,
+      "video": null
+    },
+    {
+      "id": 3185,
+      "titulo": "Melanina Sim: superação do racismo na Educação",
+      "link": "/tv-camara/3185-melanina-sim-superacao-do-racismo-na-educacao/",
+      "data": "2017-09-06 16:00:00",
+      "data_formatada": "06/09/2017",
+      "hora_formatada": "16:00",
+      "resumo": "Advogado refaz sua trajetória e trabalha como professor voluntário em curso pré-vestibular gratuito para jovens de periferia",
+      "tema_principal": "",
+      "area": "1926",
+      "imagem_destaque": null,
+      "video": null
+    },
+    {
+      "id": 3223,
+      "titulo": "Melanina Sim: Racismo nas Artes Cênicas",
+      "link": "/tv-camara/3223-melanina-sim-racismo-nas-artes-cenicas/",
+      "data": "2017-09-01 18:30:00",
+      "data_formatada": "01/09/2017",
+      "hora_formatada": "18:30",
+      "resumo": "Atriz negra cria grupo de teatro para enfrentar racismo nas artes cênicas",
+      "tema_principal": "",
+      "area": "1926",
+      "imagem_destaque": null,
+      "video": null
+    }
+  ],
+  "categorias_selecionadas": "",
+  "comentarios_sisnews": [],
+  "total_comentarios_sisnews": 0
+}

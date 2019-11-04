@@ -1,0 +1,20 @@
+{{#if dados.projetosDeLei.length}}
+<section class="integra-proposta-conteiner">
+  {{!-- Início .container --}}
+  <div class="container container--inner-page">
+    <div class="integra-fundo">
+      {{> templates/titulo-secao title="Íntegra da proposta" modificador="titulo-secao--noticia-interna"
+      id="integra-proposta"}}
+
+      <ul class="integra-lista row" aria-labelledby="integra-proposta">
+        {{#each proposicoes}}
+          <li class="integra-lista__item col-4">          
+            <a href="https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao={{this.idecadastro}}">{{this.siglaTipo}}-{{this.numero}}/{{this.ano}}</a>
+          </li>
+        {{/each}}
+      </ul>
+    </div>
+  </div>
+  {{!-- .\ Fim .container --}}
+</section>
+{{/if}}

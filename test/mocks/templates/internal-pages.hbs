@@ -1,0 +1,47 @@
+{{#> templates/base--breadcrumbs
+                title=title
+                description=description
+                breadcrumbs-itens=breadcrumbs-itens }}
+
+    {{#*inline "content-block-base--breadcrumbs"}}
+        <div class="l-identificacao-landing">
+            <div class="container">
+                <h1 class="titulo-internal">
+                    {{#if main-heading}}
+                        {{main-heading}}
+                    {{else}}
+                        Título não definido
+                    {{/if}}
+                </h1>
+                {{#if additional-heading}}
+                    <h2 class="subtitulo-internal">
+                        {{additional-heading}}
+                    </h2>
+                {{/if}}
+
+                {{#if menu-itens}}
+                    <a role="button" data-toggle="collapse" aria-expanded="false" href="#js-nesta-secao" class="nesta-secao">
+                        <span>Nesta seção</span>
+                        <span class="fas fa-chevron-down nesta-secao__icon"></span>
+                    </a>
+                    <div id="js-nesta-secao" class="collapse">
+                        <ul class="localnav">
+                        {{#parseJson menu-itens}}
+                            {{#each this }}
+                                <li class="localnav__item">
+                                    <a class="localnav__link" href="{{link}}" {{scrolling}}>{{rotulo}}</a>
+                                </li>
+                            {{/each}}
+                        {{/parseJson}}
+                        </ul>
+                    </div>
+                {{/if}}
+            </div>
+        </div>
+
+        {{#> content-block-internal-pages}}
+                <h1>Conteúdo base da template landing</h1>
+        {{/content-block-internal-pages}}
+    {{/inline}}
+
+{{/templates/base--breadcrumbs}}

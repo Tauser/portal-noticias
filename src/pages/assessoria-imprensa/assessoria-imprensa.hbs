@@ -1,0 +1,30 @@
+{{#> templates/landing-pages title="Assessoria de Imprensa na Câmara dos Deputados"
+description="Assessoria de Imprensa"
+main-heading="Assessoria de Imprensa"
+breadcrumbs-itens=breadcrumbs
+menu-itens='[
+{"rotulo":"Credenciamento de Imprensa", "link":"https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/credenciamento-de-jornalistas","scrolling":"data-smooth-scrolling"},
+{"rotulo":"Guia para Jornalistas", "link":"https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/guia-para-jornalistas","scrolling":"data-smooth-scrolling"},
+{"rotulo":"Releases", "link":"https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/releases","scrolling":"data-smooth-scrolling"},
+{"rotulo":"Notas à Imprensa", "link":"https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/camara-informa","scrolling":"data-smooth-scrolling"},
+{"rotulo":"Contato", "link":"https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/contato","scrolling":"data-smooth-scrolling"},
+{"rotulo":"Uso da Logomarca", "link":"https://www2.camara.leg.br/camaranoticias/institucional/materias/519921-SOBRE-O-USO-DA-LOGOMARCA.html","scrolling":"data-smooth-scrolling"}
+]'
+}}
+
+    {{#*inline "content-block-landing-pages"}}
+
+        {{{dados.html}}}
+
+    {{/inline}}
+
+    {{#*inline "custom-head-block"}}
+        <link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/assessoria-imprensa.css">
+        <link rel="stylesheet" href="/assets/css/assessoria-de-imprensa.css">
+    {{/inline}}
+
+    {{#*inline "custom-scripts-block"}}
+        <script src="{{baseUrlTema}}/comunicacao/assessoria-imprensa.js"></script>
+    {{/inline}}
+
+{{/templates/landing-pages}}

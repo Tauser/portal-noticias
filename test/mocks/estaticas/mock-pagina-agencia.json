@@ -1,0 +1,50 @@
+{
+    "id": 3654,
+    "tipo_conteudo": "pagina_agencia",
+    "objeto_wp": {
+        "label": "P\u00e1gina Ag\u00eancia",
+        "capability": "post"
+    },
+    "area_conteudo": {
+        "id": 1925,
+        "name": "Not\u00edcias",
+        "slug": "noticias"
+    },
+    "link": "\/noticias\/3654-expediente\/",
+    "path_separado": [
+        "noticias",
+        "3654-expediente"
+    ],
+    "breadcrumbs": [
+        {
+            "nivel": 0,
+            "name": "Not\u00edcias",
+            "slug": "noticias",
+            "id": 1925,
+            "link": "\/1925-noticias"
+        }
+    ],
+    "menu_local": [
+        {
+            "ID": 1925,
+            "label": "Not\u00edcias",
+            "slug": "noticias",
+            "link": "\/1925-noticias"
+        }
+    ],
+    "titulo": "Expediente",
+    "data": 1552489455,
+    "data_formatada": "13\/03\/2019",
+    "hora_formatada": "15:04",
+    "data_atualizacao": 1552489455,
+    "data_atualizacao_formatada": "13\/03\/2019",
+    "hora_atualizacao_formatada": "15:04",
+    "conteudo": "<h3><small><strong>SECRETARIA DE COMUNICA\u00c7\u00c3O SOCIAL<\/strong><\/small><\/h3>\n<p class=\"espacado\">Dep. M\u00e1rcio Marinho (PRB-BA)<\/p>\n<h3><small><strong>DIRETORIA-EXECUTIVA DE COMUNICA\u00c7\u00c3O SOCIAL<\/strong><\/small><\/h3>\n<p class=\"espacado\"><strong>Diretor:\u00a0<\/strong>David Miranda \u2013 (61) 3216-1501<\/p>\n<h3><small><strong>M\u00cdDIAS INTEGRADAS<\/strong><\/small><\/h3>\n<p class=\"espacado\"><strong>Diretor:\u00a0<\/strong>Pedro Noleto \u2013 (61) 3216-1600<\/p>\n<h3><small><strong>CONTE\u00daDO MULTIM\u00cdDIA<\/strong><\/small><\/h3>\n<p class=\"espacado\"><strong>Diretor:\u00a0<\/strong>Wilson Silveira \u2013 (61) 3216-1858<\/p>\n<h3><small><strong>AG\u00caNCIA C\u00c2MARA NOT\u00cdCIAS<\/strong><\/small><\/h3>\n<p class=\"espacado\"><strong>Editora-chefe:\u00a0<\/strong>Natalia Doederlein \u2013 (61) 3216-1862<\/p>\n",
+    "resumo": [],
+    "imagem_destaque": null,
+    "videos": null,
+    "imagem_poster": null,
+    "audios": null,
+    "arquivo_anexo": null,
+    "tags": []
+}

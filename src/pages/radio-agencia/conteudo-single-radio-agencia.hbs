@@ -1,0 +1,22 @@
+{{#> templates/landing-pages title="Portal da Câmara dos Deputados" 
+description="Radioagência no Portal da Câmara dos Deputados"
+main-heading="Radioagência"
+breadcrumbs-itens=breadcrumbs
+}}
+
+{{#*inline "content-block-landing-pages"}}
+<div class="noticias-conteiner">
+    {{> pages/radio-agencia/_single-radio-agencia}}
+</div>
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/ultimas-noticias.css">
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/radio-programa.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/comunicacao/ultimas-noticias.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}

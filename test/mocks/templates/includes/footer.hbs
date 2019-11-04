@@ -1,0 +1,103 @@
+{{!-- Opção de feedback do usuário, para os primeiros meses do Portal --}}
+{{> includes/footer__feedback }}
+<footer role="contentinfo" class="rodape-portal">
+    <!-- Coloque aqui a lista de redes sociais da Câmara -->
+    <div class="rodape-portal-links rodape-portal-links--redes-sociais">
+        <div class="container">
+            <ul class="rodape-portal-links__lista" aria-label="Câmara nas redes sociais">
+                <li class="rodape-portal-links__item">
+                    <a href="https://www.facebook.com/camaradeputados" class="rodape-portal-links__link">
+                        <span class="fab fa-facebook-square redes-sociais-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Facebook</span>
+                    </a>
+                </li>
+
+                <li class="rodape-portal-links__item">
+                    <a href="https://twitter.com/camaradeputados" class="rodape-portal-links__link">
+                        <span class="fab fa-twitter redes-sociais-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Twitter</span>
+                    </a>
+                </li>
+
+                <li class="rodape-portal-links__item">
+                    <a href="https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA" class="rodape-portal-links__link">
+                        <span class="fab fa-youtube redes-sociais-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Youtube</span>
+                    </a>
+                </li>
+
+                <li class="rodape-portal-links__item">
+                    <a href="https://www.instagram.com/camaradeputados" class="rodape-portal-links__link">
+                        <span class="fab fa-instagram redes-sociais-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Instagram</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Coloque aqui o endereço e demais informações de assinatura -->
+    <address class="rodape-portal-info">
+        <div class="container">
+
+            <div class="rodape-portal-info__nome">
+                <p>
+                    <strong>56ª Legislatura - 1ª Sessão Legislativa Ordinária</strong>
+                </p>
+            </div>
+
+            <div class="l-rodape-info">
+                <div class="l-rodape-info__local rodape-portal-info__texto">
+                    Câmara dos Deputados - Palácio do Congresso Nacional - Praça dos Três Poderes - Brasília - DF - Brasil - CEP
+                    70160-900 <br>
+                    CNPJ: 00.530.352/0001-59
+                </div>
+
+                <div class="l-rodape-info__telefones rodape-portal-info__texto">
+                    <ul class="list-unstyled" aria-label="Números para contato e horário de atendimento">
+                        <li>Telefone: +55 (61) 3216-0000</li>
+                        <li>Disque-Câmara: 0800-619-619</li>
+                        <li>Horário de atendimento ao público: 9h às 19h</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </address>
+
+    <!-- Coloque aqui a lista de links de apoio do rodapé -->
+    <div class="rodape-portal-links rodape-portal-links--apoio">
+        <div class="container">
+            <ul class="rodape-portal-links__lista" aria-label="Links de apoio">
+                <li class="rodape-portal-links__item">
+                    <a href="https://www2.camara.leg.br/sobre-o-portal" class="rodape-portal-links__link">Sobre o Portal</a>
+                </li>
+            
+                <li class="rodape-portal-links__item">
+                    <a href="https://www2.camara.leg.br/english" class="rodape-portal-links__link"><span lang="en">English</span>
+                    </a></li>
+            
+                <li class="rodape-portal-links__item">
+                    <a href="https://www2.camara.leg.br/espanol" class="rodape-portal-links__link"><span lang="es">Español</span>
+                    </a></li>
+            
+                <li class="rodape-portal-links__item">
+                    <a href="https://camaranet.camara.leg.br" class="rodape-portal-links__link">Extranet</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-17416078-9"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-17416078-9');
+</script>
+
+<script src="{{baseUrlTema}}/global/vendor-bundle.js"></script>
+<script src="{{baseUrlTema}}/global/camara-bundle.js"></script>

@@ -1,0 +1,25 @@
+<div role="dialog" id="modal-mande-sua-opniao" aria-labelledby="dialog1_label" aria-modal="true" class="modal">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title beneficio__titulo">Mande sua opinião para os deputados citados</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="container">
+                    <form action="/noticias/opiniao-deputados" method="POST">
+                      <article>
+                          <section>
+                              <div class="tramitacao__content">                                                                                                                                                      
+                                    Mensagem:
+                              </div>  
+                              <textarea cols="90" rows="7" required="true" id="opiniaoDeputados" name="opiniaoDeputados" />
+                              <button type="submit" value="Enviar"> Enviar</button>
+                          </section>
+                      </article>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 

@@ -1,0 +1,54 @@
+    [
+        {
+            "id": 53778,
+            "dataSessao": "17/10/2018 14:00",
+            "idYoutube": "rGECpP6Gtg0",
+            "descricao": "Práticas violadoras de direitos humanos no comportamento de psicopatas e sociopatas.\r\n",
+            "estadoVideoYoutube": "AO_VIVO",
+            "retranca": "Direitos Humanos",
+            "principal": true,
+            "eventoInterativo": false,
+            "urlYoutube": "https://www.youtube.com/watch?v=rGECpP6Gtg0",
+            "thumbnailDefault": "https://i.ytimg.com/vi/rGECpP6Gtg0/default.jpg",
+            "thumbnailMedium": "https://i.ytimg.com/vi/rGECpP6Gtg0/mqdefault.jpg"
+        },
+        {
+            "id": 53856,
+            "dataSessao": "17/10/2018 09:05",
+            "idYoutube": "DscMovfJvYs",
+            "descricao": "Sessão Não Deliberativa Solene",
+            "estadoVideoYoutube": "AO_VIVO",
+            "retranca": "PLEN",
+            "principal": false,
+            "eventoInterativo": false,
+            "urlYoutube": "https://www.youtube.com/watch?v=DscMovfJvYs",
+            "thumbnailDefault": "https://i.ytimg.com/vi/DscMovfJvYs/default.jpg",
+            "thumbnailMedium": "https://i.ytimg.com/vi/DscMovfJvYs/mqdefault.jpg"
+        },
+        {
+            "id": 53853,
+            "dataSessao": "17/10/2018 11:00",
+            "idYoutube": "o4Y5hjPXmq4",
+            "descricao": "Outro Evento",
+            "estadoVideoYoutube": "AO_VIVO",
+            "retranca": "CN",
+            "principal": false,
+            "eventoInterativo": false,
+            "urlYoutube": "https://www.youtube.com/watch?v=o4Y5hjPXmq4",
+            "thumbnailDefault": "https://i.ytimg.com/vi/o4Y5hjPXmq4/default.jpg",
+            "thumbnailMedium": "https://i.ytimg.com/vi/o4Y5hjPXmq4/mqdefault.jpg"
+        },
+        {
+            "id": 53595,
+            "dataSessao": "17/10/2018 10:00",
+            "idYoutube": "rTibnOyWLLg",
+            "descricao": "Reunião Deliberativa",
+            "estadoVideoYoutube": "AO_VIVO",
+            "retranca": "Constituição e Justiça",
+            "principal": false,
+            "eventoInterativo": false,
+            "urlYoutube": "https://www.youtube.com/watch?v=rTibnOyWLLg",
+            "thumbnailDefault": "https://i.ytimg.com/vi/rTibnOyWLLg/default.jpg",
+            "thumbnailMedium": "https://i.ytimg.com/vi/rTibnOyWLLg/mqdefault.jpg"
+        }
+    ]

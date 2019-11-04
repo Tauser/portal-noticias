@@ -1,0 +1,317 @@
+{
+    "id": "103",
+    "tipo_conteudo": "documentario",
+    "programas": [
+        {
+            "id": 387484,
+            "titulo": "Jornal da Câmara | 18/07/2019",
+            "link": "https://socithom.camara.gov.br/tv/387484-jornal-da-camara-18-07-2019/",
+            "data": "2019-08-16 10:45:56",
+            "data_formatada": "16/08/2019",
+            "hora_formatada": "10:45",
+            "resumo": "",
+            "tema_principal": "",
+            "area": "",
+            "conteudo": "<p>Deputados avaliam os trabalhos do Ministério da Educação na comissão externa</p>\n<p>&nbsp;</p>\n<p>Como estão os trabalhos da comissão criada há dois meses para acompanhar as reviravoltas no Ministério da Educação?</p>\n<p>Conheça o projeto que cria um sistema de informações para agilizar a busca de sentenciados que ainda não foram presos.</p>\n<p style=\"text-align: left;\">E a mudança de gênero compromete ou não o princípio da igualdade nas competições esportivas? Este debate também chegou à Câmara.</p>\n<p>E ainda o Jornal da Câmara vai mostrar:</p>\n<p>&#8211; Especialistas em educação defendem políticas para ensino a distância;</p>\n<p>&#8211; Aprovada criação de Sistema Nacional de Informações sobre Pessoas Procuradas pela Justiça;</p>\n<p>&#8211; Comissão estuda alteração na Lei de Combate ao Crime Organizado;</p>\n<p>&#8211; CCJ discute aperfeiçoamento das audiências de custódia;</p>\n<p>&#8211; Cartilha “Namoro Legal” alerta adolescentes a identificarem relacionamentos abusivos.</p>\n",
+            "imagens": [
+                {
+                    "id": 387658,
+                    "nome": "x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E",
+                    "descricao": "",
+                    "legenda": "",
+                    "texto_alternativo": null,
+                    "autor": null,
+                    "local": null,
+                    "tema": null,
+                    "data": null,
+                    "institucional": "Não",
+                    "sizes": [
+                        {
+                            "tipo": "thumbnail",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-150x150.jpg",
+                            "width": 150,
+                            "height": 150
+                        },
+                        {
+                            "tipo": "medium",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-300x180.jpg",
+                            "width": 300,
+                            "height": 180
+                        },
+                        {
+                            "tipo": "medium_large",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-768x461.jpg",
+                            "width": 768,
+                            "height": 461
+                        },
+                        {
+                            "tipo": "large",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-1024x615.jpg",
+                            "width": 1024,
+                            "height": 615
+                        },
+                        {
+                            "tipo": "twentyseventeen-thumbnail-avatar",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-100x100.jpg",
+                            "width": 100,
+                            "height": 100
+                        },
+                        {
+                            "tipo": "Personalizado_1",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/x83013896_bsbbrasiliabrasil04-06-2019presidente-jair-bolsonaro-chega-na-camara-dos-deputa-jpgqposicaofoto1-pagespeed-ic_-ojckyqmn4e-421x237.jpg",
+                            "width": "421",
+                            "height": "237"
+                        }
+                    ],
+                    "url": "https://socithom.camara.gov.br/midias/image/2019/07/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E.jpg",
+                    "url_midia": null,
+                    "url_thumb_midia": null
+                }
+            ],
+            "videos": [],
+            "audios": [],
+            "horario": "",
+            "rodape": "",
+            "data_estreia": "2019-07-18",
+            "hora_estreia": "21:00",
+            "info_paginador": {
+                "pagina": 0,
+                "count": "4",
+                "paginas": 1
+            }
+        },
+        {
+            "id": 387527,
+            "titulo": "Gervásio Maia conversa sobre reforma da Previdência",
+            "link": "https://socithom.camara.gov.br/tv/387527-gervasio-maia-conversa-sobre-reforma-da-previdencia/",
+            "data": "2019-08-10 18:54:31",
+            "data_formatada": "10/08/2019",
+            "hora_formatada": "18:54",
+            "resumo": "",
+            "tema_principal": "",
+            "area": "",
+            "conteudo": "<p>A reforma da Previdência, em debate na Câmara dos Deputados, suscitou muitos questionamentos, até mesmo quanto à fidelidade partidária.</p>\n<p>Nesta edição do Palavra Aberta, o entrevistado é o deputado <strong>Gervásio Maia (PSB-Paraíba)</strong>. Ele sugere, por exemplo, que seu partido puna os deputados que forem favoráveis à reforma da Previdência.</p>\n<p>Apresentação de Regina Assumpção.</p>\n",
+            "imagens": [
+                {
+                    "id": 387533,
+                    "nome": "img20190712181208206.jpg",
+                    "descricao": "Dep. Gervásio Maia",
+                    "legenda": "img20190712181208206.jpg",
+                    "texto_alternativo": null,
+                    "autor": "",
+                    "local": null,
+                    "tema": null,
+                    "data": "12/07/2019",
+                    "institucional": "Não",
+                    "sizes": [
+                        {
+                            "tipo": "thumbnail",
+                            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/07/img20190712181208206-150x150.jpg",
+                            "width": 150,
+                            "height": 150
+                        },
+                        {
+                            "tipo": "medium",
+                            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/07/img20190712181208206-300x169.jpg",
+                            "width": 300,
+                            "height": 169
+                        },
+                        {
+                            "tipo": "twentyseventeen-thumbnail-avatar",
+                            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/07/img20190712181208206-100x100.jpg",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ],
+                    "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/07/img20190712181208206.jpg",
+                    "url_midia": null,
+                    "url_thumb_midia": null
+                }
+            ],
+            "videos": [
+                {
+                    "id": 387532,
+                    "nome": "tvcapalavraaberta_20190712_gervasio_maia",
+                    "descricao": "",
+                    "legenda": "",
+                    "texto_alternativo": null,
+                    "autor": null,
+                    "local": null,
+                    "tema": null,
+                    "data": null,
+                    "institucional": "Não",
+                    "sizes": null,
+                    "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/video/2019/07/tvcapalavraaberta_20190712_gervasio_maia.mp4",
+                    "url_midia": null,
+                    "url_thumb_midia": null
+                }
+            ],
+            "audios": [],
+            "horario": "",
+            "rodape": "Apresentação de Regina Assumpção.",
+            "data_estreia": "2019-07-18",
+            "hora_estreia": "12:00",
+            "info_paginador": {
+                "pagina": 0,
+                "count": "4",
+                "paginas": 1
+            }
+        },
+        {
+            "id": 387977,
+            "titulo": "Teste Bruno videos",
+            "link": "https://socithom.camara.gov.br/tv/387977-teste-bruno-videos/",
+            "data": "2019-08-08 14:26:52",
+            "data_formatada": "08/08/2019",
+            "hora_formatada": "14:26",
+            "resumo": "",
+            "tema_principal": "",
+            "area": "",
+            "conteudo": "<p>aoaoijodiajsiodfj</p>\n",
+            "imagens": [
+                {
+                    "id": 387937,
+                    "nome": "hyacinth_macaw",
+                    "descricao": "",
+                    "legenda": "",
+                    "texto_alternativo": null,
+                    "autor": null,
+                    "local": null,
+                    "tema": null,
+                    "data": null,
+                    "institucional": "Não",
+                    "sizes": [
+                        {
+                            "tipo": "thumbnail",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/08/hyacinth_macaw-150x150.png",
+                            "width": 150,
+                            "height": 150
+                        },
+                        {
+                            "tipo": "medium",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/08/hyacinth_macaw-300x131.png",
+                            "width": 300,
+                            "height": 131
+                        },
+                        {
+                            "tipo": "medium_large",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/08/hyacinth_macaw-768x335.png",
+                            "width": 768,
+                            "height": 335
+                        },
+                        {
+                            "tipo": "large",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/08/hyacinth_macaw-1024x446.png",
+                            "width": 1024,
+                            "height": 446
+                        },
+                        {
+                            "tipo": "twentyseventeen-thumbnail-avatar",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/08/hyacinth_macaw-100x100.png",
+                            "width": 100,
+                            "height": 100
+                        }
+                    ],
+                    "url": "https://socithom.camara.gov.br/midias/image/2019/08/hyacinth_macaw.png",
+                    "url_midia": null,
+                    "url_thumb_midia": null
+                }
+            ],
+            "videos": [],
+            "audios": [],
+            "horario": "",
+            "rodape": "adasd",
+            "data_estreia": "2019-08-08",
+            "hora_estreia": "12:00",
+            "info_paginador": {
+                "pagina": 0,
+                "count": "4",
+                "paginas": 1
+            }
+        },
+        {
+            "id": 386650,
+            "titulo": "Reforma da Previdência: regime de capitalização (episódio 4)",
+            "link": "https://socithom.camara.gov.br/tv/386650-reforma-da-previdencia-regime-de-capitalizacao-episodio-4/",
+            "data": "2019-06-12 20:00:00",
+            "data_formatada": "12/06/2019",
+            "hora_formatada": "20:00",
+            "resumo": "",
+            "tema_principal": "",
+            "area": "",
+            "conteudo": "<p>A proposta do governo de criação de um sistema de capitalização para quem ainda não entrou no mercado de trabalho tem sido muito criticada. O modelo chileno, que começou bem, mas que revelou muitos problemas com o passar do tempo, tem sido usado pela oposição para combater a proposta. Até mesmo o presidente da Câmara dos Deputados, Rodrigo Maia, avalia que dificilmente será aprovado.</p>\n<p>Mas há também quem aponte modelos bem-sucedidos, como o sueco, para defender o sistema híbrido de capitalização, apesar de especialistas mostrarem preocupação com o chamado custo de transição.</p>\n<p>O Expressão Nacional desta quarta, às 20h, decifra o que é o sistema de capitalização, suas eventuais vantagens e ameaças.</p>\n<p>Convidados:</p>\n<p>&#8211; <strong>Dep. Alice Portugal </strong>(PCdoB/BA). Facebook: https://www.facebook.com/deputadaaliceportugal/ Twitter: @Alice_Portugal</p>\n<p>&#8211; <strong>Dep. Vinícius Poit</strong> (NOVO/SP). Facebook: https://www.facebook.com/ViniciusPoit/ Twitter: @ViniciusPoit</p>\n<p>&#8211; <strong>Mauro Benevides Filho</strong>, Deputado licenciado e Secretário de Planejamento e Gestão do Ceará. Facebook: https://www.facebook.com/maurobenevidesf/ Twitter: @mauro_bfilho</p>\n<p>&#8211; <strong>Milko Matijascic</strong>, Economista e pesquisador do Ipea. Facebook: https://www.facebook.com/ipeaonline/ Twitter: @ipeaonline</p>\n<p>Divulgação pelo Facebook @tvcamara e Whatsapp (61) 99620.2573.<br />\nApresentação: Maristela Sant’Ana</p>\n<p>Acompanhe a divulgação do programa pelos perfis da TV Câmara no FACEBOOK: <a href=\"https://www.facebook.com/tvcamara/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.facebook.com/tvcamara/</a> e TWITTER: <a href=\"https://twitter.com/tvcamara\" target=\"_blank\" rel=\"noopener noreferrer\">@tvcamara</a> e YOUTUBE: <a href=\"https://youtu.be/6ATRHVfqZHU\" target=\"_blank\" rel=\"noopener noreferrer\">camara.leg.br/youtube</a></p>\n<p><strong>Perguntas, críticas e sugestões:</strong> telefone 0800 619 619, e-mail expressaonacional@camara.leg.br, Twitter <a href=\"https://twitter.com/xnacional\" target=\"_blank\" rel=\"noopener noreferrer\">@xnacional</a> e WhatsApp (61) 99620-2573.</p>\n",
+            "imagens": [
+                {
+                    "id": 387648,
+                    "nome": "img20190605111111395MED",
+                    "descricao": "",
+                    "legenda": "",
+                    "texto_alternativo": null,
+                    "autor": null,
+                    "local": null,
+                    "tema": null,
+                    "data": null,
+                    "institucional": "Não",
+                    "sizes": [
+                        {
+                            "tipo": "thumbnail",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/img20190605111111395MED-150x150.jpg",
+                            "width": 150,
+                            "height": 150
+                        },
+                        {
+                            "tipo": "medium",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/img20190605111111395MED-300x200.jpg",
+                            "width": 300,
+                            "height": 200
+                        },
+                        {
+                            "tipo": "medium_large",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/img20190605111111395MED-768x511.jpg",
+                            "width": 768,
+                            "height": 511
+                        },
+                        {
+                            "tipo": "twentyseventeen-thumbnail-avatar",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/img20190605111111395MED-100x100.jpg",
+                            "width": 100,
+                            "height": 100
+                        },
+                        {
+                            "tipo": "Personalizado_1",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/img20190605111111395med-440x262.jpg",
+                            "width": "440",
+                            "height": "262"
+                        },
+                        {
+                            "tipo": "Personalizado_2",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/img20190605111111395med-440x262.jpg",
+                            "width": "440",
+                            "height": "262"
+                        },
+                        {
+                            "tipo": "Personalizado_3",
+                            "url": "https://socithom.camara.gov.br/midias/image/2019/07/img20190605111111395med-440x262.jpg",
+                            "width": "440",
+                            "height": "262"
+                        }
+                    ],
+                    "url": "https://socithom.camara.gov.br/midias/image/2019/07/img20190605111111395MED.jpg",
+                    "url_midia": null,
+                    "url_thumb_midia": null
+                }
+            ],
+            "videos": [],
+            "audios": [],
+            "horario": "",
+            "rodape": "Apresentação - Maristela Sant’Ana",
+            "data_estreia": "",
+            "hora_estreia": "",
+            "info_paginador": {
+                "pagina": 0,
+                "count": "4",
+                "paginas": 1
+            }
+        }
+    ]
+}

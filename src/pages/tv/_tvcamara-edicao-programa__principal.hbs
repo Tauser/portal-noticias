@@ -1,0 +1,53 @@
+<section class="secao-principal">
+  <div class="container container--inner-page">
+
+    <article class="g-artigo g-artigo--video">
+
+      {{#if dados.programaPrincipal}}
+      <h2 class="g-artigo__categoria g-artigo__categoria--grande g-artigo__categoria--fundo-azul">
+        {{dados.programaPrincipal.titulo}}
+      </h2>
+      {{/if}}
+
+      <aside class="l-acoes-apoio">
+        <div class="acoes-apoio">
+          <button class="acoes-apoio__item js-acao-compartilhamento">
+            <i class="fas fa-share-alt" aria-hidden="true"></i><span class="sr-only">Compartilhe</span>
+          </button>
+
+          <button class="acoes-apoio__item js-acao-impressao">
+            <i class="fas fa-print" aria-hidden="true"></i><span class="sr-only">Versão para
+              impressão</span>
+          </button> <!-- versão para impressão em telas pequenas? -->
+
+          <button class="acoes-apoio__item">
+            <i class="far fa-comment-alt" aria-hidden="true"></i><span class="acoes-apoio__qtd-comentario">11</span><span
+              class="sr-only">Comentários</span>
+          </button> <!-- versão para impressão em telas pequenas? -->
+        </div>
+      </aside>
+
+      <p class="g-artigo__data-hora"><strong>{{dados.dataHora}}</strong></p>
+
+      {{#if dados.videos}}
+      {{#each dados.videos as |video key|}}
+      <div class="video-principal">
+        {{!-- <span>ao vivo</span> --}}
+        {{!-- <a href="link-para-o-audio"><span>ícone do áudio</span><span>escute</span></a> --}}
+        <video class="l-transmissoes__video mejs__player" controls poster="{{video.videoPoster}}" data-mejsoptions='{"stretching":"responsive"}'>
+          <source src="{{video.url}}" type='video/mp4;codecs="avc1.4D401E, mp4a.40.2"'>
+          <p>Seu navegador não consegue mostrar o vídeo aqui. Você pode tentar fazer o seu
+            <a href="{{video.url}}">download</a>.
+          </p>
+        </video>
+      </div>
+      {{/each}}
+      {{/if}}
+
+      {{!-- <p class="g-artigo__data-hora">{{dados.dataFormatada}} - {{dados.horaFormatada}}</p> --}}
+      <h3 class="g-artigo__titulo">{{dados.titulo}}</h3>
+      <div class="g-artigo__descricao">{{{dados.conteudo}}}</div>
+      <p class="g-artigo__descricao">{{{dados.rodape}}}</p>
+    </article>
+  </div>
+</section>

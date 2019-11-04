@@ -1,0 +1,603 @@
+{
+  "id": 525,
+  "tipo_conteudo": "edicao_programa_tv",
+  "objeto_wp": {
+    "label": "Edição de Programa de Tv",
+    "capability": "post"
+  },
+  "link": "/tv/525-casa-das-palavras-papo-com-elvira-lobato-e-alberto-lima/",
+  "area_conteudo": {
+    "id": 385724,
+    "name": "TV",
+    "slug": "tv"
+  },
+  "path_separado": [
+    "tv",
+    "525-casa-das-palavras-papo-com-elvira-lobato-e-alberto-lima"
+  ],
+  "breadcrumbs": [
+    {
+      "nivel": 0,
+      "name": "TV",
+      "slug": "tv",
+      "id": 385724,
+      "link": "/385724-tv"
+    }
+  ],
+  "menu_local": "",
+  "titulo": "Casa das Palavras: papo com Elvira Lobato e Alberto Lima",
+  "data": 1556181000,
+  "data_formatada": "25/04/2019",
+  "hora_formatada": "08:30",
+  "data_atualizacao": 1560250093,
+  "data_atualizacao_formatada": "11/06/2019",
+  "hora_atualizacao_formatada": "10:48",
+  "conteudo": "<p>Elvira Lobato é uma jornalista investigativa que se dedicou fortemente ao exame crítico da política de comunicação, com destaque para a televisão.</p>\n<p>É autora de vários livros sobre esse tema, e o último é “Antenas da Floresta: As Aventuras das TVs da Amazônia”, escrito depois de diversas viagens nos anos de 2015 e 2016 por diversos estados da Amazônia Legal. No livro, ela conta histórias de repórteres, cinegrafistas e editores daquela região. Uma das principais constatações é o uso explícito das TVs pelos políticos. Ela diz que todos os caciques políticos têm televisão e os jornalistas se aliam aos interesses dos patrões, e o que é pior ainda: isso é normal para eles.</p>\n<p>No segundo bloco, mergulhamos na extensa obra musical de Chico Buarque, que já foi tema de vários estudos e teses. Um aspecto muito comentado e pouco analisado é a forma como ele trata a mulher nas letras de suas músicas. O jornalista Alberto Lima pesquisou o tema durante seu mestrado na França e o resultado é o livro “Quem É Essa Mulher? – A Alteridade Do Feminino Na Obra Musical De Chico Buarque De Holanda”.</p>\n",
+  "resumo": "Nesta edição, conversas sobre os livros \"Antenas da Floresta: as aventuras das TVs da Amazônia\" e \"Quem É Essa Mulher?\"",
+  "imagens": [
+    {
+      "nome": "Arraia do samba",
+      "descricao": "Festa junina - são joão - arraiá",
+      "legenda": "",
+      "texto_alternativo": "Festa junina - são joão - arraiá",
+      "autor": "Pixabay",
+      "local": "",
+      "tema": null,
+      "data": "",
+      "institucional": "Não",
+      "sizes": [
+        {
+          "tipo": "thumbnail",
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-150x150.jpg",
+          "width": 150,
+          "height": 150
+        },
+        {
+          "tipo": "medium",
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-300x225.jpg",
+          "width": 300,
+          "height": 225
+        },
+        {
+          "tipo": "medium_large",
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-768x576.jpg",
+          "width": 768,
+          "height": 576
+        },
+        {
+          "tipo": "twentyseventeen-thumbnail-avatar",
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-100x100.jpg",
+          "width": 100,
+          "height": 100
+        }
+      ],
+      "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "nome": "file_example_MP4_1280_10MG",
+      "descricao": "",
+      "legenda": "",
+      "texto_alternativo": null,
+      "autor": null,
+      "local": null,
+      "tema": null,
+      "data": null,
+      "institucional": "Não",
+      "sizes": null,
+      "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/video/2019/05/file_example_MP4_1280_10MG.mp4"
+    }
+  ],
+  "audios": [],
+  "arquivos": [],
+  "tags_conteudo": [],
+  "horario": null,
+  "tema_principal": {
+    "id": 133,
+    "titulo": "Política"
+  },
+  "outros_temas": [],
+  "rodape": "",
+  "tipo_midia": "VIDEO",
+  "tipo_noticia": "EPISODIO",
+  "materias_relacionadas": [],
+  "visivel_boletim": "não",
+  "visivel_home": "não",
+  "portal_congresso": "não",
+  "programa_principal": {
+    "id": 327,
+    "data": 1555083101,
+    "data_formatada": "12/04/2019",
+    "titulo": "Casa das Palavras",
+    "conteudo": "Com formato e conteúdo inovador, mergulha no universo da literatura pela ótica de quem mais entende do assunto: escritores, intelectuais, acadêmicos, parlamentares (que dão dicas de leitura) e leitores apaixonados.",
+    "hora_formatada": "15:31",
+    "tema_principal": "",
+    "link": "/tv/525-casa-das-palavras-papo-com-elvira-lobato-e-alberto-lima/",
+    "horario": "",
+    "resumo": "O programa mergulha no universo da literatura pela ótica de quem mais entende do assunto: escritores, intelectuais, acadêmicos, parlamentares e leitores apaixonados.",
+    "imagens": [
+      {
+        "nome": "Arraia do samba",
+        "descricao": "Festa junina - são joão - arraiá",
+        "legenda": "",
+        "texto_alternativo": "Festa junina - são joão - arraiá",
+        "autor": "Pixabay",
+        "local": "",
+        "tema": null,
+        "data": "",
+        "institucional": "Não",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-150x150.jpg",
+            "width": 150,
+            "height": 150
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-300x225.jpg",
+            "width": 300,
+            "height": 225
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-768x576.jpg",
+            "width": 768,
+            "height": 576
+          },
+          {
+            "tipo": "twentyseventeen-thumbnail-avatar",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-100x100.jpg",
+            "width": 100,
+            "height": 100
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1.jpg"
+      },
+      {
+        "nome": "chuttersnap-1546122-unsplash",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": null,
+        "autor": null,
+        "local": null,
+        "tema": null,
+        "data": null,
+        "institucional": "Não",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-150x150.jpg",
+            "width": 150,
+            "height": 150
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-300x200.jpg",
+            "width": 300,
+            "height": 200
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-768x512.jpg",
+            "width": 768,
+            "height": 512
+          },
+          {
+            "tipo": "large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-1024x683.jpg",
+            "width": 1024,
+            "height": 683
+          },
+          {
+            "tipo": "twentyseventeen-featured-image",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-2000x1200.jpg",
+            "width": 2000,
+            "height": 1200
+          },
+          {
+            "tipo": "twentyseventeen-thumbnail-avatar",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-100x100.jpg",
+            "width": 100,
+            "height": 100
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash.jpg"
+      },
+      {
+        "nome": "kevin-grieve-1470210-unsplash",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": null,
+        "autor": null,
+        "local": null,
+        "tema": null,
+        "data": null,
+        "institucional": "Não",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-150x150.jpg",
+            "width": 150,
+            "height": 150
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-300x200.jpg",
+            "width": 300,
+            "height": 200
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-768x512.jpg",
+            "width": 768,
+            "height": 512
+          },
+          {
+            "tipo": "large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-1024x683.jpg",
+            "width": 1024,
+            "height": 683
+          },
+          {
+            "tipo": "twentyseventeen-featured-image",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-2000x1200.jpg",
+            "width": 2000,
+            "height": 1200
+          },
+          {
+            "tipo": "twentyseventeen-thumbnail-avatar",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-100x100.jpg",
+            "width": 100,
+            "height": 100
+          },
+          {
+            "tipo": "Personalizado_1",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-498x504.jpg",
+            "width": "498",
+            "height": "504"
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash.jpg"
+      }
+    ]
+  },
+  "outros_programas": [],
+  "data_estreia": "",
+  "hora_estreia": "",
+  "destaque_home_programa": "não",
+  "destaque_home_tematica": "não",
+  "deputados": [],
+  "projetos_de_lei": [],
+  "projeto_lei_principal": [],
+  "comentarios_sisnews": [],
+  "total_comentarios_sisnews": 0,
+  "ultimas": [
+    {
+      "id": 525,
+      "titulo": "Casa das Palavras: papo com Elvira Lobato e Alberto Lima",
+      "link": "/tv/525-casa-das-palavras-papo-com-elvira-lobato-e-alberto-lima/",
+      "data": "2019-04-25 08:30:00",
+      "data_formatada": "25/04/2019",
+      "hora_formatada": "08:30",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "<p>Elvira Lobato é uma jornalista investigativa que se dedicou fortemente ao exame crítico da política de comunicação, com destaque para a televisão.</p>\n<p>É autora de vários livros sobre esse tema, e o último é “Antenas da Floresta: As Aventuras das TVs da Amazônia”, escrito depois de diversas viagens nos anos de 2015 e 2016 por diversos estados da Amazônia Legal. No livro, ela conta histórias de repórteres, cinegrafistas e editores daquela região. Uma das principais constatações é o uso explícito das TVs pelos políticos. Ela diz que todos os caciques políticos têm televisão e os jornalistas se aliam aos interesses dos patrões, e o que é pior ainda: isso é normal para eles.</p>\n<p>No segundo bloco, mergulhamos na extensa obra musical de Chico Buarque, que já foi tema de vários estudos e teses. Um aspecto muito comentado e pouco analisado é a forma como ele trata a mulher nas letras de suas músicas. O jornalista Alberto Lima pesquisou o tema durante seu mestrado na França e o resultado é o livro “Quem É Essa Mulher? – A Alteridade Do Feminino Na Obra Musical De Chico Buarque De Holanda”.</p>\n",
+      "imagens": [
+        {
+          "nome": "Arraia do samba",
+          "descricao": "Festa junina - são joão - arraiá",
+          "legenda": "",
+          "texto_alternativo": "Festa junina - são joão - arraiá",
+          "autor": "Pixabay",
+          "local": "",
+          "tema": null,
+          "data": "",
+          "institucional": "Não",
+          "sizes": [
+            {
+              "tipo": "thumbnail",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "tipo": "medium",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-300x225.jpg",
+              "width": 300,
+              "height": 225
+            },
+            {
+              "tipo": "medium_large",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-768x576.jpg",
+              "width": 768,
+              "height": 576
+            },
+            {
+              "tipo": "twentyseventeen-thumbnail-avatar",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-100x100.jpg",
+              "width": 100,
+              "height": 100
+            }
+          ],
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1.jpg"
+        }
+      ],
+      "videos": [
+        {
+          "nome": "file_example_MP4_1280_10MG",
+          "descricao": "",
+          "legenda": "",
+          "texto_alternativo": null,
+          "autor": null,
+          "local": null,
+          "tema": null,
+          "data": null,
+          "institucional": "Não",
+          "sizes": null,
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/video/2019/05/file_example_MP4_1280_10MG.mp4"
+        }
+      ],
+      "audios": [],
+      "horario": ""
+    },
+    {
+      "id": 528,
+      "titulo": "Papo com Elvira Lobato e Alberto Lima",
+      "link": "/tv/525-casa-das-palavras-papo-com-elvira-lobato-e-alberto-lima/",
+      "data": "2018-08-09 21:30:00",
+      "data_formatada": "09/08/2018",
+      "hora_formatada": "21:30",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "<p>Elvira Lobato é uma jornalista investigativa que se dedicou fortemente ao exame crítico da política de comunicação, com destaque para a televisão.</p>\n<p>É autora de vários livros sobre esse tema, e o último é “Antenas da Floresta: As Aventuras das TVs da Amazônia”, escrito depois de diversas viagens nos anos de 2015 e 2016 por diversos estados da Amazônia Legal. No livro, ela conta histórias de repórteres, cinegrafistas e editores daquela região. Uma das principais constatações é o uso explícito das TVs pelos políticos. Ela diz que todos os caciques políticos têm televisão e os jornalistas se aliam aos interesses dos patrões, e o que é pior ainda: isso é normal para eles.</p>\n<p>No segundo bloco, mergulhamos na extensa obra musical de Chico Buarque, que já foi tema de vários estudos e teses. Um aspecto muito comentado e pouco analisado é a forma como ele trata a mulher nas letras de suas músicas. O jornalista Alberto Lima pesquisou o tema durante seu mestrado na França e o resultado é o livro “Quem É Essa Mulher? – A Alteridade Do Feminino Na Obra Musical De Chico Buarque De Holanda”.</p>\n",
+      "imagens": [
+        {
+          "nome": "A Música do Dia",
+          "descricao": "",
+          "legenda": "",
+          "texto_alternativo": null,
+          "autor": "Rádio Câmara",
+          "local": "Câmara dos Deputados",
+          "tema": null,
+          "data": "15/05/2019",
+          "institucional": "Não",
+          "sizes": [
+            {
+              "tipo": "thumbnail",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190314171011627-150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "tipo": "medium",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190314171011627-300x200.jpg",
+              "width": 300,
+              "height": 200
+            },
+            {
+              "tipo": "medium_large",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190314171011627-768x512.jpg",
+              "width": 768,
+              "height": 512
+            },
+            {
+              "tipo": "large",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190314171011627-1024x683.jpg",
+              "width": 1024,
+              "height": 683
+            },
+            {
+              "tipo": "twentyseventeen-featured-image",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190314171011627-2000x1200.jpg",
+              "width": 2000,
+              "height": 1200
+            },
+            {
+              "tipo": "twentyseventeen-thumbnail-avatar",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190314171011627-100x100.jpg",
+              "width": 100,
+              "height": 100
+            },
+            {
+              "tipo": "Personalizado_1",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190314171011627-757x423.jpg",
+              "width": "757",
+              "height": "423"
+            }
+          ],
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190314171011627.jpg"
+        }
+      ],
+      "videos": [],
+      "audios": [],
+      "horario": ""
+    },
+    {
+      "id": 398,
+      "titulo": "Fake news e eleições",
+      "link": "/tv/398-fake-news-e-eleicoes/",
+      "data": "2018-08-07 21:00:00",
+      "data_formatada": "07/08/2018",
+      "hora_formatada": "21:00",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "<p><strong>Participantes:</strong></p>\n<p>– Deputado Hildo Rocha (MDB-MA);<br />\n– Deputado Pompeo de Mattos (PDT-RS);<br />\n– Avelino Zorzo, Professor da PUC/RS, Coordenador do Grupo Confiabilidade e Segurança da Informação da PUC e membro da Comissão Especial de segurança da Informação da Sociedade Brasileira de Computação;<br />\n– Carla de Oliveira Rodrigues, especialista em Direito Eleitoral, membro da Comissão de Direito Eleitoral da OAB e da Academia Brasileira de Direito Eleitoral.</p>\n<p><strong>Perguntas, críticas e sugestões:</strong> telefone 0800 619 619, e-mail expressaonacional@camara.leg.br, Twitter @xnacional, Facebook @expressaonacional e WhatsApp (61) 99620-2573.</p>\n",
+      "imagens": [
+        {
+          "nome": "Participação Popular",
+          "descricao": "",
+          "legenda": "",
+          "texto_alternativo": null,
+          "autor": "Secretaria de Comunicação da Câmara dos Deputados",
+          "local": "Câmara dos Deputados",
+          "tema": null,
+          "data": "15/05/2019",
+          "institucional": "Não",
+          "sizes": [
+            {
+              "tipo": "thumbnail",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818-150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "tipo": "medium",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818-300x200.jpg",
+              "width": 300,
+              "height": 200
+            },
+            {
+              "tipo": "medium_large",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818-768x512.jpg",
+              "width": 768,
+              "height": 512
+            },
+            {
+              "tipo": "large",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818-1024x683.jpg",
+              "width": 1024,
+              "height": 683
+            },
+            {
+              "tipo": "twentyseventeen-featured-image",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818-2000x1200.jpg",
+              "width": 2000,
+              "height": 1200
+            },
+            {
+              "tipo": "twentyseventeen-thumbnail-avatar",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818-100x100.jpg",
+              "width": 100,
+              "height": 100
+            },
+            {
+              "tipo": "Personalizado_1",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818-467x262.jpg",
+              "width": "467",
+              "height": "262"
+            },
+            {
+              "tipo": "Personalizado_2",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818-717x480.jpg",
+              "width": "717",
+              "height": "480"
+            }
+          ],
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190311133545818.jpg"
+        }
+      ],
+      "videos": [],
+      "audios": [],
+      "horario": ""
+    },
+    {
+      "id": 385776,
+      "titulo": "Jornal da Câmara | 06/08/2018",
+      "link": "/tv/385776-jornal-da-camara-06-08-2018/",
+      "data": "2018-08-06 20:00:00",
+      "data_formatada": "06/08/2018",
+      "hora_formatada": "20:00",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "<p>Esforço concentrado: deputados podem votar pacote para educação e mudanças no setor aéreo.</p>\n<p>A campanha eleitoral começa no próximo dia 16 e o Jornal da Câmara preparou uma série de reportagens que vão explicar todas as novidades das eleições de outubro.</p>\n<p>E esta edição destaca também:</p>\n<p>&#8211; Audiência Pública discute conflitos fundiários no Norte Minas Gerais;<br />\n&#8211; Comissão de Desenvolvimento Urbano da Câmara debate de como promover cidades justas e inclusivas com a superação do racismo;<br />\n&#8211; A propaganda eleitoral vai permitir que partidos e candidatos paguem para aumentar a divulgação de conteúdo na internet;<br />\n&#8211; Jornal da Câmara leva ao ar uma reportagem especial a partir de hoje sobre a Política Nacional de Resíduos Sólidos.</p>\n<p>Siga-nos no <a href=\"https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a> em outras redes sociais:</p>\n<p><a href=\"https://www.facebook.com/camaradeputados\" target=\"_blank\" rel=\"noopener noreferrer\">www.facebook.com/camaradeputados</a></p>\n<p><a href=\"https://twitter.com/camaradeputados\" target=\"_blank\" rel=\"noopener noreferrer\">www.twitter.com/camaradeputados&#8230;</a></p>\n",
+      "imagens": [
+        {
+          "nome": "chuttersnap-1546122-unsplash",
+          "descricao": "",
+          "legenda": "",
+          "texto_alternativo": null,
+          "autor": null,
+          "local": null,
+          "tema": null,
+          "data": null,
+          "institucional": "Não",
+          "sizes": [
+            {
+              "tipo": "thumbnail",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "tipo": "medium",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-300x200.jpg",
+              "width": 300,
+              "height": 200
+            },
+            {
+              "tipo": "medium_large",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-768x512.jpg",
+              "width": 768,
+              "height": 512
+            },
+            {
+              "tipo": "large",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-1024x683.jpg",
+              "width": 1024,
+              "height": 683
+            },
+            {
+              "tipo": "twentyseventeen-featured-image",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-2000x1200.jpg",
+              "width": 2000,
+              "height": 1200
+            },
+            {
+              "tipo": "twentyseventeen-thumbnail-avatar",
+              "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash-100x100.jpg",
+              "width": 100,
+              "height": 100
+            }
+          ],
+          "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/chuttersnap-1546122-unsplash.jpg"
+        }
+      ],
+      "videos": [],
+      "audios": [],
+      "horario": ""
+    },
+    {
+      "id": 384,
+      "titulo": "Jornal da Câmara | 06/08/2018",
+      "link": "/tv/385776-jornal-da-camara-06-08-2018/",
+      "data": "2018-08-06 20:00:00",
+      "data_formatada": "06/08/2018",
+      "hora_formatada": "20:00",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "<p>Esfor&ccedil;o concentrado: deputados podem votar pacote para educa&ccedil;&atilde;o e mudan&ccedil;as no setor a&eacute;reo.&nbsp;</p>\n<p>\nA campanha eleitoral come&ccedil;a no pr&oacute;ximo dia 16 e o Jornal da C&acirc;mara preparou uma s&eacute;rie de reportagens que v&atilde;o explicar todas as novidades das elei&ccedil;&otilde;es de outubro.</p>\n<p>E esta edi&ccedil;&atilde;o destaca tamb&eacute;m:</p>\n<p>\n&#8211; Audi&ecirc;ncia P&uacute;blica discute conflitos fundi&aacute;rios no Norte Minas Gerais;<br />\n&#8211; Comiss&atilde;o de Desenvolvimento Urbano da C&acirc;mara debate de como promover cidades justas e inclusivas com a supera&ccedil;&atilde;o do racismo;<br />\n&#8211; A propaganda eleitoral vai permitir que partidos e candidatos paguem para aumentar a divulga&ccedil;&atilde;o de conte&uacute;do na internet;<br />\n&#8211; Jornal da C&acirc;mara leva ao ar uma reportagem especial a partir de hoje sobre a Pol&iacute;tica Nacional de Res&iacute;duos S&oacute;lidos.</p>\n<p>Siga-nos no <a href=\"https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube</a> em outras redes sociais:</p>\n<p><a href=\"https://www.facebook.com/camaradeputados\" target=\"_blank\" rel=\"noopener noreferrer\">www.facebook.com/camaradeputados</a></p>\n<p><a href=\"https://twitter.com/camaradeputados\" target=\"_blank\" rel=\"noopener noreferrer\">www.twitter.com/camaradeputados&#8230;</a></p>\n",
+      "imagens": [],
+      "videos": [],
+      "audios": [],
+      "horario": ""
+    },
+    {
+      "id": 385629,
+      "titulo": "Novas regras eleitorais",
+      "link": "/tv/385629-novas-regras-eleitorais/",
+      "data": "2018-08-06 13:00:00",
+      "data_formatada": "06/08/2018",
+      "hora_formatada": "13:00",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "<p>As elei&ccedil;&otilde;es de 2018 vir&atilde;o com novidades para os eleitores e candidatos. Novas regras aprovadas pelo Congresso incluem doa&ccedil;&otilde;es de pessoas f&iacute;sicas por meio de vaquinhas virtuais, metas de desempenho m&iacute;nimo nas urnas para candidatos se elegerem e para partidos terem acesso ao Fundo Partid&aacute;rio. Al&eacute;m disso, ser&aacute; a primeira vez que uma elei&ccedil;&atilde;o ser&aacute; financiada sem a participa&ccedil;&atilde;o de empresas.</p>\n<p>O Participa&ccedil;&atilde;o Popular discute as novas regras das elei&ccedil;&otilde;es e, tamb&eacute;m, alguns mitos populares como o de que muitos votos nulos invalidariam uma elei&ccedil;&atilde;o ou de que candidatos mais votados possam assumir cargos sem que se considere a proporcionalidade partid&aacute;ria.</p>\n<p><strong>Convidados:<br />\n</strong></p>\n<p>&ndash; Fernando Alencastro, secret&aacute;rio judici&aacute;rio do Tribunal Superior Eleitoral (TSE); <br />\n&ndash; Fl&aacute;vio Britto, desembargador eleitoral (TRE/DF), cientista pol&iacute;tico e professor da Universidade de Bras&iacute;lia (UnB);<br />\n&ndash; Deputado Marcelo Castro (MDB/PI).</p>\n<p><strong>Perguntas, cr&iacute;ticas e sugest&otilde;es:</strong> 0800 619 619, e-mail participacaopopular@camara.leg.br, Twitter @participacaopop e WhatsApp (61) 99620-2573.</p>\n<p>Siga-nos tamb&eacute;m no <a href=\"https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA\" target=\"_blank\" rel=\"noopener noreferrer\">YouTube </a>e em outras redes sociais:</p>\n<p>http://<a href=\"https://www.facebook.com/camaradeputados\" target=\"_blank\" rel=\"noopener noreferrer\">www.facebook.com/camaradeputados </a><br />\nhttp://<a href=\"https://twitter.com/camaradeputados\" target=\"_blank\" rel=\"noopener noreferrer\">www.twitter.com/camaradeputados</a></p>\n",
+      "imagens": [],
+      "videos": [],
+      "audios": [],
+      "horario": ""
+    }
+  ],
+  "pagina_tematica": {
+    "tema": "Política",
+    "link": "/temas/politica-e-administracao-publica",
+    "tematica": "Política e Administração Pública"
+  }
+}

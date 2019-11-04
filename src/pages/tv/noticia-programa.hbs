@@ -1,0 +1,34 @@
+{{#> templates/base--breadcrumbs title="Portal da Câmara dos Deputados" description="Portal da Câmara dos Deputados"
+breadcrumbs-itens=breadcrumbs }}
+
+{{#*inline "content-block-base--breadcrumbs"}}
+<div class="container">
+  {{> pages/tv/_tvcamara-programa__principal}}
+  {{> pages/tv/_tvcamara-programa__banner}}
+  {{> pages/tv/_tvcamara-programa__edicoes-anteriores}}
+</div>
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+
+<meta property="og:title" content="{{dados.titulo}}" />
+{{#if dados.resumo }}
+<meta property="og:description" content="{{dados.resumo}}" />
+{{/if}}
+
+{{#if dados.imagens }}
+<meta property="og:image" content="{{urlImagemAssociada dados.imagens}}" />
+{{/if}}
+
+<meta property="og:url" content="{{dados.link}}" />
+<meta property="og:type" content="article" />
+<meta property="fb:app_id" content="305358806340223" />
+
+<link rel="stylesheet" href="{{baseUrlTema}}/home/index.css">
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/tvcamara-programa.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/home/index.js"></script>
+{{/inline}}
+{{/templates/base--breadcrumbs}}

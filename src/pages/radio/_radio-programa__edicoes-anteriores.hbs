@@ -1,0 +1,15 @@
+<section class="secao-edicoes-anteriores">
+  <div class="container container--inner-page">
+    <h4 class="titulo-secao titulo-secao--radio">Edições Anteriores</h4>
+    <ul class="l-edicoes-anteriores">
+      {{#each dados.ultimas as |materia key|}}
+      <li class="l-edicoes-anteriores__item">
+        <span>{{materia.data_formatada}}</span>
+        <div>
+          <a class="link-reforcado" href="{{materia.link}}">{{materia.titulo}}</a>
+        </div>
+      </li>
+      {{/each}}
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,50 @@
+{
+  "id": 1926,
+  "tipoConteudo": "area_conteudo",
+  "objetoWP": "post",
+  "areaConteudo": {
+    "id": 1926,
+    "name": "TV Câmara",
+    "slug": "tv-camara"
+  },
+  "link": "/1926-tv-camara/",
+  "pathSeparado": [
+    "1926-tv-camara"
+  ],
+  "breadcrumbs": [],
+  "menuLocal": "undefined",
+  "titulo": "TV Câmara",
+  "data": "25/08/1982 15:50",
+  "dataFormatada": "25/08/1982",
+  "horaFormatada": "15:00",
+  "dataAtualizacao": "",
+  "dataAtualizacaoFormatada": "",
+  "horaAtualizacaoFormatada": "",
+  "resumo": "",
+  "temaPrincipal": "",
+  "imagemDestaque": "",
+  "conteudo": "",
+  "rodape": "",
+  "deputados": "",
+  "projetosDeLei": "",
+  "tags": "",
+  "detalhes": "",
+  "home": "",
+  "destaqueTopo": {
+    "id":	"386650",
+    "titulo":	"Reforma da Previdência: regime de capitalização (episódio 4)",
+    "nome":	""
+  },
+  "estreia": {
+    "id":	"525",
+    "titulo":	"Casa das Palavras: papo com Elvira Lobato e Alberto Lima",
+    "nome":	"",
+    "link":	"/tv/525-casa-das-palavras-papo-com-elvira-lobato-e-alberto-lima/",
+    "tema":	"Política",
+    "resumo":	"Elvira Lobato é uma jornalista investigativa que se dedicou fortemente ao exame crítico da política de comunicação, com destaque para a televisão. É autora de vários livros sobre esse tema, e o último é “Antenas da Floresta: As Aventuras das TVs da Amazônia”, escrito depois de diversas viagens nos anos de 2015 e 2016 por  ... ",
+    "poster":	"https://socittes.camara.gov.br/tema/assets/images/_placeholders/video-placeholder.png",
+    "video":	"https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/video/2019/05/file_example_MP4_1280_10MG.mp4",
+    "audio":	""
+  },
+  "html": "<div> [eh-tv-destaque-topo-container] [eh-assista-tv-container] [eh-tv-estreia-container] </div>"
+}

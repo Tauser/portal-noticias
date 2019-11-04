@@ -1,0 +1,26 @@
+{{!-- // Modal --}}
+<div class="modal fade media-modal" id="video-modal-mediaelement" tabindex="-1" role="dialog" aria-labelledby="video-modal-mediaelement-label"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content media-modal__conteudo">
+            <div class="modal-header media-modal__titulo">
+                <h5 class="modal-title" id="video-modal-mediaelement-label">Por quê boa parte dos projetos não passa pelo
+                    plenário?
+                </h5>
+                <button type="button" class="close media-modal__close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div id="video-mediaelement-modal-body" class="modal-body" style="display: none;">
+                {{!-- Exemplo de vídeo no servidor (e não no youtube) --}}
+                <video id="video-mediaelement" class="media-modal__video js-mejs-reset-on-hide" controls poster="{{baseUrlTema}}/assets/images/_placeholders/video-poster.png"
+                    data-mejsoptions='{"stretching":"responsive"}'>
+                    <source id="sourceModalVideo" src=""
+                        type='video/mp4;codecs="avc1.4D401E, mp4a.40.2"'>
+                    <source src="" type='video/webm;codecs="vp8, vorbis"'>
+                    <p>Seu navegador não consegue mostrar o vídeo aqui. Você pode tentar fazer o seu <a href="">download</a>.</p>
+                </video>
+            </div>
+        </div>
+    </div>
+</div>

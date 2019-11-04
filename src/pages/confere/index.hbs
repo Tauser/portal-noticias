@@ -1,0 +1,29 @@
+{{#> templates/landing-pages title="Confere"
+ description="Confere"
+ main-heading="Confere"
+ breadcrumbs-itens='[{"rotulo":"Comunicação", "link":"#"}]'
+ menu-itens='[
+{"rotulo":"Boas Práticas", "link":"#","scrolling":"data-smooth-scrolling"},
+{"rotulo":"Política de uso", "link":"#","scrolling":"data-smooth-scrolling"}
+]'
+}}
+
+{{#*inline "content-block-landing-pages"}}
+
+    <div class="noticias-conteiner">
+
+        {{> pages/confere/includes/home/_confere__principais}}
+
+    </div>
+
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+    <link rel="stylesheet"  href="{{baseUrlTema}}/comunicacao/confere.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+    <script src="{{baseUrlTema}}/noticias.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}

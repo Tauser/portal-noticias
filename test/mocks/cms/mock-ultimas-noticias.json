@@ -1,0 +1,55 @@
+    {
+        "id": 2010,
+        "tipo_conteudo": "pagina_dinamica",
+        "objeto_wp": {
+            "label":    "Notícias",
+            "capability":   "post"
+        },
+        "area_conteudo": {
+            "id": 1925,
+            "name": "Notícias",
+            "slug": "noticias"
+        },
+        "link": "/noticias/2010-ultimas-noticias/",
+        "path_separado": [
+            "noticias",
+            "2010-ultimas-noticias"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Notícias",
+                "slug": "noticias",
+                "id": 1925,
+                "link": "/portal/1925-noticias"
+            },
+            {
+                "nivel": 1,
+                "name": "Últimas Notícias",
+                "slug": "ultimas-noticias",
+                "id": 2010,
+                "link": "/portal/noticias/2010-ultimas-noticias"
+            }
+        ],
+        "menu_local": [
+            {
+                "ID": 1925,
+                "label": "Notícias",
+                "slug": "noticias",
+                "link": "/portal/1925-noticias"
+            }
+        ],
+        "titulo": "Últimas Notícias",
+        "parametros_padrao_via_url": "não",
+        "objeto_query": "agencia",
+        "objeto_filtro": null,
+        "titulo_objeto_filtro": null,
+        "qtde_por_pagina": "30",
+        "pagina": 1,
+        "ordenado_por": "date",
+        "ordem": "desc",
+        "taxonomia_filtro": "",
+        "slug_taxonomia_filtro": "",
+        "total_posts": 0,
+        "posts": []
+    }

@@ -1,0 +1,22 @@
+{{#if dados.tempoReal}}
+<section class="secao-tempo-real">
+    <div class="container container--inner-page">
+        <div class="divBlocoContinuacao">
+            <div id="outrasTemporeal">
+                <h4>Tempo real:</h4>
+                <ul>
+                    {{#each dados.tempoReal}}
+                        <li>
+                            <span class="hora">{{this.hora}}</span> &nbsp;- 
+                            <a href="{{this.link}}">
+                                {{this.titulo}}
+                            </a>
+                        </li>
+                    {{/each}}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+{{/if}}
+

@@ -1,0 +1,188 @@
+<section class="noticias-conteiner">
+  {{!-- Início container --}}
+  <div class="container">
+    <h2 class="sr-only">Notícias de Assessoria de Imprensa</h2>
+
+    <div class="l-grid l-grid--lg-6-3-3">
+      {{!-- Coluna 1 --}}
+      <div class="l-grid__item">
+        {{!-- Manchete das notícias --}}
+        <article class="g-chamada g-chamada--manchete">
+          <a class="g-chamada__selo-video" href="#noticia-modal" data-toggle="modal" data-target="#noticia-modal">
+            <img class="g-chamada__imagem" src="https://via.placeholder.com/1000x550?text=1000x550"
+              alt="Vídeo sobre regras para casos de desistência da compra de imóvel">
+          </a>
+
+          <span class="g-chamada__retranca">Tema</span>
+
+          <h3 class="g-chamada__titulo">
+            <a class="g-chamada__titulo-link" href="">Câmara aprova regras para casos de desistência da compra de
+              imóvel</a>
+          </h3>
+
+          <p class="g-chamada__descricao">O Plenário aprovou a proposta que disciplina os valores a receber pelo
+            mutuário na desistência da compra de imóvel.</p>
+        </article>
+
+        {{!-- Mais notícias da primeira coluna --}}
+        <div class="l-grid l-grid--lg-6-6">
+          <div class="l-grid__item">
+            <article class="g-chamada chamada--abaixo-manchete">
+              <span class="g-chamada__retranca">Tema</span>
+
+              <h3 class="g-chamada__titulo">
+                <a class="g-chamada__titulo-link" href="">Licença de cinco dias para avô ou avó maternos de bebê sem
+                  registro</a>
+              </h3>
+            </article>
+          </div>
+
+          <div class="l-grid__item">
+            <article class="g-chamada chamada--abaixo-manchete">
+              <span class="g-chamada__retranca">Tema</span>
+
+              <h3 class="g-chamada__titulo">
+                <a class="g-chamada__titulo-link" href="">Congresso aprova distribuição gratuita de ácido fólico para
+                  gestantes</a>
+              </h3>
+            </article>
+          </div>
+        </div>
+      </div>
+      {{!-- .\ Fim Coluna 1 --}}
+
+      {{!-- Coluna 2 --}}
+      <div class="l-grid__item">
+        <div class="noticias-centro">
+          {{!-- Notícias em destaque --}}
+          <article class="g-chamada">
+            <div class="g-l-chamada-lateral-xs">
+              <div class="g-l-chamada-lateral-xs__imagem">
+                <img class="g-chamada__imagem" src="https://via.placeholder.com/1000x550?text=1000x550"
+                  alt="Foto de grávida com mãos sobre a barriga">
+              </div>
+
+              <div class="g-l-chamada-lateral-xs__texto">
+                <span class="g-chamada__retranca">Tema</span>
+
+                <h3 class="g-chamada__titulo">
+                  <a class="g-chamada__titulo-link" href="">Venda direta de etanol pelo produtor para postos de
+                    combustível</a>
+                </h3>
+
+                <p class="g-chamada__descricao">O Plenário aprovou a proposta que disciplina os valores a receber pelo
+                </p>
+              </div>
+            </div>
+          </article>
+
+          <article class="g-chamada">
+            <div class="g-l-chamada-lateral-xs">
+              <div class="g-l-chamada-lateral-xs__imagem">
+                {{!-- Acrescentar âncora com a classe .g-chamada__selo-video como pai da imagem --}}
+                <a class="g-chamada__selo-video" href="#noticia-modal" data-toggle="modal" data-target="#noticia-modal">
+                  <img class="g-chamada__imagem" src="https://via.placeholder.com/1000x550?text=1000x550"
+                    alt="Vídeo sobre a distribuição gratuita de ácido fólico">
+                </a>
+              </div>
+
+              <div class="g-l-chamada-lateral-xs__texto">
+                <span class="g-chamada__retranca">Tema</span>
+
+                <h3 class="g-chamada__titulo">
+                  <a class="g-chamada__titulo-link" href="">Distribuição gratuita de ácido fólico para gestantes em
+                    situação de risco</a>
+                </h3>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+      {{!-- .\ Fim Coluna 2 --}}
+
+      {{!-- Coluna 3 --}}
+      {{!-- Últimas Notícias --}}
+      <div class="l-grid__item">
+        <article class="g-chamada">
+          <div class="g-l-chamada-lateral-xs">
+            <div class="g-l-chamada-lateral-xs__imagem">
+              <img class="g-chamada__imagem" src="https://via.placeholder.com/1000x550?text=1000x550"
+                alt="Foto de grávida com mãos sobre a barriga">
+            </div>
+
+            <div class="g-l-chamada-lateral-xs__texto">
+              <span class="g-chamada__retranca">Tema</span>
+
+              <h3 class="g-chamada__titulo">
+                <a class="g-chamada__titulo-link" href="">Venda direta de etanol pelo produtor para postos de
+                  combustível</a>
+              </h3>
+
+              <p class="g-chamada__descricao">O Plenário aprovou a proposta que disciplina os valores a receber pelo</p>
+            </div>
+          </div>
+        </article>
+
+        <div class="ultimas-noticias">
+          <h3 id="ultimas-noticias-titulo" class="ultimas-noticias__titulo">
+            <a href="" class="link-com-icone">Últimas</a>
+          </h3>
+
+          {{!-- Início .l-lista-noticias --}}
+          <ul class="l-lista-noticias" aria-labelledby="ultimas-noticias-titulo">
+            <li class="l-lista-noticias__item">
+              <article class="g-chamada">
+                <a class="g-chamada__titulo-link" href="">
+                  <span class="ultimas-noticias__data">13/09 </span>
+                  <span class="ultimas-noticias__hora">08h56 </span>
+                  Termina hoje a fase presencial do Missão Pedagógica no Parlamento 2018
+                </a>
+              </article>
+            </li>
+
+            <li class="l-lista-noticias__item">
+              <article class="g-chamada">
+                <a class="g-chamada__titulo-link" href="">
+                  <span class="ultimas-noticias__data">13/09 </span>
+                  <span class="ultimas-noticias__hora">08h32 </span>
+                  Reforma da Lei de Improbidade Administrativa é tema de audiência pública
+                </a>
+              </article>
+            </li>
+          </ul>
+          {{!-- .\ Fim .l-lista-noticias --}}
+
+          <div class="ultimas-noticias__mais">
+            <a href="#">mais em Últimas <span class="" aria-hidden="true">&rarr;</span></a>
+          </div>
+        </div>
+      </div>
+      {{!-- .\ Fim Coluna 3 --}}
+    </div>
+
+    {{!-- // Modal --}}
+    <div class="modal fade media-modal" id="noticia-modal" tabindex="-1" role="dialog"
+      aria-labelledby="noticia-modal-label" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content media-modal__conteudo">
+          <div class="modal-header media-modal__titulo">
+            <h5 class="modal-title" id="noticia-modal-label">Por quê boa parte dos projetos não passa pelo plenário?
+            </h5>
+            <button type="button" class="close media-modal__close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <video class="media-modal__video js-mejs-reset-on-hide" controls
+              data-mejsoptions='{"stretching":"responsive"}'>
+              <source
+                src="https://www.youtube.com/embed/bUQThBwN1nM?rel=0&modestbranding=1&loop=1&showinfo=0&playlist=bUQThBwN1nM"
+                type='video/youtube'>
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{!-- .\ Fim container --}}
+</section>

@@ -1,0 +1,27 @@
+{{!-- Últimas Notícias --}}
+<div class="ultimas-noticias">
+    <h3 id="ultimas-noticias-titulo" class="ultimas-noticias__titulo">
+        <a href="{{baseUrl}}/assessoria-de-imprensa/ultimas">Últimas</a>
+    </h3>
+
+    {{!-- Início .l-lista-noticias --}}
+    <ul class="l-lista-noticias" aria-labelledby="ultimas-noticias-titulo">
+        {{#each ultimas}}
+        <li class="l-lista-noticias__item">
+            <article class="g-chamada">
+                <a class="g-chamada__titulo-link" href="{{link}}">
+                    <span class="ultimas-noticias__data">{{dataFormatada}} </span>
+                    <span class="ultimas-noticias__hora">{{horaFormatada}} <br/></span>
+                    {{titulo}}
+                </a>
+            </article>
+        </li>
+        {{/each}}
+    </ul>
+    {{!-- .\ Fim .l-lista-noticias --}}
+
+    <div class="ultimas-noticias__mais">
+        <a href="{{baseUrl}}/assessoria-de-imprensa/ultimas">mais em Últimas <span class="" aria-hidden="true">&rarr;</span></a>
+    </div>
+</div>
+{{!-- .\ Fim Coluna 3 --}}

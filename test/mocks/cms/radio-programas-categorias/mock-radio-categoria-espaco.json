@@ -1,0 +1,1830 @@
+[
+    {
+        "id": 386959,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/386959-kalimba-programa-85-cabo-verde-44-anos-de-independencia/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "386959-kalimba-programa-85-cabo-verde-44-anos-de-independencia"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "KALIMBA – PROGRAMA 85 – Cabo Verde – 44 anos de independência",
+        "data": 1562346785,
+        "data_formatada": "05/07/2019",
+        "hora_formatada": "17:13",
+        "conteudo": "",
+        "resumo": "CABO VERDE COMEMORA 44 ANOS.  UM JOVEM PAÍS IRMÃO, COM 500 MIL HABITANTES, QUE IMPRESSIONA POR SUA BELEZA E PELA QUANTIDADE DE ARTISTAS TALENTOSOS QUE REVELA PARA O MUNDO.  \r\nFORMADO POR DEZ ILHAS, A MEIO CAMINHO ENTRE A EUROPA E A AMÉRICA DO SUL, COSTUMAM DIZER QUE CABO VERDE SÃO DEZ GRÃOZINHOS DE TERRA NO MEIO DO ATLÂNTICO, MAS COM MUITA MÚSICA E ALEGRIA.",
+        "imagens": [
+            {
+                "id": 386743,
+                "nome": "img20170824952373555786MED",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/img20170824952373555786MED-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/img20170824952373555786MED-300x183.jpg",
+                        "width": 300,
+                        "height": 183
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/img20170824952373555786MED-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/img20170824952373555786MED.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "DOMINGO ÀS 14 HORAS",
+        "downloads": "não",
+        "acervo": "não",
+        "quantidade_destaques": "",
+        "ordem": "",
+        "ultimas": [],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 386953,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/386953-cancer-de-pele/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "386953-cancer-de-pele"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Câncer de pele",
+        "data": 1562327166,
+        "data_formatada": "05/07/2019",
+        "hora_formatada": "11:46",
+        "conteudo": "",
+        "resumo": "O tratamento e as medidas de prevenção do câncer de pele são explicados pelo dermatologista Elimar Gomes, médico do Centro Oncológico da Beneficência Portuguesa de São Paulo. Em relação ao tratamento, o médico destaca os avanços ocorridos nos últimos anos na imunoterapia.",
+        "imagens": [
+            {
+                "id": 386741,
+                "nome": "roda",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/roda-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/roda-300x184.jpg",
+                        "width": 300,
+                        "height": 184
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/roda-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/roda.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "sexta-feira 17 horas e segunda-feira às 10 horas",
+        "downloads": "não",
+        "acervo": "sim",
+        "quantidade_destaques": "",
+        "ordem": "",
+        "ultimas": [],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 386951,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/386951-memoria-do-rock-157/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "386951-memoria-do-rock-157"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Memória do Rock #157",
+        "data": 1562325687,
+        "data_formatada": "05/07/2019",
+        "hora_formatada": "11:21",
+        "conteudo": "",
+        "resumo": "Programa",
+        "imagens": [
+            {
+                "id": 386728,
+                "nome": "memoriadorock",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/memoriadorock-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/memoriadorock-300x212.jpg",
+                        "width": 300,
+                        "height": 212
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/memoriadorock-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/memoriadorock.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "Sábado, 18h\r\nSexta, 0h00",
+        "downloads": "não",
+        "acervo": "sim",
+        "quantidade_destaques": "",
+        "ordem": "",
+        "ultimas": [],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 363,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/363-primeiros-paragrafos/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "363-primeiros-paragrafos"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Primeiros Parágrafos",
+        "data": 1555083108,
+        "data_formatada": "12/04/2019",
+        "hora_formatada": "15:31",
+        "conteudo": "<p>As frases iniciais de grandes obras da literatura nacional e internacional.</p>\n",
+        "resumo": "As frases iniciais de grandes obras da literatura nacional e internacional.",
+        "imagens": [
+            {
+                "id": 386451,
+                "nome": "x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpg,qposicaoFoto1.pagespeed.ic.OJckyqmn4E",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-300x180.jpg",
+                        "width": 300,
+                        "height": 180
+                    },
+                    {
+                        "tipo": "medium_large",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-768x461.jpg",
+                        "width": 768,
+                        "height": 461
+                    },
+                    {
+                        "tipo": "large",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-1024x615.jpg",
+                        "width": 1024,
+                        "height": 615
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/x83013896_BSBBrasiliaBrasil04-06-2019Presidente-Jair-Bolsonaro-chega-na-Camara-dos-Deputa.jpgqposicaoFoto1.pagespeed.ic_.OJckyqmn4E.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "Diariamente, ao longo da programação",
+        "downloads": "não",
+        "acervo": "não",
+        "quantidade_destaques": "",
+        "ordem": "9",
+        "ultimas": [
+            {
+                "id": 384604,
+                "titulo": "Essa Maldita Farinha, de Rubens Figueiredo",
+                "link": "https://socithom.camara.gov.br/radio/programas/384604-essa-maldita-farinha-de-rubens-figueiredo/",
+                "data": "2018-07-02 16:40:00",
+                "data_formatada": "02/07/2018",
+                "hora_formatada": "16:40",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>&quot;N&atilde;o n&atilde;o. Papel, n&atilde;o. Ningu&eacute;m vai falar de papel aqui. N&atilde;o &eacute; coisa que se fale. Papel. Mas j&aacute; reparou como tem papel por a&iacute;, espalhado, empilhado, grampeado, no mundo inteiro, um mundo de papel. Olha bem. Papel de parede, len&ccedil;o de papel, papel-moeda, toda hora a gente est&aacute; pegando ou olhando para um papel.<br />\nQue nem voc&ecirc; a&iacute; parado.<br />\nE n&atilde;o precisa nem se mexer porque &eacute; aqui perto, bem pertinho, nessa p&aacute;gina mesmo, que tem uma pessoa a um passo e a poucas p&aacute;ginas da maior complica&ccedil;&atilde;o da sua vida por causa de um punhadinho bobo de papel&quot;.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 384603,
+                "titulo": "Doutor Jivago, de Boris Pasternak",
+                "link": "https://socithom.camara.gov.br/radio/programas/384603-doutor-jivago-de-boris-pasternak/",
+                "data": "2018-07-01 16:39:00",
+                "data_formatada": "01/07/2018",
+                "hora_formatada": "16:39",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>&quot;Caminhavam, caminhavam e cantavam &ldquo;Lembran&ccedil;a eterna&rdquo;; mas quando paravam, parecia que, de tanto ser cantada, a m&uacute;sica continuava a ser entoada pelos p&eacute;s das pessoas, pela marcha dos cavalos e pelo sopro do vento. Transeuntes abriam caminho para o cortejo, contavam as coroas de flores, faziam o sinal da cruz. Curiosos se aproximavam da prociss&atilde;o e perguntavam: &quot;Quem morreu?&rdquo;. Respondiam: &ldquo;Jivago&rdquo;. &ldquo;&Eacute; isso. Ent&atilde;o est&aacute; explicado&quot;. &ldquo;N&atilde;o &eacute; ele, &eacute; ela.&rdquo; &ldquo;N&atilde;o faz diferen&ccedil;a. Que Deus a tenha. &Eacute; enterro de rico.&quot; Os &uacute;ltimos minutos passavam rapidamente. Contados irrevers&iacute;veis&quot;.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 384602,
+                "titulo": "Cidade de Deus, de Paulo Lins",
+                "link": "https://socithom.camara.gov.br/radio/programas/384602-cidade-de-deus-de-paulo-lins/",
+                "data": "2018-06-30 16:36:00",
+                "data_formatada": "30/06/2018",
+                "hora_formatada": "16:36",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>&quot;Segundos depois depois de terem sa&iacute;do daquele casar&atilde;o mal-assombrado, Barbantinho e Busca-P&eacute; fumavam um baseado &agrave; beira do rio, na altura do bosque de Eucaliptos. Completamente calados, entreolhavam-se apenas quando um passava o baseado para o outro. Barbantinho imaginava-se em bra&ccedil;adas por detr&aacute;s da arrebenta&ccedil;&atilde;o. Poderia parar agora, ficar boiando, sentindo a &aacute;gua brincar em seu corpo. Espumas dissolveram-se no rosto, e o olhar nos trajetos dos p&aacute;ssaros, enquanto se recuperava para voltar. Evitaria as valas para n&atilde;o ser arrastado pela correnteza, nem ficaria por muito tempo naquela &aacute;gua gelada para n&atilde;o arrumar uma c&atilde;ibra.&quot;</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 384600,
+                "titulo": "O Braço Direito, de Otto Lara Resende",
+                "link": "https://socithom.camara.gov.br/radio/programas/384600-o-braco-direito-de-otto-lara-resende/",
+                "data": "2018-06-29 16:31:00",
+                "data_formatada": "29/06/2018",
+                "hora_formatada": "16:31",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>&quot;Como diz o padre Bernardino, o h&aacute;bito &eacute; uma segunda natureza. N&atilde;o adianta me recolher antes da hora. Custei a arranjar no Asilo repleto de crian&ccedil;as &oacute;rf&atilde;s de cabe&ccedil;as raspadas este cantinho para me esconder. Enquanto todo mundo dorme, posso ler e meditar. Ou nem ler. Nem meditar. Posso escrever, o que &eacute; inconveniente, sobretudo se escrevo sobre mim, para mim mesmo. A menos que aproveite para fazer um exame de consci&ecirc;ncia, o que implica riscos que por enquanto n&atilde;o quero correr. Preciso muito mais esquecer do que lembrar.</p>\n<p>O isolamento em que vivo me deixa inseguro e inquieto. Acordo no meio da noite e j&aacute; nem sei quem sou. Tenho de me agarrar &agrave; beira do abismo para que a vertigem n&atilde;o me arrebate.&quot;</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 384601,
+                "titulo": "Deus de Caim, de Ricardo Guilherme Dick",
+                "link": "https://socithom.camara.gov.br/radio/programas/384601-deus-de-caim-de-ricardo-guilherme-dick/",
+                "data": "2018-06-28 16:34:00",
+                "data_formatada": "28/06/2018",
+                "hora_formatada": "16:34",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>&quot;Na rede L&aacute;zaro. Zumbidos. O irm&atilde;o morto na rede. O mundo rodeando sua roda indiferente. As moscas voavam lentas e pousavam na cara dele. N&atilde;o se importava, L&aacute;zaro morto, narinas paradas. Todos os tel&eacute;grafos diziam: L&aacute;zaro morreu e vai ser enterrado. Para sempre. Antigamente, diziam, havia a ressurrei&ccedil;&atilde;o. Agora n&atilde;o. Agora a sombra que abandona este reino de sombras, caminha para sempre s&oacute;, num outro reino de sombras ainda mais solit&aacute;rias. S&oacute;, como um rei perdido, s&oacute;, sem reinado, na ess&ecirc;ncia redonda da morte.&quot;</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 384597,
+                "titulo": "O Mito de Sísifo, de Albert Camus",
+                "link": "https://socithom.camara.gov.br/radio/programas/384597-o-mito-de-sisifo-de-albert-camus/",
+                "data": "2018-06-27 16:20:00",
+                "data_formatada": "27/06/2018",
+                "hora_formatada": "16:20",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>&quot;S&oacute; existe um problema filos&oacute;fico realmente s&eacute;rio: o suic&iacute;dio. Julgar se a vida vale ou n&atilde;o vale a pena ser vivida &eacute; responder &agrave; pergunta fundamental da filosofia. O resto, se o mundo tem tr&ecirc;s dimens&otilde;es, se o esp&iacute;rito tem nove ou doze categorias, vem depois. Trata-se de jogos. &Eacute; preciso, primeiro, responder. E se &eacute; verdade, como quer Nietzsche, que um fil&oacute;sofo, para ser estimulado, deve pregar com seu exemplo, percebe-se a import&acirc;ncia dessa resposta, porque ela vai anteceder o gesto definitivo. S&atilde;o evid&ecirc;ncias sens&iacute;veis ao cora&ccedil;&atilde;o, mas &eacute; preciso ir mais fundo at&eacute; torn&aacute;-las claras para o esp&iacute;rito&quot;.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            }
+        ],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 364,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/364-samba-da-minha-terra/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "364-samba-da-minha-terra"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Samba da Minha Terra",
+        "data": 1555083108,
+        "data_formatada": "12/04/2019",
+        "hora_formatada": "15:31",
+        "conteudo": "<p>Acompanhe a riqueza poética e melódica do ritmo mais popular do Brasil. Quadros especiais destacam as letras mais requintadas, inovadoras ou significativas, as entrevistas históricas e os espaços dedicados ao samba em todo o país.</p>\n",
+        "resumo": "Acompanhe a riqueza poética e melódica do ritmo mais popular do Brasil. Quadros especiais destacam as letras mais requintadas, inovadoras ou significativas, as entrevistas históricas e os espaços dedicados ao samba em todo o país.",
+        "imagens": [
+            {
+                "id": 386462,
+                "nome": "Arraia do samba",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-300x225.jpg",
+                        "width": 300,
+                        "height": 225
+                    },
+                    {
+                        "tipo": "medium_large",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-768x576.jpg",
+                        "width": 768,
+                        "height": 576
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "Domingo, às 12h, e sexta, às 1h30",
+        "downloads": "não",
+        "acervo": "não",
+        "quantidade_destaques": "",
+        "ordem": "9",
+        "ultimas": [
+            {
+                "id": 386460,
+                "titulo": "Arraiá do Samba",
+                "link": "https://socithom.camara.gov.br/radio/programas/386460-arraia-do-samba/",
+                "data": "2019-06-06 16:46:46",
+                "data_formatada": "06/06/2019",
+                "hora_formatada": "16:46",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Abrindo a temporada de festas juninas, o programa mostra que o samba também embala as homenagens aos santos festeiros Antônio, João e Pedro. <strong>Samba da Minha Terra</strong> monta o seu “terreiro de bambas” nos “arraiás” espalhados pelo país afora. Às vezes com bom humor e sempre com devoção, nossos poetas e cronistas do samba vão agitar as festas juninas com o batuque malemolente do ritmo mais popular do país. Também vai rolar reverência a Jackson do Pandeiro, “o rei do ritmo”, às vésperas de seu centenário de nascimento.</p>\n",
+                "imagens": [
+                    {
+                        "id": 386465,
+                        "nome": "Arraia do samba",
+                        "descricao": "Festa junina - são joão - arraiá",
+                        "legenda": "",
+                        "texto_alternativo": "Festa junina - são joão - arraiá",
+                        "autor": "Pixabay",
+                        "local": "",
+                        "tema": null,
+                        "data": "",
+                        "institucional": "Não",
+                        "sizes": [
+                            {
+                                "tipo": "thumbnail",
+                                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-150x150.jpg",
+                                "width": 150,
+                                "height": 150
+                            },
+                            {
+                                "tipo": "medium",
+                                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-300x225.jpg",
+                                "width": 300,
+                                "height": 225
+                            },
+                            {
+                                "tipo": "medium_large",
+                                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-768x576.jpg",
+                                "width": 768,
+                                "height": 576
+                            },
+                            {
+                                "tipo": "twentyseventeen-thumbnail-avatar",
+                                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1-100x100.jpg",
+                                "width": 100,
+                                "height": 100
+                            }
+                        ],
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/Arraia-do-samba-1.jpg",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    }
+                ],
+                "videos": [],
+                "audios": [
+                    {
+                        "id": 386094,
+                        "nome": "ultimas_20190515_pb_ccj_reforma_tributaria",
+                        "descricao": "\"ultimas_20190515_pb_ccj_reforma_tributaria\". Lançado: 2019. Gênero: Blues.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/05/ultimas_20190515_pb_ccj_reforma_tributaria.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    },
+                    {
+                        "id": 386091,
+                        "nome": "ultimas_20190515_jc_cpi_bndes",
+                        "descricao": "\"ultimas_20190515_jc_cpi_bndes\". Lançado: 2019. Gênero: Blues.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/05/ultimas_20190515_jc_cpi_bndes.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    }
+                ],
+                "horario": ""
+            },
+            {
+                "id": 504,
+                "titulo": "Samba nas novelas",
+                "link": "https://socithom.camara.gov.br/radio/programas/504-samba-nas-novelas/",
+                "data": "2018-08-05 12:02:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "12:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o_TVBrasil_Flickr</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2013/09/img20130920164395787985.jpg\" border=\"0\" alt=\"Paulinho da Viola\" style=\"width:100%; max-height:100%;\" data-width=\"672\" data-height=\"447\" /></div>\n<div class=\"legenda\">Paulinho da Viola</div>\n</div>\n<p>O programa mostra os sambas que embalaram romances e dramas nas telenovelas brasileiras. O ritmo mais popular do pa&iacute;s &eacute; presen&ccedil;a constante nas trilhas sonoras televisivas. &ldquo;Pecado capital&rdquo;, de <strong>Paulinho da Viola</strong>, foi, inclusive, o t&iacute;tulo de uma novela famosa, na d&eacute;cada de 1970.</p>\n<p>Tamb&eacute;m rola uma homenagem ao escritor baiano <strong>Jorge Amado</strong>, que teve v&aacute;rios de seus romances levados para a telinha da TV e alinhavados por belos sambas.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 505,
+                "titulo": "Samba nas novelas",
+                "link": "https://socithom.camara.gov.br/radio/programas/505-samba-nas-novelas/",
+                "data": "2018-08-05 12:00:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "12:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o_TVBrasil_Flickr</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2013/09/img20130920164395787985.jpg\" border=\"0\" alt=\"Paulinho da Viola\" style=\"width:100%; max-height:100%;\" data-width=\"672\" data-height=\"447\" /></div>\n<div class=\"legenda\">Paulinho da Viola</div>\n</div>\n<p>O programa mostra os sambas que embalaram romances e dramas nas telenovelas brasileiras. O ritmo mais popular do pa&iacute;s &eacute; presen&ccedil;a constante nas trilhas sonoras televisivas. &ldquo;Pecado capital&rdquo;, de <strong>Paulinho da Viola</strong>, foi, inclusive, o t&iacute;tulo de uma novela famosa, na d&eacute;cada de 1970.</p>\n<p>Tamb&eacute;m rola uma homenagem ao escritor baiano <strong>Jorge Amado</strong>, que teve v&aacute;rios de seus romances levados para a telinha da TV e alinhavados por belos sambas.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385113,
+                "titulo": "Lançamentos 2018",
+                "link": "https://socithom.camara.gov.br/radio/programas/385113-lancamentos-2018/",
+                "data": "2018-07-08 12:02:00",
+                "data_formatada": "08/07/2018",
+                "hora_formatada": "12:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemQuadradaP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">Fernando Young</div>\n<div class=\"imagem\"><img src=\"http://www2.camara.leg.br/camaranoticias/radio/imagens/imgNoticia-1530884325604.jpg\" border=\"0\" alt=\"Teresa Cristina\" style=\"width:100%; max-height:100%;\" data-width=\"675\" data-height=\"675\" /></div>\n<div class=\"legenda\">Teresa Cristina canta Noel Rosa</div>\n</div>\n<p>Entre os destaques do primeiro semestre deste ano, est&atilde;o os lan&ccedil;amentos de <strong>Carlinhos do Cavaco</strong> (SP), <strong>Illy </strong>(BA) e <strong>Grupo 7 na Roda</strong> (DF), al&eacute;m de <strong>Teresa Cristina</strong> (RJ) com rever&ecirc;ncia a Noel Rosa.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385110,
+                "titulo": "Lançamentos 2018",
+                "link": "https://socithom.camara.gov.br/radio/programas/385110-lancamentos-2018/",
+                "data": "2018-07-08 12:00:00",
+                "data_formatada": "08/07/2018",
+                "hora_formatada": "12:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemQuadradaP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">Fernando Young</div>\n<div class=\"imagem\"><img src=\"http://www2.camara.leg.br/camaranoticias/radio/imagens/imgNoticia-1530884325604.jpg\" border=\"0\" alt=\"Teresa Cristina\" style=\"width:100%; max-height:100%;\" data-width=\"675\" data-height=\"675\" /></div>\n<div class=\"legenda\">Teresa Cristina canta Noel Rosa</div>\n</div>\n<p>Entre os destaques do primeiro semestre deste ano, est&atilde;o os lan&ccedil;amentos de <strong>Carlinhos do Cavaco</strong> (SP), <strong>Illy </strong>(BA) e <strong>Grupo 7 na Roda</strong> (DF), al&eacute;m de <strong>Teresa Cristina</strong> (RJ) com rever&ecirc;ncia a Noel Rosa.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 384739,
+                "titulo": "Batuques da Amazônia",
+                "link": "https://socithom.camara.gov.br/radio/programas/384739-batuques-da-amazonia/",
+                "data": "2018-07-01 12:02:00",
+                "data_formatada": "01/07/2018",
+                "hora_formatada": "12:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemVerticalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">Jos&eacute; Carlos Oliveira</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/06/img20180628144632444.jpg\" border=\"0\" alt=\"Floresta Amaz&ocirc;nica - vit&oacute;ria r&eacute;gia - meio ambiente - Amaz&ocirc;nia\" style=\"width:100%; max-height:100%;\" data-width=\"998\" data-height=\"1000\" /></div>\n<div class=\"legenda\">Vit&oacute;ria-r&eacute;gia</div>\n</div>\n<p>V&atilde;o rolar homenagens ao Festival Folcl&oacute;rico de Parintins (que acontece neste fim de semana) e ao poeta amazonense Chico da Silva, compositor de sambas e de toadas famosas que extrapolaram as fronteiras amaz&ocirc;nicas.</p>\n<p>Conhe&ccedil;a, tamb&eacute;m, outros sambas e batuques de qualidade vindos do Amazonas, Par&aacute;, Acre e Amap&aacute;.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            }
+        ],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 361,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/361-kalimba/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "361-kalimba"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Kalimba",
+        "data": 1555083107,
+        "data_formatada": "12/04/2019",
+        "hora_formatada": "15:31",
+        "conteudo": "<p>Uma grande viagem pela música da África, o continente dos sons. Kalimba mostra a evolução da música dos países africanos e apresenta a diversidade étnica e regional do continente, a partir de seus diversos estilos: a música tradicional, urbana, religiosa, instrumental, eletrônica, etc.</p>\n",
+        "resumo": "Uma grande viagem pela música da África, o continente dos sons. Kalimba mostra a evolução da música dos países africanos e apresenta a diversidade étnica e regional do continente, a partir de seus diversos estilos: a música tradicional, a música urbana, religiosa, instrumental, eletrônica, etc.",
+        "imagens": [
+            {
+                "id": 386743,
+                "nome": "img20170824952373555786MED",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/img20170824952373555786MED-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/img20170824952373555786MED-300x183.jpg",
+                        "width": 300,
+                        "height": 183
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/img20170824952373555786MED-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/img20170824952373555786MED.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "Domingo, às 14h",
+        "downloads": "não",
+        "acervo": "não",
+        "quantidade_destaques": "",
+        "ordem": "9",
+        "ultimas": [
+            {
+                "id": 386649,
+                "titulo": "Jazz na África - Tony Allen",
+                "link": "https://socithom.camara.gov.br/radio/programas/386649-jazz-na-africa-tony-allen/",
+                "data": "2019-06-16 14:01:00",
+                "data_formatada": "16/06/2019",
+                "hora_formatada": "14:01",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" data-onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulgação</div>\n<div class=\"imagem\"><img style=\"width: 100%; max-height: 100%;\" src=\"https://www.camara.leg.br/internet/bancoimagem/banco/2019/06/img20190611191946611.jpg\" alt=\"Tony Allen\" border=\"0\" data-width=\"1000\" data-height=\"500\" /></div>\n<div class=\"legenda\">Tony Allen</div>\n</div>\n<p>Nascido em 1940, <strong>Tony Allen</strong> é considerado um dos maiores bateristas de todos os tempos. Dizem que Fela Kuti escrevia arranjos para todos os músicos de sua banda, menos para Tony Allen. Ele tinha liberdade para criar seus próprios arranjos, inspirados na percussão dos ritmos yorubá.</p>\n<p>Em mais de 50 anos de carreira, Tony Allen já gravou ou participou de uma notável coleção de 77 álbuns, e continua em atividade. Conhecido como criador do afrobeat, o baterista Tony Allen também gravou versões de clássicos do jazz.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [
+                    {
+                        "id": 386747,
+                        "nome": "kalimba_20190616_pgm081_bl01",
+                        "descricao": "\"kalimba_20190616_pgm081_bl01\". Lançado: 2019. Gênero: Other.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/06/kalimba_20190616_pgm081_bl01.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    },
+                    {
+                        "id": 386748,
+                        "nome": "kalimba_20190616_pgm081_bl02",
+                        "descricao": "\"kalimba_20190616_pgm081_bl02\". Lançado: 2019. Gênero: Other.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/06/kalimba_20190616_pgm081_bl02.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    },
+                    {
+                        "id": 386745,
+                        "nome": "kalimba_20190616_pgm081_bl03",
+                        "descricao": "\"kalimba_20190616_pgm081_bl03\". Lançado: 2019. Gênero: Other.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/06/kalimba_20190616_pgm081_bl03.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    },
+                    {
+                        "id": 386746,
+                        "nome": "kalimba_20190616_pgm081_bl04",
+                        "descricao": "\"kalimba_20190616_pgm081_bl04\". Gênero: Other.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/06/kalimba_20190616_pgm081_bl04.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    }
+                ],
+                "horario": ""
+            },
+            {
+                "id": 500,
+                "titulo": "O som do The Nile Project (parte 1)",
+                "link": "https://socithom.camara.gov.br/radio/programas/500-o-som-do-the-nile-project-parte-1/",
+                "data": "2018-08-05 14:04:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "14:04",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180802181430339.jpg\" border=\"0\" alt=\"The Nile Project\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"665\" /></div>\n<div class=\"legenda\"></div>\n</div>\n<p><strong>Kalimba </strong>apresenta o primeiro de dois programas sobre o <strong>The Nile Project</strong>, um projeto de universidades americanas que re&uacute;ne m&uacute;sicos dos pa&iacute;ses da bacia do Rio Nilo para tocarem juntos m&uacute;sicas das diferentes culturas e tradi&ccedil;&otilde;es da regi&atilde;o.</p>\n<p>O projeto j&aacute; gravou dois &aacute;lbuns: o primeiro, <strong>Aswan</strong>, de 2013, e recentemente, <strong>Jinja</strong>, lan&ccedil;ado em 2017. O terceiro &aacute;lbum j&aacute; est&aacute; pronto para o lan&ccedil;amento em 2018.</p>\n<p>Vamos conhecer algumas faixas do primeiro &aacute;lbum, Aswan, gravado ao vivo em concertos apresentados no Egito, na capital Cairo e na cidade de Aswan, &agrave;s margens da grande represa.</p>\n<p>Participaram dessa grava&ccedil;&atilde;o 18 m&uacute;sicos, vindos de Uganda, Eti&oacute;pia, Sud&atilde;o, Sud&atilde;o do Sul e Egito.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 501,
+                "titulo": "O som do The Nile Project (parte 1)",
+                "link": "https://socithom.camara.gov.br/radio/programas/501-o-som-do-the-nile-project-parte-1/",
+                "data": "2018-08-05 14:03:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "14:03",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180802181430339.jpg\" border=\"0\" alt=\"The Nile Project\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"665\" /></div>\n<div class=\"legenda\"></div>\n</div>\n<p><strong>Kalimba </strong>apresenta o primeiro de dois programas sobre o <strong>The Nile Project</strong>, um projeto de universidades americanas que re&uacute;ne m&uacute;sicos dos pa&iacute;ses da bacia do Rio Nilo para tocarem juntos m&uacute;sicas das diferentes culturas e tradi&ccedil;&otilde;es da regi&atilde;o.</p>\n<p>O projeto j&aacute; gravou dois &aacute;lbuns: o primeiro, <strong>Aswan</strong>, de 2013, e recentemente, <strong>Jinja</strong>, lan&ccedil;ado em 2017. O terceiro &aacute;lbum j&aacute; est&aacute; pronto para o lan&ccedil;amento em 2018.</p>\n<p>Vamos conhecer algumas faixas do primeiro &aacute;lbum, Aswan, gravado ao vivo em concertos apresentados no Egito, na capital Cairo e na cidade de Aswan, &agrave;s margens da grande represa.</p>\n<p>Participaram dessa grava&ccedil;&atilde;o 18 m&uacute;sicos, vindos de Uganda, Eti&oacute;pia, Sud&atilde;o, Sud&atilde;o do Sul e Egito.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 502,
+                "titulo": "O som do The Nile Project (parte 1)",
+                "link": "https://socithom.camara.gov.br/radio/programas/502-o-som-do-the-nile-project-parte-1/",
+                "data": "2018-08-05 14:02:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "14:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180802181430339.jpg\" border=\"0\" alt=\"The Nile Project\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"665\" /></div>\n<div class=\"legenda\"></div>\n</div>\n<p><strong>Kalimba </strong>apresenta o primeiro de dois programas sobre o <strong>The Nile Project</strong>, um projeto de universidades americanas que re&uacute;ne m&uacute;sicos dos pa&iacute;ses da bacia do Rio Nilo para tocarem juntos m&uacute;sicas das diferentes culturas e tradi&ccedil;&otilde;es da regi&atilde;o.</p>\n<p>O projeto j&aacute; gravou dois &aacute;lbuns: o primeiro, <strong>Aswan</strong>, de 2013, e recentemente, <strong>Jinja</strong>, lan&ccedil;ado em 2017. O terceiro &aacute;lbum j&aacute; est&aacute; pronto para o lan&ccedil;amento em 2018.</p>\n<p>Vamos conhecer algumas faixas do primeiro &aacute;lbum, Aswan, gravado ao vivo em concertos apresentados no Egito, na capital Cairo e na cidade de Aswan, &agrave;s margens da grande represa.</p>\n<p>Participaram dessa grava&ccedil;&atilde;o 18 m&uacute;sicos, vindos de Uganda, Eti&oacute;pia, Sud&atilde;o, Sud&atilde;o do Sul e Egito.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 503,
+                "titulo": "O som do The Nile Project (parte 1)",
+                "link": "https://socithom.camara.gov.br/radio/programas/503-o-som-do-the-nile-project-parte-1/",
+                "data": "2018-08-05 14:00:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "14:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180802181430339.jpg\" border=\"0\" alt=\"The Nile Project\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"665\" /></div>\n<div class=\"legenda\"></div>\n</div>\n<p><strong>Kalimba </strong>apresenta o primeiro de dois programas sobre o <strong>The Nile Project</strong>, um projeto de universidades americanas que re&uacute;ne m&uacute;sicos dos pa&iacute;ses da bacia do Rio Nilo para tocarem juntos m&uacute;sicas das diferentes culturas e tradi&ccedil;&otilde;es da regi&atilde;o.</p>\n<p>O projeto j&aacute; gravou dois &aacute;lbuns: o primeiro, <strong>Aswan</strong>, de 2013, e recentemente, <strong>Jinja</strong>, lan&ccedil;ado em 2017. O terceiro &aacute;lbum j&aacute; est&aacute; pronto para o lan&ccedil;amento em 2018.</p>\n<p>Vamos conhecer algumas faixas do primeiro &aacute;lbum, Aswan, gravado ao vivo em concertos apresentados no Egito, na capital Cairo e na cidade de Aswan, &agrave;s margens da grande represa.</p>\n<p>Participaram dessa grava&ccedil;&atilde;o 18 m&uacute;sicos, vindos de Uganda, Eti&oacute;pia, Sud&atilde;o, Sud&atilde;o do Sul e Egito.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 664,
+                "titulo": "O som das ilhas: Comores, Seicheles e Reunião",
+                "link": "https://socithom.camara.gov.br/radio/programas/664-o-som-das-ilhas-comores-seicheles-e-reuniao/",
+                "data": "2018-07-29 14:03:00",
+                "data_formatada": "29/07/2018",
+                "hora_formatada": "14:03",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">Reprodu&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180727153024991.jpg\" border=\"0\" alt=\"Kalimba, 29/07/2018 - O som das ilhas: Comores, Seicheles e Reuni&atilde;o\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"664\" /></div>\n<div class=\"legenda\">O&nbsp;som das Ilhas&nbsp;Comores, Seicheles e Reuni&atilde;o</div>\n</div>\n<p>Na primeira parada, as multi&eacute;tnicas <strong>Ilhas Comores</strong>, com suas influ&ecirc;ncias da m&uacute;sica &aacute;rabe e dos tambores africanos.</p>\n<p>Depois, o som tropical das <strong>Ilhas Seicheles</strong>, onde tamb&eacute;m se dan&ccedil;a o Sega, m&uacute;sica de raiz dessas ilhas.</p>\n<p>Na terceira parada, finalmente, chegamos em territ&oacute;rio franc&ecirc;s, na <strong>Ilha de Reuni&atilde;o</strong>.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            }
+        ],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 352,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/352-trilha-da-meia-noite/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "352-trilha-da-meia-noite"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Trilha da Meia-Noite",
+        "data": 1555083106,
+        "data_formatada": "12/04/2019",
+        "hora_formatada": "15:31",
+        "conteudo": "<p>Novidades da cena musical e raridades de nomes consagrados e artistas inovadores. Remixes, trilhas sonoras e música eletrônica. E também gravações ao vivo.</p>\n",
+        "resumo": "Programa traz raridades de nomes consagrados e artistas inovadores, remixes, trilhas sonoras e música eletrônica.",
+        "imagens": [
+            {
+                "id": 386026,
+                "nome": "Programa Câmara Entrevista",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": "TV Câmara",
+                "local": "Câmara dos Deputados",
+                "tema": null,
+                "data": "15/05/2019",
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190312212905013-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190312212905013-300x200.jpg",
+                        "width": 300,
+                        "height": 200
+                    },
+                    {
+                        "tipo": "medium_large",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190312212905013-768x512.jpg",
+                        "width": 768,
+                        "height": 512
+                    },
+                    {
+                        "tipo": "large",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190312212905013-1024x683.jpg",
+                        "width": 1024,
+                        "height": 683
+                    },
+                    {
+                        "tipo": "twentyseventeen-featured-image",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190312212905013-2000x1200.jpg",
+                        "width": 2000,
+                        "height": 1200
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190312212905013-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/img20190312212905013.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "Domingo e sábado, à 0h",
+        "downloads": "sim",
+        "acervo": "não",
+        "quantidade_destaques": "",
+        "ordem": "9",
+        "ultimas": [
+            {
+                "id": 386,
+                "titulo": "Andy Gibb, Stevie Wonder e Heatwave",
+                "link": "https://socithom.camara.gov.br/radio/programas/386-andy-gibb-stevie-wonder-e-heatwave/",
+                "data": "2018-08-05 00:03:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "00:03",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Nesta semana, nossa viagem pelo universo dos sons estreia uma nova atra&ccedil;&atilde;o: na Roda do Tempo, vamos escolher aleatoriamente um ano marcante na hist&oacute;ria da m&uacute;sica e dedicar a ele todo o programa. E para come&ccedil;ar, vamos ouvir doze can&ccedil;&otilde;es que figuraram entre as cem mais tocadas nos Estados Unidos em 1977, com base na famosa classifica&ccedil;&atilde;o da revista Billboard. Fique ligado e venha com a gente percorrer a <strong>Trilha da Meia-Noite</strong>!</p>\n<p>Na nossa primeira esta&ccedil;&atilde;o, vamos ouvir o som de<strong> Andy Gibb</strong>, conhecido por ser o irm&atilde;o &ldquo;rebelde&rdquo; dos Bee Gees. Apesar de sempre contar com o apoio dos irm&atilde;os nas suas grava&ccedil;&otilde;es, ele sempre fez carreira independente. Teremos ainda o funk do grupo Emotions, uma famosa balada da dupla Hall &amp; Oates e um sucesso do cantor Pablo Cruise.</p>\n<p>A segunda esta&ccedil;&atilde;o da Trilha da Meia-Noite abre com o som de<strong> Stevie Wonder</strong>. O &aacute;lbum &ldquo;Songs In The Key Of Life&rdquo; &eacute; o mais importante na obra do artista. Apesar de ter sido lan&ccedil;ado em 1976, continuou implacando sucessos nas paradas no ano seguinte, como &eacute; o caso de &ldquo;I Wish&rdquo;, primeira faixa deste bloco. Teremos ainda o som dos Commodores, da banda pop 10CC e do Fleetwood Mac!</p>\n<p>Nossa terceira esta&ccedil;&atilde;o traz duas can&ccedil;&otilde;es que marcaram o movimento da disco music na segunda metade dos anos 70. O bloco abre com o som dan&ccedil;ante e ao mesmo tempo sofisticado do <strong>Heatwave</strong>, banda que contava com os arranjos de Rod Temperton, que mais tarde seria um grande parceiro na carreira de Michael Jackson. Teremos ainda uma famosa can&ccedil;&atilde;o do K. C. &amp; The Sunshine Band, uma balada do Floaters que se tornou cl&aacute;ssico da m&uacute;sica rom&acirc;ntica e, para encerrar o programa, um tema do cantor Al Stewart, com um bel&iacute;ssimo e longo interl&uacute;dio instrumental. Vale a pena conferir!</p>\n<p>Para enviar cr&iacute;ticas e sugest&otilde;es para o programa, mande um e-mail para:&nbsp;<strong><a href=\"mailto:radio@camara.leg.br\" target=\"_blank\" rel=\"noopener noreferrer\">radio@camara.leg.br</a></strong>, ou use o nosso WhatsApp:&nbsp;<strong>(61) 99978-9080</strong>.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 388,
+                "titulo": "Andy Gibb, Stevie Wonder e Heatwave",
+                "link": "https://socithom.camara.gov.br/radio/programas/388-andy-gibb-stevie-wonder-e-heatwave/",
+                "data": "2018-08-05 00:02:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "00:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Nesta semana, nossa viagem pelo universo dos sons estreia uma nova atra&ccedil;&atilde;o: na Roda do Tempo, vamos escolher aleatoriamente um ano marcante na hist&oacute;ria da m&uacute;sica e dedicar a ele todo o programa. E para come&ccedil;ar, vamos ouvir doze can&ccedil;&otilde;es que figuraram entre as cem mais tocadas nos Estados Unidos em 1977, com base na famosa classifica&ccedil;&atilde;o da revista Billboard. Fique ligado e venha com a gente percorrer a <strong>Trilha da Meia-Noite</strong>!</p>\n<p>Na nossa primeira esta&ccedil;&atilde;o, vamos ouvir o som de<strong> Andy Gibb</strong>, conhecido por ser o irm&atilde;o &ldquo;rebelde&rdquo; dos Bee Gees. Apesar de sempre contar com o apoio dos irm&atilde;os nas suas grava&ccedil;&otilde;es, ele sempre fez carreira independente. Teremos ainda o funk do grupo Emotions, uma famosa balada da dupla Hall &amp; Oates e um sucesso do cantor Pablo Cruise.</p>\n<p>A segunda esta&ccedil;&atilde;o da Trilha da Meia-Noite abre com o som de<strong> Stevie Wonder</strong>. O &aacute;lbum &ldquo;Songs In The Key Of Life&rdquo; &eacute; o mais importante na obra do artista. Apesar de ter sido lan&ccedil;ado em 1976, continuou implacando sucessos nas paradas no ano seguinte, como &eacute; o caso de &ldquo;I Wish&rdquo;, primeira faixa deste bloco. Teremos ainda o som dos Commodores, da banda pop 10CC e do Fleetwood Mac!</p>\n<p>Nossa terceira esta&ccedil;&atilde;o traz duas can&ccedil;&otilde;es que marcaram o movimento da disco music na segunda metade dos anos 70. O bloco abre com o som dan&ccedil;ante e ao mesmo tempo sofisticado do <strong>Heatwave</strong>, banda que contava com os arranjos de Rod Temperton, que mais tarde seria um grande parceiro na carreira de Michael Jackson. Teremos ainda uma famosa can&ccedil;&atilde;o do K. C. &amp; The Sunshine Band, uma balada do Floaters que se tornou cl&aacute;ssico da m&uacute;sica rom&acirc;ntica e, para encerrar o programa, um tema do cantor Al Stewart, com um bel&iacute;ssimo e longo interl&uacute;dio instrumental. Vale a pena conferir!</p>\n<p>Para enviar cr&iacute;ticas e sugest&otilde;es para o programa, mande um e-mail para:&nbsp;<strong><a href=\"mailto:radio@camara.leg.br\" target=\"_blank\" rel=\"noopener noreferrer\">radio@camara.leg.br</a></strong>, ou use o nosso WhatsApp:&nbsp;<strong>(61) 99978-9080</strong>.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 392,
+                "titulo": "Andy Gibb, Stevie Wonder e Heatwave",
+                "link": "https://socithom.camara.gov.br/radio/programas/392-andy-gibb-stevie-wonder-e-heatwave/",
+                "data": "2018-08-05 00:01:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "00:01",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Nesta semana, nossa viagem pelo universo dos sons estreia uma nova atra&ccedil;&atilde;o: na Roda do Tempo, vamos escolher aleatoriamente um ano marcante na hist&oacute;ria da m&uacute;sica e dedicar a ele todo o programa. E para come&ccedil;ar, vamos ouvir doze can&ccedil;&otilde;es que figuraram entre as cem mais tocadas nos Estados Unidos em 1977, com base na famosa classifica&ccedil;&atilde;o da revista Billboard. Fique ligado e venha com a gente percorrer a <strong>Trilha da Meia-Noite</strong>!</p>\n<p>Na nossa primeira esta&ccedil;&atilde;o, vamos ouvir o som de<strong> Andy Gibb</strong>, conhecido por ser o irm&atilde;o &ldquo;rebelde&rdquo; dos Bee Gees. Apesar de sempre contar com o apoio dos irm&atilde;os nas suas grava&ccedil;&otilde;es, ele sempre fez carreira independente. Teremos ainda o funk do grupo Emotions, uma famosa balada da dupla Hall &amp; Oates e um sucesso do cantor Pablo Cruise.</p>\n<p>A segunda esta&ccedil;&atilde;o da Trilha da Meia-Noite abre com o som de<strong> Stevie Wonder</strong>. O &aacute;lbum &ldquo;Songs In The Key Of Life&rdquo; &eacute; o mais importante na obra do artista. Apesar de ter sido lan&ccedil;ado em 1976, continuou implacando sucessos nas paradas no ano seguinte, como &eacute; o caso de &ldquo;I Wish&rdquo;, primeira faixa deste bloco. Teremos ainda o som dos Commodores, da banda pop 10CC e do Fleetwood Mac!</p>\n<p>Nossa terceira esta&ccedil;&atilde;o traz duas can&ccedil;&otilde;es que marcaram o movimento da disco music na segunda metade dos anos 70. O bloco abre com o som dan&ccedil;ante e ao mesmo tempo sofisticado do <strong>Heatwave</strong>, banda que contava com os arranjos de Rod Temperton, que mais tarde seria um grande parceiro na carreira de Michael Jackson. Teremos ainda uma famosa can&ccedil;&atilde;o do K. C. &amp; The Sunshine Band, uma balada do Floaters que se tornou cl&aacute;ssico da m&uacute;sica rom&acirc;ntica e, para encerrar o programa, um tema do cantor Al Stewart, com um bel&iacute;ssimo e longo interl&uacute;dio instrumental. Vale a pena conferir!</p>\n<p>Para enviar cr&iacute;ticas e sugest&otilde;es para o programa, mande um e-mail para:&nbsp;<strong><a href=\"mailto:radio@camara.leg.br\" target=\"_blank\" rel=\"noopener noreferrer\">radio@camara.leg.br</a></strong>, ou use o nosso WhatsApp:&nbsp;<strong>(61) 99978-9080</strong>.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385712,
+                "titulo": "Donna Summer, Aretha Franklin e Amy Winehouse",
+                "link": "https://socithom.camara.gov.br/radio/programas/385712-donna-summer-aretha-franklin-e-amy-winehouse/",
+                "data": "2018-07-29 00:03:00",
+                "data_formatada": "29/07/2018",
+                "hora_formatada": "00:03",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Nossa viagem pelo universo dos sons nesta semana traz o som de tr&ecirc;s grandes cantoras da soul music: duas delas negras norte-americanas; a outra, branca, inglesa e de uma tradicional fam&iacute;lia judia. Quer ouvir e saber mais? Venha com a gente percorrer a <strong>Trilha da Meia-Noite</strong>!</p>\n<p>Nossa primeira esta&ccedil;&atilde;o &eacute; dedicada &agrave; rainha da disco music! Foi nesse estilo, que dominou as pistas de dan&ccedil;a na segunda metade da d&eacute;cada de 70, que <strong>Donna Summer </strong>alcan&ccedil;ou o estrelato na m&uacute;sica pop contempor&acirc;nea. Em 1979, a can&ccedil;&atilde;o &ldquo;Bad Girls&rdquo; foi primeiro lugar por v&aacute;rias semanas na parada americana e fechou o ano como primeiro lugar no Top 100 da revista Billboard. Vamos conferir quatro cl&aacute;ssicos das pistas na voz de Donna Summer!</p>\n<p>Na segunda esta&ccedil;&atilde;o da Trilha, a voz inconfund&iacute;vel de <strong>Aretha Franklin</strong>! Sua carreira come&ccedil;ou no gospel, cantando em igrejas e eventos voltados para o p&uacute;blico evang&eacute;lico. Mesmo com o sucesso fora do meio religioso, a cantora nunca abandonou sua liga&ccedil;&atilde;o com o estilo musical que a consagrou. Sua m&uacute;sica gira em torno de tr&ecirc;s temas principais: a f&eacute;, o amor e as quest&otilde;es sociais, especialmente as de g&ecirc;nero. Vamos destacar quatro can&ccedil;&otilde;es gravadas entre os anos de 1980 e 1994, que mostram a veia pop de Aretha Franklin!</p>\n<p>Na nossa terceira esta&ccedil;&atilde;o, um fen&ocirc;meno que passou como um furac&atilde;o pela hist&oacute;ria da m&uacute;sica, mas que deixou uma contribui&ccedil;&atilde;o indiscut&iacute;vel: <strong>Amy Winehouse</strong>. Apaixonada pelas grandes damas da m&uacute;sica dos anos 50 e 60, a cantora brit&acirc;nica regravou grandes sucessos da &eacute;poca e tamb&eacute;m reproduziu esse estilo nas suas composi&ccedil;&otilde;es e no seu visual. Amy lan&ccedil;ou apenas dois &aacute;lbuns em vida e um terceiro, intitulado &ldquo;Lioness, Hidden Treasures&rdquo;, foi lan&ccedil;ado tr&ecirc;s meses ap&oacute;s sua morte. Esse &aacute;lbum &eacute; composto por grava&ccedil;&otilde;es que a cantora deixou quando estava preparando seus dois &aacute;lbuns anteriores e que acabaram ficando de fora desses lan&ccedil;amentos. A produ&ccedil;&atilde;o coube aos dois parceiros da cantora nos discos anteriores: Salaam Remi, que produziu o &aacute;lbum &ldquo;Frank&rdquo;, de 2003, e Mark Ronson, produtor de &ldquo;Back To Black&rdquo;, de 2007. Vamos conferir cinco faixas do &aacute;lbum p&oacute;stumo de Amy Winehouse, com destaque para a bel&iacute;ssima vers&atilde;o de &ldquo;The Girl From Ipanema&rdquo;, vers&atilde;o em ingl&ecirc;s para o cl&aacute;ssico &ldquo;Garota de Ipanema&rdquo;, de Tom e Vin&iacute;cius.</p>\n<p>Para enviar cr&iacute;ticas e sugest&otilde;es para o programa, mande um e-mail para:&nbsp;<strong><a href=\"mailto:radio@camara.leg.br\" target=\"_blank\" rel=\"noopener noreferrer\">radio@camara.leg.br</a></strong>, ou use o nosso WhatsApp:&nbsp;<strong>(61) 99978-9080</strong>.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385711,
+                "titulo": "Donna Summer, Aretha Franklin e Amy Winehouse",
+                "link": "https://socithom.camara.gov.br/radio/programas/385711-donna-summer-aretha-franklin-e-amy-winehouse/",
+                "data": "2018-07-29 00:02:00",
+                "data_formatada": "29/07/2018",
+                "hora_formatada": "00:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Nossa viagem pelo universo dos sons nesta semana traz o som de tr&ecirc;s grandes cantoras da soul music: duas delas negras norte-americanas; a outra, branca, inglesa e de uma tradicional fam&iacute;lia judia. Quer ouvir e saber mais? Venha com a gente percorrer a <strong>Trilha da Meia-Noite</strong>!</p>\n<p>Nossa primeira esta&ccedil;&atilde;o &eacute; dedicada &agrave; rainha da disco music! Foi nesse estilo, que dominou as pistas de dan&ccedil;a na segunda metade da d&eacute;cada de 70, que <strong>Donna Summer </strong>alcan&ccedil;ou o estrelato na m&uacute;sica pop contempor&acirc;nea. Em 1979, a can&ccedil;&atilde;o &ldquo;Bad Girls&rdquo; foi primeiro lugar por v&aacute;rias semanas na parada americana e fechou o ano como primeiro lugar no Top 100 da revista Billboard. Vamos conferir quatro cl&aacute;ssicos das pistas na voz de Donna Summer!</p>\n<p>Na segunda esta&ccedil;&atilde;o da Trilha, a voz inconfund&iacute;vel de <strong>Aretha Franklin</strong>! Sua carreira come&ccedil;ou no gospel, cantando em igrejas e eventos voltados para o p&uacute;blico evang&eacute;lico. Mesmo com o sucesso fora do meio religioso, a cantora nunca abandonou sua liga&ccedil;&atilde;o com o estilo musical que a consagrou. Sua m&uacute;sica gira em torno de tr&ecirc;s temas principais: a f&eacute;, o amor e as quest&otilde;es sociais, especialmente as de g&ecirc;nero. Vamos destacar quatro can&ccedil;&otilde;es gravadas entre os anos de 1980 e 1994, que mostram a veia pop de Aretha Franklin!</p>\n<p>Na nossa terceira esta&ccedil;&atilde;o, um fen&ocirc;meno que passou como um furac&atilde;o pela hist&oacute;ria da m&uacute;sica, mas que deixou uma contribui&ccedil;&atilde;o indiscut&iacute;vel: <strong>Amy Winehouse</strong>. Apaixonada pelas grandes damas da m&uacute;sica dos anos 50 e 60, a cantora brit&acirc;nica regravou grandes sucessos da &eacute;poca e tamb&eacute;m reproduziu esse estilo nas suas composi&ccedil;&otilde;es e no seu visual. Amy lan&ccedil;ou apenas dois &aacute;lbuns em vida e um terceiro, intitulado &ldquo;Lioness, Hidden Treasures&rdquo;, foi lan&ccedil;ado tr&ecirc;s meses ap&oacute;s sua morte. Esse &aacute;lbum &eacute; composto por grava&ccedil;&otilde;es que a cantora deixou quando estava preparando seus dois &aacute;lbuns anteriores e que acabaram ficando de fora desses lan&ccedil;amentos. A produ&ccedil;&atilde;o coube aos dois parceiros da cantora nos discos anteriores: Salaam Remi, que produziu o &aacute;lbum &ldquo;Frank&rdquo;, de 2003, e Mark Ronson, produtor de &ldquo;Back To Black&rdquo;, de 2007. Vamos conferir cinco faixas do &aacute;lbum p&oacute;stumo de Amy Winehouse, com destaque para a bel&iacute;ssima vers&atilde;o de &ldquo;The Girl From Ipanema&rdquo;, vers&atilde;o em ingl&ecirc;s para o cl&aacute;ssico &ldquo;Garota de Ipanema&rdquo;, de Tom e Vin&iacute;cius.</p>\n<p>Para enviar cr&iacute;ticas e sugest&otilde;es para o programa, mande um e-mail para:&nbsp;<strong><a href=\"mailto:radio@camara.leg.br\" target=\"_blank\" rel=\"noopener noreferrer\">radio@camara.leg.br</a></strong>, ou use o nosso WhatsApp:&nbsp;<strong>(61) 99978-9080</strong>.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385710,
+                "titulo": "Donna Summer, Aretha Franklin e Amy Winehouse",
+                "link": "https://socithom.camara.gov.br/radio/programas/385710-donna-summer-aretha-franklin-e-amy-winehouse/",
+                "data": "2018-07-29 00:01:00",
+                "data_formatada": "29/07/2018",
+                "hora_formatada": "00:01",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Nossa viagem pelo universo dos sons nesta semana traz o som de tr&ecirc;s grandes cantoras da soul music: duas delas negras norte-americanas; a outra, branca, inglesa e de uma tradicional fam&iacute;lia judia. Quer ouvir e saber mais? Venha com a gente percorrer a <strong>Trilha da Meia-Noite</strong>!</p>\n<p>Nossa primeira esta&ccedil;&atilde;o &eacute; dedicada &agrave; rainha da disco music! Foi nesse estilo, que dominou as pistas de dan&ccedil;a na segunda metade da d&eacute;cada de 70, que <strong>Donna Summer </strong>alcan&ccedil;ou o estrelato na m&uacute;sica pop contempor&acirc;nea. Em 1979, a can&ccedil;&atilde;o &ldquo;Bad Girls&rdquo; foi primeiro lugar por v&aacute;rias semanas na parada americana e fechou o ano como primeiro lugar no Top 100 da revista Billboard. Vamos conferir quatro cl&aacute;ssicos das pistas na voz de Donna Summer!</p>\n<p>Na segunda esta&ccedil;&atilde;o da Trilha, a voz inconfund&iacute;vel de <strong>Aretha Franklin</strong>! Sua carreira come&ccedil;ou no gospel, cantando em igrejas e eventos voltados para o p&uacute;blico evang&eacute;lico. Mesmo com o sucesso fora do meio religioso, a cantora nunca abandonou sua liga&ccedil;&atilde;o com o estilo musical que a consagrou. Sua m&uacute;sica gira em torno de tr&ecirc;s temas principais: a f&eacute;, o amor e as quest&otilde;es sociais, especialmente as de g&ecirc;nero. Vamos destacar quatro can&ccedil;&otilde;es gravadas entre os anos de 1980 e 1994, que mostram a veia pop de Aretha Franklin!</p>\n<p>Na nossa terceira esta&ccedil;&atilde;o, um fen&ocirc;meno que passou como um furac&atilde;o pela hist&oacute;ria da m&uacute;sica, mas que deixou uma contribui&ccedil;&atilde;o indiscut&iacute;vel: <strong>Amy Winehouse</strong>. Apaixonada pelas grandes damas da m&uacute;sica dos anos 50 e 60, a cantora brit&acirc;nica regravou grandes sucessos da &eacute;poca e tamb&eacute;m reproduziu esse estilo nas suas composi&ccedil;&otilde;es e no seu visual. Amy lan&ccedil;ou apenas dois &aacute;lbuns em vida e um terceiro, intitulado &ldquo;Lioness, Hidden Treasures&rdquo;, foi lan&ccedil;ado tr&ecirc;s meses ap&oacute;s sua morte. Esse &aacute;lbum &eacute; composto por grava&ccedil;&otilde;es que a cantora deixou quando estava preparando seus dois &aacute;lbuns anteriores e que acabaram ficando de fora desses lan&ccedil;amentos. A produ&ccedil;&atilde;o coube aos dois parceiros da cantora nos discos anteriores: Salaam Remi, que produziu o &aacute;lbum &ldquo;Frank&rdquo;, de 2003, e Mark Ronson, produtor de &ldquo;Back To Black&rdquo;, de 2007. Vamos conferir cinco faixas do &aacute;lbum p&oacute;stumo de Amy Winehouse, com destaque para a bel&iacute;ssima vers&atilde;o de &ldquo;The Girl From Ipanema&rdquo;, vers&atilde;o em ingl&ecirc;s para o cl&aacute;ssico &ldquo;Garota de Ipanema&rdquo;, de Tom e Vin&iacute;cius.</p>\n<p>Para enviar cr&iacute;ticas e sugest&otilde;es para o programa, mande um e-mail para:&nbsp;<strong><a href=\"mailto:radio@camara.leg.br\" target=\"_blank\" rel=\"noopener noreferrer\">radio@camara.leg.br</a></strong>, ou use o nosso WhatsApp:&nbsp;<strong>(61) 99978-9080</strong>.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            }
+        ],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 355,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/355-brasil-instrumental/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "355-brasil-instrumental"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Brasil Instrumental",
+        "data": 1555083106,
+        "data_formatada": "12/04/2019",
+        "hora_formatada": "15:31",
+        "conteudo": "<p>O programa abre espaço para o melhor da produção instrumental brasileira, dos discos de músicos históricos ao trabalho de jovens talentos.</p>\n",
+        "resumo": "O programa abre espaço para o melhor da produção instrumental brasileira, dos discos de músicos históricos ao trabalho de jovens talentos.",
+        "imagens": [
+            {
+                "id": 386441,
+                "nome": "camara-e-noticia",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/camara-e-noticia-150x150.jpeg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/camara-e-noticia-100x100.jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/camara-e-noticia.jpeg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "Domingo, às 18h",
+        "downloads": "sim",
+        "acervo": "não",
+        "quantidade_destaques": "",
+        "ordem": "9",
+        "ultimas": [
+            {
+                "id": 506,
+                "titulo": "Dudu Maia - Trio Brasileiro e Anat Cohen",
+                "link": "https://socithom.camara.gov.br/radio/programas/506-dudu-maia-trio-brasileiro-e-anat-cohen/",
+                "data": "2018-08-05 18:03:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "18:03",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180802162901489.jpg\" border=\"0\" alt=\"Trio Brasileiro e Anat Cohen\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"667\" /></div>\n<div class=\"legenda\">Trio Brasileiro e Anat Cohen</div>\n</div>\n<p>Dudu Maia est&aacute; numa fase muito produtiva. O m&uacute;sico, compositor e produtor vem &agrave; r&aacute;dio pra falar de uma s&eacute;rie de projetos, entre eles o &aacute;lbum <strong>&quot;Rosa dos Ventos&quot; </strong>que foi indicado ao Grammy deste ano, com o <strong>Trio Brasileiro</strong>.</p>\n<p>J&aacute; tem pelo menos mais dois discos encaminhados: um com esse mesmo trio e outro em homenagem ao centen&aacute;rio de Jacob do Bandolim, com um regional de choro.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 507,
+                "titulo": "Dudu Maia - Trio Brasileiro e Anat Cohen",
+                "link": "https://socithom.camara.gov.br/radio/programas/507-dudu-maia-trio-brasileiro-e-anat-cohen/",
+                "data": "2018-08-05 18:02:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "18:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180802162901489.jpg\" border=\"0\" alt=\"Trio Brasileiro e Anat Cohen\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"667\" /></div>\n<div class=\"legenda\">Trio Brasileiro e Anat Cohen</div>\n</div>\n<p>Dudu Maia est&aacute; numa fase muito produtiva. O m&uacute;sico, compositor e produtor vem &agrave; r&aacute;dio pra falar de uma s&eacute;rie de projetos, entre eles o &aacute;lbum <strong>&quot;Rosa dos Ventos&quot; </strong>que foi indicado ao Grammy deste ano, com o <strong>Trio Brasileiro</strong>.</p>\n<p>J&aacute; tem pelo menos mais dois discos encaminhados: um com esse mesmo trio e outro em homenagem ao centen&aacute;rio de Jacob do Bandolim, com um regional de choro.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 511,
+                "titulo": "Dudu Maia - Trio Brasileiro e Anat Cohen",
+                "link": "https://socithom.camara.gov.br/radio/programas/511-dudu-maia-trio-brasileiro-e-anat-cohen/",
+                "data": "2018-08-05 18:00:00",
+                "data_formatada": "05/08/2018",
+                "hora_formatada": "18:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180802162901489.jpg\" border=\"0\" alt=\"Trio Brasileiro e Anat Cohen\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"667\" /></div>\n<div class=\"legenda\">Trio Brasileiro e Anat Cohen</div>\n</div>\n<p>Dudu Maia est&aacute; numa fase muito produtiva. O m&uacute;sico, compositor e produtor vem &agrave; r&aacute;dio pra falar de uma s&eacute;rie de projetos, entre eles o &aacute;lbum <strong>&quot;Rosa dos Ventos&quot; </strong>que foi indicado ao Grammy deste ano, com o <strong>Trio Brasileiro</strong>.</p>\n<p>J&aacute; tem pelo menos mais dois discos encaminhados: um com esse mesmo trio e outro em homenagem ao centen&aacute;rio de Jacob do Bandolim, com um regional de choro.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385588,
+                "titulo": "Especial - Dominguinhos",
+                "link": "https://socithom.camara.gov.br/radio/programas/385588-especial-dominguinhos/",
+                "data": "2018-07-22 18:03:00",
+                "data_formatada": "22/07/2018",
+                "hora_formatada": "18:03",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">&Aacute;lvaro da Costa</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180719142946000.jpeg\" border=\"0\" alt=\"Brasil Instrumental, 22/07/2018 - Dominguinhos, 1982\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"619\" /></div>\n<div class=\"legenda\">Dominguinhos</div>\n</div>\n<p>Na segunda-feira, 23 de julho, o pa&iacute;s completa cinco anos sem <strong>Dominguinhos</strong>. O acordeonista, compositor e cantor pernambucano, que morreu em decorr&ecirc;ncia de um c&acirc;ncer no pulm&atilde;o, ser&aacute; lembrado no <strong>Brasil Instrumental</strong> deste domingo.</p>\n<p>Na trilha sonora, dois &aacute;lbuns instrumentais que Dominguinhos lan&ccedil;ou em duo com o violonista ga&uacute;cho Yamandu Costa, entre 2007 e 2010.</p>\n<p>A jornalista <strong>Carmen Delpino </strong>tamb&eacute;m separou trechos de uma entrevista cheia de boas est&oacute;rias que Dominguinhos concedeu &agrave; R&aacute;dio C&acirc;mara, h&aacute; sete anos.</p>\n<p>Na conversa, Dominguinhos lembra do tempo em que tocava na noite carioca, fala do apogeu, decl&iacute;nio e retomada da sanfona e de algumas passagens divertidas envolvendo o ent&atilde;o iniciante Roberto Carlos.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385587,
+                "titulo": "Especial - Dominguinhos",
+                "link": "https://socithom.camara.gov.br/radio/programas/385587-especial-dominguinhos/",
+                "data": "2018-07-22 18:02:00",
+                "data_formatada": "22/07/2018",
+                "hora_formatada": "18:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">&Aacute;lvaro da Costa</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180719142946000.jpeg\" border=\"0\" alt=\"Brasil Instrumental, 22/07/2018 - Dominguinhos, 1982\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"619\" /></div>\n<div class=\"legenda\">Dominguinhos</div>\n</div>\n<p>Na segunda-feira, 23 de julho, o pa&iacute;s completa cinco anos sem <strong>Dominguinhos</strong>. O acordeonista, compositor e cantor pernambucano, que morreu em decorr&ecirc;ncia de um c&acirc;ncer no pulm&atilde;o, ser&aacute; lembrado no <strong>Brasil Instrumental</strong> deste domingo.</p>\n<p>Na trilha sonora, dois &aacute;lbuns instrumentais que Dominguinhos lan&ccedil;ou em duo com o violonista ga&uacute;cho Yamandu Costa, entre 2007 e 2010.</p>\n<p>A jornalista <strong>Carmen Delpino </strong>tamb&eacute;m separou trechos de uma entrevista cheia de boas est&oacute;rias que Dominguinhos concedeu &agrave; R&aacute;dio C&acirc;mara, h&aacute; sete anos.</p>\n<p>Na conversa, Dominguinhos lembra do tempo em que tocava na noite carioca, fala do apogeu, decl&iacute;nio e retomada da sanfona e de algumas passagens divertidas envolvendo o ent&atilde;o iniciante Roberto Carlos.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385586,
+                "titulo": "Especial - Dominguinhos",
+                "link": "https://socithom.camara.gov.br/radio/programas/385586-especial-dominguinhos/",
+                "data": "2018-07-22 18:00:00",
+                "data_formatada": "22/07/2018",
+                "hora_formatada": "18:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">&Aacute;lvaro da Costa</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180719142946000.jpeg\" border=\"0\" alt=\"Brasil Instrumental, 22/07/2018 - Dominguinhos, 1982\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"619\" /></div>\n<div class=\"legenda\">Dominguinhos</div>\n</div>\n<p>Na segunda-feira, 23 de julho, o pa&iacute;s completa cinco anos sem <strong>Dominguinhos</strong>. O acordeonista, compositor e cantor pernambucano, que morreu em decorr&ecirc;ncia de um c&acirc;ncer no pulm&atilde;o, ser&aacute; lembrado no <strong>Brasil Instrumental</strong> deste domingo.</p>\n<p>Na trilha sonora, dois &aacute;lbuns instrumentais que Dominguinhos lan&ccedil;ou em duo com o violonista ga&uacute;cho Yamandu Costa, entre 2007 e 2010.</p>\n<p>A jornalista <strong>Carmen Delpino </strong>tamb&eacute;m separou trechos de uma entrevista cheia de boas est&oacute;rias que Dominguinhos concedeu &agrave; R&aacute;dio C&acirc;mara, h&aacute; sete anos.</p>\n<p>Na conversa, Dominguinhos lembra do tempo em que tocava na noite carioca, fala do apogeu, decl&iacute;nio e retomada da sanfona e de algumas passagens divertidas envolvendo o ent&atilde;o iniciante Roberto Carlos.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            }
+        ],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 356,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/356-paralelo-15/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "356-paralelo-15"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Paralelo 15",
+        "data": 1555083106,
+        "data_formatada": "12/04/2019",
+        "hora_formatada": "15:31",
+        "conteudo": "<p>Paralelo 15 – as coordenadas do som de Brasília. Um espaço para a música autoral feita nas quadras, entrequadras e quebradas do Distrito Federal.</p>\n",
+        "resumo": "",
+        "imagens": [
+            {
+                "id": 386348,
+                "nome": "kevin-grieve-1470210-unsplash",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-300x200.jpg",
+                        "width": 300,
+                        "height": 200
+                    },
+                    {
+                        "tipo": "medium_large",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-768x512.jpg",
+                        "width": 768,
+                        "height": 512
+                    },
+                    {
+                        "tipo": "large",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-1024x683.jpg",
+                        "width": 1024,
+                        "height": 683
+                    },
+                    {
+                        "tipo": "twentyseventeen-featured-image",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-2000x1200.jpg",
+                        "width": 2000,
+                        "height": 1200
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    },
+                    {
+                        "tipo": "Personalizado_1",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash-498x504.jpg",
+                        "width": "498",
+                        "height": "504"
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/05/kevin-grieve-1470210-unsplash.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "Sábado, às 16h, e segunda, à 0h",
+        "downloads": "não",
+        "acervo": "não",
+        "quantidade_destaques": "",
+        "ordem": "9",
+        "ultimas": [
+            {
+                "id": 472,
+                "titulo": "A sanfona encantada de Dona Gracinha",
+                "link": "https://socithom.camara.gov.br/radio/programas/472-a-sanfona-encantada-de-dona-gracinha/",
+                "data": "2018-08-04 16:02:00",
+                "data_formatada": "04/08/2018",
+                "hora_formatada": "16:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p><strong> </strong></p>\n<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180803153958839.jpg\" border=\"0\" alt=\"Dona Gracinha- sanfona - idoso\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"667\" /></div>\n<div class=\"legenda\">Dona Gracinha</div>\n</div>\n<p><strong> </strong><strong>Dona Gracinha</strong> diz que &ldquo;parece estar flutuando na lua&rdquo; quando sobe ao palco. Mas na verdade quem se transporta ao v&ecirc;-la tocar sua sanfona &eacute; o p&uacute;blico. A piauiense de 75 anos acaba de lan&ccedil;ar o primeiro DVD da sua carreira e &eacute; a convidada desta semana do <strong>Paralelo 15</strong>.</p>\n<p>Ela lembra o marcante encontro com Gonzag&atilde;o na inf&acirc;ncia, explica as particularidades da sanfona que toca &ndash; conhecida como &ldquo;p&eacute;-de-bode&rdquo; ou de bot&atilde;o &ndash; e fala ainda sobre o projeto Forr&oacute; dos Velhinhos, que leva m&uacute;sica a asilos do Distrito Federal.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 473,
+                "titulo": "A sanfona encantada de Dona Gracinha",
+                "link": "https://socithom.camara.gov.br/radio/programas/473-a-sanfona-encantada-de-dona-gracinha/",
+                "data": "2018-08-04 16:00:00",
+                "data_formatada": "04/08/2018",
+                "hora_formatada": "16:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p><strong> </strong></p>\n<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/08/img20180803153958839.jpg\" border=\"0\" alt=\"Dona Gracinha- sanfona - idoso\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"667\" /></div>\n<div class=\"legenda\">Dona Gracinha</div>\n</div>\n<p><strong> </strong><strong>Dona Gracinha</strong> diz que &ldquo;parece estar flutuando na lua&rdquo; quando sobe ao palco. Mas na verdade quem se transporta ao v&ecirc;-la tocar sua sanfona &eacute; o p&uacute;blico. A piauiense de 75 anos acaba de lan&ccedil;ar o primeiro DVD da sua carreira e &eacute; a convidada desta semana do <strong>Paralelo 15</strong>.</p>\n<p>Ela lembra o marcante encontro com Gonzag&atilde;o na inf&acirc;ncia, explica as particularidades da sanfona que toca &ndash; conhecida como &ldquo;p&eacute;-de-bode&rdquo; ou de bot&atilde;o &ndash; e fala ainda sobre o projeto Forr&oacute; dos Velhinhos, que leva m&uacute;sica a asilos do Distrito Federal.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385585,
+                "titulo": "Lauro Aires e Salto Triplo lançam Centropia 2",
+                "link": "https://socithom.camara.gov.br/radio/programas/385585-lauro-aires-e-salto-triplo-lancam-centropia-2/",
+                "data": "2018-07-21 16:02:00",
+                "data_formatada": "21/07/2018",
+                "hora_formatada": "16:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">Breno Galtier</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180719141330218.jpg\" border=\"0\" alt=\"Paralelo 15 - Lauro Aires e Salto Triplo\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"667\" /></div>\n<div class=\"legenda\">Lauro Aires e Salto Triplo</div>\n</div>\n<p>Com a ideia de reunir as sonoridades que chegam &agrave; capital e irradiar daqui um rock and roll carregado por todas essas influ&ecirc;ncias, surgiu o <strong>Centropia </strong>&ndash; projeto liderado por <strong>Lauro Aires</strong>, com a banda Salto Triplo (Marcelo Lima, Fernando Rodrigues e Renato Gl&oacute;ria).</p>\n<p>Eles acabam de lan&ccedil;ar o segundo disco, Centropia 2, apresentado na &iacute;ntegra nesta edi&ccedil;&atilde;o do <strong>Paralelo 15</strong>. Al&eacute;m de comentar as faixas do &aacute;lbum, Lauro Aires falou tamb&eacute;m sobre as parcerias com artistas de Bras&iacute;lia e sobre a turn&ecirc; que o grupo fez pela Europa.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385584,
+                "titulo": "Lauro Aires e Salto Triplo lançam Centropia 2",
+                "link": "https://socithom.camara.gov.br/radio/programas/385584-lauro-aires-e-salto-triplo-lancam-centropia-2/",
+                "data": "2018-07-21 16:00:00",
+                "data_formatada": "21/07/2018",
+                "hora_formatada": "16:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">Breno Galtier</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180719141330218.jpg\" border=\"0\" alt=\"Paralelo 15 - Lauro Aires e Salto Triplo\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"667\" /></div>\n<div class=\"legenda\">Lauro Aires e Salto Triplo</div>\n</div>\n<p>Com a ideia de reunir as sonoridades que chegam &agrave; capital e irradiar daqui um rock and roll carregado por todas essas influ&ecirc;ncias, surgiu o <strong>Centropia </strong>&ndash; projeto liderado por <strong>Lauro Aires</strong>, com a banda Salto Triplo (Marcelo Lima, Fernando Rodrigues e Renato Gl&oacute;ria).</p>\n<p>Eles acabam de lan&ccedil;ar o segundo disco, Centropia 2, apresentado na &iacute;ntegra nesta edi&ccedil;&atilde;o do <strong>Paralelo 15</strong>. Al&eacute;m de comentar as faixas do &aacute;lbum, Lauro Aires falou tamb&eacute;m sobre as parcerias com artistas de Bras&iacute;lia e sobre a turn&ecirc; que o grupo fez pela Europa.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385424,
+                "titulo": "A alegria de Diego Pedigree em seu novo disco “É pra chegar”",
+                "link": "https://socithom.camara.gov.br/radio/programas/385424-a-alegria-de-diego-pedigree-em-seu-novo-disco-e-pra-chegar/",
+                "data": "2018-07-14 16:00:00",
+                "data_formatada": "14/07/2018",
+                "hora_formatada": "16:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemVerticalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180712212241195.jpg\" border=\"0\" alt=\"Diego Pedigree\" style=\"width:100%; max-height:100%;\" data-width=\"995\" data-height=\"1000\" /></div>\n<div class=\"legenda\">Diego&nbsp;Pedigree</div>\n</div>\n<p>Figura cativa na noite brasiliense, <strong>Diego Pedigree</strong> carrega com orgulho a bandeira do samba, que considera um instrumento na luta pela cultura, igualdade e respeito. O cantor, compositor e instrumentista acaba de lan&ccedil;ar seu disco de estreia, <strong>&quot;&Eacute; pra chegar&quot;</strong>, com 12 faixas que passeiam pelas diferentes vertentes do g&ecirc;nero, com participa&ccedil;&atilde;o de diversos artistas da cidade.</p>\n<p>Diego Pedigree apresenta o &aacute;lbum e fala da influ&ecirc;ncia de figuras como Clementina de Jesus e Jovelina P&eacute;rola Negra sobre seu trabalho no<strong> Paralelo 15 </strong>desta semana.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 385425,
+                "titulo": "A alegria de Diego Pedigree em seu novo disco “É pra chegar”",
+                "link": "https://socithom.camara.gov.br/radio/programas/385425-a-alegria-de-diego-pedigree-em-seu-novo-disco-e-pra-chegar/",
+                "data": "2018-07-14 16:00:00",
+                "data_formatada": "14/07/2018",
+                "hora_formatada": "16:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemVerticalP\">\n<div class=\"excluirVideo\" onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">divulga&ccedil;&atilde;o</div>\n<div class=\"imagem\"><img src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180712212241195.jpg\" border=\"0\" alt=\"Diego Pedigree\" style=\"width:100%; max-height:100%;\" data-width=\"995\" data-height=\"1000\" /></div>\n<div class=\"legenda\">Diego&nbsp;Pedigree</div>\n</div>\n<p>Figura cativa na noite brasiliense, <strong>Diego Pedigree</strong> carrega com orgulho a bandeira do samba, que considera um instrumento na luta pela cultura, igualdade e respeito. O cantor, compositor e instrumentista acaba de lan&ccedil;ar seu disco de estreia, <strong>&quot;&Eacute; pra chegar&quot;</strong>, com 12 faixas que passeiam pelas diferentes vertentes do g&ecirc;nero, com participa&ccedil;&atilde;o de diversos artistas da cidade.</p>\n<p>Diego Pedigree apresenta o &aacute;lbum e fala da influ&ecirc;ncia de figuras como Clementina de Jesus e Jovelina P&eacute;rola Negra sobre seu trabalho no<strong> Paralelo 15 </strong>desta semana.</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            }
+        ],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    },
+    {
+        "id": 345,
+        "tipo_conteudo": "programa_radio",
+        "objeto_wp": {
+            "label": "Programa de rádio",
+            "capability": "post"
+        },
+        "link": "https://socithom.camara.gov.br/radio/345-memoria-do-rock/",
+        "area_conteudo": {
+            "id": 385723,
+            "name": "Rádio",
+            "slug": "radio"
+        },
+        "path_separado": [
+            "",
+            "socithom.camara.gov.br",
+            "radio",
+            "345-memoria-do-rock"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio",
+                "slug": "radio",
+                "id": 385723,
+                "link": "/385723-radio"
+            }
+        ],
+        "menu_local": "",
+        "titulo": "Memória do Rock",
+        "data": 1555083105,
+        "data_formatada": "12/04/2019",
+        "hora_formatada": "15:31",
+        "conteudo": "<p>O programa busca recuperar bandas e cantores que fizeram parte do chamado período clássico do rock, compreendido entre a segunda metade da década de 1960 até os primeiros anos da década de 80.</p>\n",
+        "resumo": "Memória do Rock apresenta grandes nomes do rock internacional e também artistas desconhecidos ou esquecidos do público brasileiro.",
+        "imagens": [
+            {
+                "id": 386728,
+                "nome": "memoriadorock",
+                "descricao": "",
+                "legenda": "",
+                "texto_alternativo": null,
+                "autor": null,
+                "local": null,
+                "tema": null,
+                "data": null,
+                "institucional": "Não",
+                "sizes": [
+                    {
+                        "tipo": "thumbnail",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/memoriadorock-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    {
+                        "tipo": "medium",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/memoriadorock-300x212.jpg",
+                        "width": 300,
+                        "height": 212
+                    },
+                    {
+                        "tipo": "twentyseventeen-thumbnail-avatar",
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/memoriadorock-100x100.jpg",
+                        "width": 100,
+                        "height": 100
+                    }
+                ],
+                "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/image/2019/06/memoriadorock.jpg",
+                "url_midia": null,
+                "url_thumb_midia": null
+            }
+        ],
+        "videos": [],
+        "audios": [],
+        "arquivos": [],
+        "tags_conteudo": [],
+        "categoria": {
+            "id": 106,
+            "titulo": "Cultura"
+        },
+        "horario": "Sábado, às 18h, e sexta, à 0h",
+        "downloads": "sim",
+        "acervo": "não",
+        "quantidade_destaques": "",
+        "ordem": "9",
+        "ultimas": [
+            {
+                "id": 386729,
+                "titulo": "Paul Mccartney 77 Anos",
+                "link": "https://socithom.camara.gov.br/radio/programas/386729-paul-mccartney-77-anos/",
+                "data": "2019-06-18 15:06:25",
+                "data_formatada": "18/06/2019",
+                "hora_formatada": "15:06",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div>\n<p>Nos 77 anos de idade de <strong>Paul </strong><strong>McCartney</strong>, completados agora no meio de junho, <strong>Memória </strong><strong>do </strong><strong>Rock </strong>homenageia o mais bem-sucedido roqueiro da história, com patrimônio superior a 1 bilhão de dólares e vendas de discos situadas na casa das centenas de milhões. O programa mescla canções dos <strong>Beatles </strong>e de sua carreira solo, e ainda regravações de suas músicas por outros artistas.</p>\n<p><u><em>SETLIST</em></u></p>\n<p><em>Paul McCartney &#8211; Another day (Paul McCartney, Linda McCartney)<br />\nPaul McCartney &#8211; Dear friend (Paul McCartney, Linda McCartney)<br />\nPaul McCartney &#8211; Helen wheels (Paul McCartney, Linda McCartney)<br />\nBeatles &#8211; I&#8217;m looking through you (John Lennon, Paul McCartney)</em></p>\n<p><em>Jamie Cullum &#8211; Every night (Paul McCartney)<br />\nAirborne Toxic Event &#8211; No more lonely nights (Paul McCartney)<br />\nOwl City &#8211; Listen to what the man said (Paul McCartney, Linda McCartney)</em></p>\n<p><em>Heart &#8211; Letting go (Paul McCartney, Linda McCartney)<br />\nCat Stevens &#8211; The long and winding road (John Lennon, Paul McCartney)<br />\nBilly Joel &#8211; Live and let die (Paul McCartney, Linda McCartney)</em></p>\n<p><em>Beatles &#8211; Got to get you into my life (John Lennon, Paul McCartney)<br />\nPaul McCartney &#8211; Rough ride<br />\nPaul McCartney &#8211; Biker like an icon<br />\nBeatles &#8211; When I’m sixty four (John Lennon, Paul McCartney)</em></p>\n</div>\n<div id=\"creditosMateria\">Apresentação &#8211; Marcio Achilles Sardi</div>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [
+                    {
+                        "id": 386484,
+                        "nome": "PGM MEMORIA DO ROCK PGM 157 BL 01",
+                        "descricao": "\"PGM MEMORIA DO ROCK PGM 157 BL 01\". Gênero: Blues.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/06/PGM-MEMORIA-DO-ROCK-PGM-157-BL-01.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    },
+                    {
+                        "id": 386485,
+                        "nome": "PGM MEMORIA DO ROCK PGM 157 BL 02",
+                        "descricao": "\"PGM MEMORIA DO ROCK PGM 157 BL 02\". Gênero: Blues.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/06/PGM-MEMORIA-DO-ROCK-PGM-157-BL-02-.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    },
+                    {
+                        "id": 386486,
+                        "nome": "PGM MEMORIA DO ROCK PGM 157 BL 03",
+                        "descricao": "\"PGM MEMORIA DO ROCK PGM 157 BL 03\". Gênero: Blues.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/06/PGM-MEMORIA-DO-ROCK-PGM-157-BL-03-.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    },
+                    {
+                        "id": 386487,
+                        "nome": "PGM MEMORIA DO ROCK PGM 157 BL 04",
+                        "descricao": "\"PGM MEMORIA DO ROCK PGM 157 BL 04\". Gênero: Blues.",
+                        "legenda": "",
+                        "texto_alternativo": null,
+                        "autor": null,
+                        "local": null,
+                        "tema": null,
+                        "data": null,
+                        "institucional": "Não",
+                        "sizes": null,
+                        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/audio/2019/06/PGM-MEMORIA-DO-ROCK-PGM-157-BL-04.mp3",
+                        "url_midia": null,
+                        "url_thumb_midia": null
+                    }
+                ],
+                "horario": ""
+            },
+            {
+                "id": 386681,
+                "titulo": "Paul Mccartney 77 Anos",
+                "link": "https://socithom.camara.gov.br/radio/programas/386681-paul-mccartney-77-anos/",
+                "data": "2019-06-15 18:01:00",
+                "data_formatada": "15/06/2019",
+                "hora_formatada": "18:01",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div class=\"excluirVideo\" data-onclick=\"excluirElemento(this)\"></div>\n<div class=\"creditoFoto\" contenteditable=\"false\">www.britannica.com</div>\n<div class=\"imagem\"><img style=\"width: 100%; max-height: 100%;\" src=\"https://www.camara.leg.br/internet/bancoimagem/banco/2014/11/img201411181521315529131.jpg\" alt=\"Paul McCartney\" border=\"0\" data-width=\"672\" data-height=\"448\" /></div>\n</div>\n<p>Nos 77 anos de idade de <strong>Paul </strong><strong>McCartney</strong>, completados agora no meio de junho, <strong>Memória </strong><strong>do </strong><strong>Rock </strong>homenageia o mais bem-sucedido roqueiro da história, com patrimônio superior a 1 bilhão de dólares e vendas de discos situadas na casa das centenas de milhões. O programa mescla canções dos <strong>Beatles </strong>e de sua carreira solo, e ainda regravações de suas músicas por outros artistas.</p>\n<p><u><em>SETLIST</em></u></p>\n<p><em>Paul McCartney &#8211; Another day (Paul McCartney, Linda McCartney)<br />\nPaul McCartney &#8211; Dear friend (Paul McCartney, Linda McCartney)<br />\nPaul McCartney &#8211; Helen wheels (Paul McCartney, Linda McCartney)<br />\nBeatles &#8211; I&#8217;m looking through you (John Lennon, Paul McCartney)</em></p>\n<p><em>Jamie Cullum &#8211; Every night (Paul McCartney)<br />\nAirborne Toxic Event &#8211; No more lonely nights (Paul McCartney)<br />\nOwl City &#8211; Listen to what the man said (Paul McCartney, Linda McCartney)</em></p>\n<p><em>Heart &#8211; Letting go (Paul McCartney, Linda McCartney)<br />\nCat Stevens &#8211; The long and winding road (John Lennon, Paul McCartney)<br />\nBilly Joel &#8211; Live and let die (Paul McCartney, Linda McCartney)</em></p>\n<p><em>Beatles &#8211; Got to get you into my life (John Lennon, Paul McCartney)<br />\nPaul McCartney &#8211; Rough ride<br />\nPaul McCartney &#8211; Biker like an icon<br />\nBeatles &#8211; When I’m sixty four (John Lennon, Paul McCartney)</em></p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 540,
+                "titulo": "Rock do Nordeste da Inglaterra",
+                "link": "https://socithom.camara.gov.br/radio/programas/540-rock-do-nordeste-da-inglaterra/",
+                "data": "2018-08-04 18:04:00",
+                "data_formatada": "04/08/2018",
+                "hora_formatada": "18:04",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Polos de produ&ccedil;&atilde;o musical no nordeste da Inglaterra, as cidades de Newcastle e Middlesbrough s&atilde;o o ber&ccedil;o de v&aacute;rios nomes do per&iacute;odo cl&aacute;ssico do rock. A viagem musical desta edi&ccedil;&atilde;o de <strong>Mem&oacute;ria do Rock</strong> desembarca na regi&atilde;o, atrav&eacute;s de grandes vocalistas: <strong>David Coverdale </strong>e seu <strong>Whitesnake</strong>, <strong>Bryan Ferry </strong>no <strong>Roxy Music</strong>, <strong>Geordie </strong>com<strong> Brian Johnson</strong>, que depois viria a assumir os vocais do <strong>AC/DC</strong>, <strong>Alan Hull </strong>do <strong>Lindisfarne</strong>,<strong> Eric Burdon </strong>no <strong>Animals</strong>, e ainda <strong>Paul Rodgers</strong>, frontman de <strong>Free</strong>, <strong>Bad Company</strong> e<strong> Queen</strong>.</p>\n<p><u><em>SETLIST</em></u></p>\n<p>Whitesnake &#8211; Fool for your loving (David Coverdale, Micky Moody, Bernie Marsden)<br />\nDavid Coverdale &#8211; Only My Soul<br />\nRaven &#8211; On and on (John Gallagher, Mark Gallagher, Rob Hunter)</p>\n<p>Eric Burdon &amp; War &#8211; Spill The Wine (Charles Miller, Howard E. Scott, B.B. Dickerson, Lonnie Jordan, Harold Ray Brown, Thomas &quot;Papa Dee&quot; Allen, Lee Oskar)<br />\nAnimals &#8211; Bury my body (tradicional)<br />\nGeordie &#8211; House of the rising sun (tradicional)</p>\n<p>Lindisfarne &#8211; Keeping the rage (Alan Hull, Marty Craggs) <br />\nAlan Hull &#8211; Dan the plan<br />\nJohn Miles &#8211; Rebel (John Miles, Bob Marshall)</p>\n<p>Roxy Music &ndash; Just another high (Bryan Ferry)<br />\nChris Rea &#8211; Fool (If you think it&#8217;s over)<br />\nPaul Rodgers &#8211; Heart of fire</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 541,
+                "titulo": "Rock do Nordeste da Inglaterra",
+                "link": "https://socithom.camara.gov.br/radio/programas/541-rock-do-nordeste-da-inglaterra/",
+                "data": "2018-08-04 18:03:00",
+                "data_formatada": "04/08/2018",
+                "hora_formatada": "18:03",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Polos de produ&ccedil;&atilde;o musical no nordeste da Inglaterra, as cidades de Newcastle e Middlesbrough s&atilde;o o ber&ccedil;o de v&aacute;rios nomes do per&iacute;odo cl&aacute;ssico do rock. A viagem musical desta edi&ccedil;&atilde;o de <strong>Mem&oacute;ria do Rock</strong> desembarca na regi&atilde;o, atrav&eacute;s de grandes vocalistas: <strong>David Coverdale </strong>e seu <strong>Whitesnake</strong>, <strong>Bryan Ferry </strong>no <strong>Roxy Music</strong>, <strong>Geordie </strong>com<strong> Brian Johnson</strong>, que depois viria a assumir os vocais do <strong>AC/DC</strong>, <strong>Alan Hull </strong>do <strong>Lindisfarne</strong>,<strong> Eric Burdon </strong>no <strong>Animals</strong>, e ainda <strong>Paul Rodgers</strong>, frontman de <strong>Free</strong>, <strong>Bad Company</strong> e<strong> Queen</strong>.</p>\n<p><u><em>SETLIST</em></u></p>\n<p>Whitesnake &#8211; Fool for your loving (David Coverdale, Micky Moody, Bernie Marsden)<br />\nDavid Coverdale &#8211; Only My Soul<br />\nRaven &#8211; On and on (John Gallagher, Mark Gallagher, Rob Hunter)</p>\n<p>Eric Burdon &amp; War &#8211; Spill The Wine (Charles Miller, Howard E. Scott, B.B. Dickerson, Lonnie Jordan, Harold Ray Brown, Thomas &quot;Papa Dee&quot; Allen, Lee Oskar)<br />\nAnimals &#8211; Bury my body (tradicional)<br />\nGeordie &#8211; House of the rising sun (tradicional)</p>\n<p>Lindisfarne &#8211; Keeping the rage (Alan Hull, Marty Craggs) <br />\nAlan Hull &#8211; Dan the plan<br />\nJohn Miles &#8211; Rebel (John Miles, Bob Marshall)</p>\n<p>Roxy Music &ndash; Just another high (Bryan Ferry)<br />\nChris Rea &#8211; Fool (If you think it&#8217;s over)<br />\nPaul Rodgers &#8211; Heart of fire</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 542,
+                "titulo": "Rock do Nordeste da Inglaterra",
+                "link": "https://socithom.camara.gov.br/radio/programas/542-rock-do-nordeste-da-inglaterra/",
+                "data": "2018-08-04 18:02:00",
+                "data_formatada": "04/08/2018",
+                "hora_formatada": "18:02",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Polos de produ&ccedil;&atilde;o musical no nordeste da Inglaterra, as cidades de Newcastle e Middlesbrough s&atilde;o o ber&ccedil;o de v&aacute;rios nomes do per&iacute;odo cl&aacute;ssico do rock. A viagem musical desta edi&ccedil;&atilde;o de <strong>Mem&oacute;ria do Rock</strong> desembarca na regi&atilde;o, atrav&eacute;s de grandes vocalistas: <strong>David Coverdale </strong>e seu <strong>Whitesnake</strong>, <strong>Bryan Ferry </strong>no <strong>Roxy Music</strong>, <strong>Geordie </strong>com<strong> Brian Johnson</strong>, que depois viria a assumir os vocais do <strong>AC/DC</strong>, <strong>Alan Hull </strong>do <strong>Lindisfarne</strong>,<strong> Eric Burdon </strong>no <strong>Animals</strong>, e ainda <strong>Paul Rodgers</strong>, frontman de <strong>Free</strong>, <strong>Bad Company</strong> e<strong> Queen</strong>.</p>\n<p><u><em>SETLIST</em></u></p>\n<p>Whitesnake &#8211; Fool for your loving (David Coverdale, Micky Moody, Bernie Marsden)<br />\nDavid Coverdale &#8211; Only My Soul<br />\nRaven &#8211; On and on (John Gallagher, Mark Gallagher, Rob Hunter)</p>\n<p>Eric Burdon &amp; War &#8211; Spill The Wine (Charles Miller, Howard E. Scott, B.B. Dickerson, Lonnie Jordan, Harold Ray Brown, Thomas &quot;Papa Dee&quot; Allen, Lee Oskar)<br />\nAnimals &#8211; Bury my body (tradicional)<br />\nGeordie &#8211; House of the rising sun (tradicional)</p>\n<p>Lindisfarne &#8211; Keeping the rage (Alan Hull, Marty Craggs) <br />\nAlan Hull &#8211; Dan the plan<br />\nJohn Miles &#8211; Rebel (John Miles, Bob Marshall)</p>\n<p>Roxy Music &ndash; Just another high (Bryan Ferry)<br />\nChris Rea &#8211; Fool (If you think it&#8217;s over)<br />\nPaul Rodgers &#8211; Heart of fire</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            },
+            {
+                "id": 544,
+                "titulo": "Rock do Nordeste da Inglaterra",
+                "link": "https://socithom.camara.gov.br/radio/programas/544-rock-do-nordeste-da-inglaterra/",
+                "data": "2018-08-04 18:00:00",
+                "data_formatada": "04/08/2018",
+                "hora_formatada": "18:00",
+                "resumo": "",
+                "tema_principal": "",
+                "area": "",
+                "conteudo": "<p>Polos de produ&ccedil;&atilde;o musical no nordeste da Inglaterra, as cidades de Newcastle e Middlesbrough s&atilde;o o ber&ccedil;o de v&aacute;rios nomes do per&iacute;odo cl&aacute;ssico do rock. A viagem musical desta edi&ccedil;&atilde;o de <strong>Mem&oacute;ria do Rock</strong> desembarca na regi&atilde;o, atrav&eacute;s de grandes vocalistas: <strong>David Coverdale </strong>e seu <strong>Whitesnake</strong>, <strong>Bryan Ferry </strong>no <strong>Roxy Music</strong>, <strong>Geordie </strong>com<strong> Brian Johnson</strong>, que depois viria a assumir os vocais do <strong>AC/DC</strong>, <strong>Alan Hull </strong>do <strong>Lindisfarne</strong>,<strong> Eric Burdon </strong>no <strong>Animals</strong>, e ainda <strong>Paul Rodgers</strong>, frontman de <strong>Free</strong>, <strong>Bad Company</strong> e<strong> Queen</strong>.</p>\n<p><u><em>SETLIST</em></u></p>\n<p>Whitesnake &#8211; Fool for your loving (David Coverdale, Micky Moody, Bernie Marsden)<br />\nDavid Coverdale &#8211; Only My Soul<br />\nRaven &#8211; On and on (John Gallagher, Mark Gallagher, Rob Hunter)</p>\n<p>Eric Burdon &amp; War &#8211; Spill The Wine (Charles Miller, Howard E. Scott, B.B. Dickerson, Lonnie Jordan, Harold Ray Brown, Thomas &quot;Papa Dee&quot; Allen, Lee Oskar)<br />\nAnimals &#8211; Bury my body (tradicional)<br />\nGeordie &#8211; House of the rising sun (tradicional)</p>\n<p>Lindisfarne &#8211; Keeping the rage (Alan Hull, Marty Craggs) <br />\nAlan Hull &#8211; Dan the plan<br />\nJohn Miles &#8211; Rebel (John Miles, Bob Marshall)</p>\n<p>Roxy Music &ndash; Just another high (Bryan Ferry)<br />\nChris Rea &#8211; Fool (If you think it&#8217;s over)<br />\nPaul Rodgers &#8211; Heart of fire</p>\n",
+                "imagens": [],
+                "videos": [],
+                "audios": [],
+                "horario": ""
+            }
+        ],
+        "comentarios_sisnews": [],
+        "total_comentarios_sisnews": 0
+    }
+]

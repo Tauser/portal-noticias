@@ -1,0 +1,57 @@
+
+{{#> templates/base--breadcrumbs this
+breadcrumbs-itens=breadcrumbs
+}}
+
+{{#*inline "content-block-base--breadcrumbs"}}
+
+{{> pages/agencia/_noticia-interna__principal }}
+{{> pages/agencia/_noticia-interna__tempo-real }}
+{{> pages/agencia/_noticia-interna__comentarios }}
+{{> pages/agencia/_noticia-interna__sua-opiniao }}
+{{> pages/agencia/_noticia-interna__integra-proposta }}
+{{> pages/agencia/_noticia-interna__veja-tambem }}
+{{> pages/agencia/_noticia-interna__mais-conteudo }}
+
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+
+{{#if dados.tags.length}}
+<meta name="keywords" content="{{#each dados.tags}}{{this.nome}}, {{/each}}"/>
+{{/if}}
+
+<meta property="og:title" content="{{dados.titulo}}" />
+
+{{#if dados.resumo.length }}
+<meta property="og:description" content="{{dados.resumo}}" />
+{{/if}}
+
+{{#if dados._imagens.length }}
+{{#each dados._imagens}}
+{{#each this.sizes}}
+{{#compare this.tipo '===' 'medium_large'}}
+<meta property="og:image" content="{{this.url}}" />
+{{/compare}}
+{{/each}}
+{{/each}}
+{{/if}}
+
+<meta property="og:url" content="{{dados.link}}" />
+<meta property="og:type" content="article" />
+<meta property="fb:app_id" content="305358806340223" />
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/noticia-interna.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/comunicacao/noticia-interna.js"></script>
+<script src="{{urlPortal}}/noticias/static/iframeResizer.min.js"></script>
+<script src="{{urlPortal}}/noticias/static/modalCaller.js"> </script>
+<script>
+  $(document).ready(function () {
+    $('.infografico-container').iFrameResize({ log: true });
+  });
+</script>
+{{/inline}}
+
+{{/templates/base--breadcrumbs}}

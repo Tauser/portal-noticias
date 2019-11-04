@@ -1,0 +1,455 @@
+{
+  "id": 2556,
+  "tipo_conteudo": "agencia",
+  "objeto_wp": {
+    "label": "Notícias",
+    "capability": "post"
+  },
+  "area_conteudo": {
+    "id": 1925,
+    "name": "Notícias",
+    "slug": "noticias"
+  },
+  "link": "/noticias/2556-seminario-no-parana-debate-o-fim-do-foro-privilegiado/",
+  "path_separado": [
+    "noticias",
+    "2556-seminario-no-parana-debate-o-fim-do-foro-privilegiado"
+  ],
+  "breadcrumbs": [
+    {
+      "nivel": 0,
+      "name": "Notícias",
+      "slug": "noticias",
+      "id": 1925,
+      "link": "/1925-noticias"
+    }
+  ],
+  "menu_local": [
+    {
+      "ID": 1925,
+      "label": "Notícias",
+      "slug": "noticias",
+      "link": "/1925-noticias"
+    }
+  ],
+  "titulo": "Seminário no Paraná debate o \"fim do foro\" privilegiado",
+  "data": 1533631620,
+  "data_formatada": "07/08/2018",
+  "hora_formatada": "08:47",
+  "data_atualizacao": 1552408214,
+  "data_atualizacao_formatada": "12/03/2019",
+  "hora_atualizacao_formatada": "16:30",
+  "conteudo": "<p>A <span class=\"termoGlossario\" title=\"Comissão temporária criada para analisar e votar proposta de emenda à Constituição (PEC), projeto de código e propostas que envolvam matéria de competência de mais de três comissões de mérito.\">comissão especial </span>que analisa a proposta de emenda à Constituição que pretende extinguir o chamado foro privilegiado <a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=2140446\" data-proposicao=\"PEC 333/2017|PEC|333|2017|2140446\" data-controle=\"proposicao\">PEC 333/2017</a>  discute o assunto nesta manhã em Londrina (PR).</p>\n<p>O foro privilegiado é o direito que a autoridade tem de ser julgada pelas instâncias superiores, seja o STF, ou o Superior Tribunal de Justiça (STJ).\"Embora deliberada pela Constituinte, a realidade se tornou contrária a pretendida: vemos a impunidade em processos por crimes graves\", afirma o deputado <a href=\"http://www.camara.leg.br/internet/Deputado/dep_Detalhe.asp?id=178929\" data-deputado=\"Diego Garcia|PODE-PR|178929|0|1550237630009\">Diego Garcia (PODE-PR)</a>, que pediu a realização do seminário. <a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=2163024\" data-proposicao=\"MSC-463/2017|MSC|463|2017|2163024\" data-controle=\"proposicao\">MSC-463/2017</a>   <a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=2175739\" data-proposicao=\"PDC-936/2018|PDC|936|2018|2175739\" data-controle=\"proposicao\">PDC-936/2018 </a>  <a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=2163024\" data-proposicao=\"MSC-463/2017|MSC|463|2017|2163024\" data-controle=\"proposicao\">MSC-463/2017</a></p>\n<p>Pela proposta em discussão na Câmara, o foro especial ficaria restrito aos presidentes da República, da Câmara, do Senado e do STF. Deixariam de ter foro privilegiado os ministros de Estado, governadores, senadores, deputados federais e estaduais, entre outras autoridades. <a href=\"http://www.camara.leg.br/internet/Deputado/dep_Detalhe.asp?id=74693\" data-deputado=\"Rodrigo Maia|DEM-RJ|74693|0|1551987011245\">Rodrigo Maia (DEM-RJ)</a></p>\n<p>Foram convidados para participar do evento:<br />\n- especialista em Direito eleitoral e Processo Eleitoral Clodomiro Bannwart;<br />\n- o advogado Elve Cenci;<br />\n- o membro da Academia Paranaense de Letras Jurídicas Zulmar Fachin; e<br />\n- os professores de Direito Constitucional Damásio Educacional Flávio Martins e Taigoara Finardi Martins.</p>\n<p>O seminário será realizado a partir das 9 horas, no auditório da Ordem dos Advogados do Brasil em Londrina.</p>\n",
+  "resumo": "O foro privilegiado é o direito que a autoridade tem de ser julgada pelas instâncias superiores, seja o STF, ou o Superior Tribunal de Justiça (STJ).\"Embora deliberada pela Constituinte, a realidade se tornou contrária a pretendida: vemos a impunidade em processos por crimes graves\", afirma o deputado Diego Garcia (Podemos-PR), que pediu a realização do seminário.",
+  "imagem_destaque": {
+    "nome": "img20190206154256013",
+    "descricao": "",
+    "legenda": "",
+    "texto_alternativo": "",
+    "credito": "",
+    "sizes": [
+      {
+        "tipo": "thumbnail",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      {
+        "tipo": "medium",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      {
+        "tipo": "medium_large",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-768x512.jpg",
+        "width": 768,
+        "height": 512
+      },
+      {
+        "tipo": "large",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-1024x682.jpg",
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "tipo": "Personalizado_1",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-602x411.jpg",
+        "width": "602",
+        "height": "411"
+      }
+    ],
+    "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013.jpg"
+  },
+  "videos": {
+    "nome": "tvcafatoseopinioes_20180706",
+    "descricao": "",
+    "legenda": "",
+    "texto_alternativo": "",
+    "credito": "",
+    "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/tvcafatoseopinioes_20180706.mp4"
+  },
+  "imagem_poster": null,
+  "audios": {
+    "nome": "ultimas_20190208_jc_visita_brumadinho",
+    "descricao": "\"ultimas_20190208_jc_visita_brumadinho\". Lançado: 2019. Gênero: Blues.",
+    "legenda": "",
+    "texto_alternativo": "",
+    "credito": "",
+    "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/ultimas_20190208_jc_visita_brumadinho.mp3"
+  },
+  "arquivo_anexo": null,
+  "tags_conteudo": [
+    {
+      "id": 256,
+      "nome": "Deputados",
+      "slug": "deputados"
+    },
+    {
+      "id": 254,
+      "nome": "Foro privilegiado",
+      "slug": "foro-privilegiado"
+    },
+    {
+      "id": 257,
+      "nome": "Lava Jato",
+      "slug": "lava-jato"
+    },
+    {
+      "id": 253,
+      "nome": "Política",
+      "slug": "politica"
+    },
+    {
+      "id": 255,
+      "nome": "STF",
+      "slug": "stf"
+    }
+  ],
+  "tema_principal": "Administração Pública",
+  "outros_temas": "Administração Pública e Agropecuária",
+  "rodape": "Reportagem - Murilo Souza\r\nEdição – Roberto Seabra",
+  "tipo_noticia": "Íntegra",
+  "deputados": [
+    {
+      "id": 251,
+      "nome": "Diego Garcia",
+      "idecadastro": "178929",
+      "nome_formatado": "Diego Garcia (PODE-PR)"
+    },
+    {
+      "id": 109,
+      "nome": "Rodrigo Maia",
+      "idecadastro": "74693",
+      "nome_formatado": "Rodrigo Maia (DEM-RJ)"
+    }
+  ],
+  "projetos_de_lei": [
+    {
+      "id": 259,
+      "nome": "MSC-463/2017",
+      "idecadastro": "2163024"
+    },
+    {
+      "id": 260,
+      "nome": "PDC-936/2018",
+      "idecadastro": "2175739"
+    },
+    {
+      "id": 252,
+      "nome": "PEC 333/2017",
+      "idecadastro": "2140446"
+    }
+  ],
+  "projeto_lei_principal": [
+    "2140446"
+  ],
+  "continuacao_noticia": [
+    {
+      "id": "3573",
+      "data": 1550492328,
+      "data_formatada": "18/02/2019",
+      "titulo": "Debate: O \"fim do foro\" privilegiado (continuação)",
+      "conteudo": "Continuação",
+      "hora_formatada": "12:18",
+      "tema_principal": "Administração Pública",
+      "link": "/noticias/3573-debate-o-fim-do-foro-privilegiado-continuacao/",
+      "resumo": null,
+      "imagem_destaque": {
+        "nome": "img20190207164117018",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": "",
+        "credito": "",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190207164117018-150x100.jpg",
+            "width": 150,
+            "height": 100
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190207164117018-300x200.jpg",
+            "width": 300,
+            "height": 200
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190207164117018-768x512.jpg",
+            "width": 768,
+            "height": 512
+          },
+          {
+            "tipo": "large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190207164117018-1024x683.jpg",
+            "width": 1024,
+            "height": 683
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190207164117018.jpg"
+      }
+    },
+    {
+      "id": "3408",
+      "data": 1532531040,
+      "data_formatada": "25/07/2018",
+      "titulo": "Acordo proposto pelo TSE a partidos visa reduzir disseminação de notícias falsas nas eleições",
+      "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\r\n<div class=\"excluirVideo\"></div>\r\n<div class=\"creditoFoto\" contenteditable=\"false\">Divulgação/TSE</div>\r\n<div class=\"imagem\"><img style=\"width: 100%; max-height: 100%;\" src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2017/06/img201706061441375289705.jpg\" alt=\"Direito - geral - TSE Tribunal Superior Eleitoral justiça\" border=\"0\" data-width=\"672\" data-height=\"364\" /></div>\r\n<div class=\"legenda\">Ainda há tempo hábil para que os partidos que ainda não assinaram o termo de compromisso contra as fake news o façam</div>\r\n</div>\r\nDos trinta e cinco partidos existentes no Brasil, trinta assinaram o termo de compromisso proposto pelo Tribunal Superior Eleitoral (TSE) contra a propagação das notícias falsas durante as campanhas eleitorais deste ano. Conhecidas pelo termo em inglês <em>fake news</em>, esse fenômeno envolve a distorção de fatos, a desinformação, a informação incompleta e enviesada e as mentiras descaradas.\r\n\r\nAinda há tempo hábil para que os partidos que ainda não assinaram o termo de compromisso contra as fake news o façam, pois o TSE não estabeleceu um prazo limite.\r\n\r\nO PCdoB foi um dos partidos que se comprometeram a lutar contra as fake News. Para o líder do partido, deputado Orlando Silva (SP), notícias falsas significam risco para a democracia tanto em eleições locais quanto nacionais.\r\n\r\n“Porque sempre que você manipular a opinião pública e adulterar a formação da opinião de um cidadão está ferindo a democracia. Por isso que creio que é muito importante o acordo e a discussão de uma legislação mais dura pra combater as notícias falsas.”\r\n\r\nO deputado Pompeo de Mattos (PDT-RS), cujo partido também assinou o compromisso do TSE, apresentou projeto de lei para incluir a punição às fake news no Código Penal. Ele diz, por trás da prática, “está o cidadão covarde, que não tem coragem de dizer o que pensa, não sustenta o que diz. Ele se esconde no obscurantismo das publicações falsas para depreciar, denegrir a imagem das pessoas”, afirma.\r\n\r\nLíder do DEM, partido que também assinou o termo de compromisso, o deputado Rodrigo Garcia (SP), diz que, além do monitoramento da internet, é preciso que o cidadão não acredite em tudo que vê, cheque as informações e a fonte. Os partidos políticos e os próximos candidatos, acrescenta, também devem atuar para combater a prática.\r\n\r\n“Muitas vezes, você está disputando eleições, pedindo voto, o eleitor te faz um questionamento. Muitos desses questionamentos, já na última eleição, em 2014, eram baseados em notícias falsas. Então, cabe a você explicar, com toda a tranquilidade, mostrando que aquilo não era verdadeiro. Isso deve crescer nessas eleições”, avalia.\r\n\r\n<strong>Danos\r\n</strong>Na prática, os danos causados pelas fake news podem ser devastadores, como conta o líder do Psol, deputado Chico Alencar (RJ) mais um partido a assinar o compromisso contra as fake news. “Vivemos uma experiência dolorosíssima, em termos de fake news, em março deste ano, após a execução bárbara de Marielle Franco, nossa vereadora no Rio, e seu motorista Anderson Gomes. No dia seguinte começaram a caluniá-la. Nós reagimos de maneira veemente, inclusive buscando a Justiça. Isso diminuiu”, afirma.\r\n\r\nSegundo o deputado, ainda hoje a família de Marielle ouve ilações e comentários cruéis e abomináveis. “Há uma questão que é da cultura brasileira, hoje em dia muito apequenada, muito eivada de ódio, de preconceitos. Isso vai levar tempo para ser superar, mas a gente tem que começar, por isso mesmo, desde já”.\r\n\r\n<strong>Partidos\r\n</strong>Assinaram o acordo até o momento, segundo o TSE: PTB; PDT; DEM; PCdoB; PCB; PSB; PODE; PSDB; PSC; PRP; PV; PPS; AVANTE; DC; PPL; PP; MDB; PHS; PSL; PRB; PSOL; PR; PSD; PRTB; PATRI; PROS; PMN; SD; NOVO; e REDE.",
+      "hora_formatada": "15:04",
+      "tema_principal": "",
+      "link": "/noticias/3408-acordo-proposto-pelo-tse-a-partidos-visa-reduzir-disseminacao-de-noticias-falsas-nas-eleicoes/",
+      "resumo": null,
+      "imagem_destaque": {
+        "nome": "img20180620184310263",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": "",
+        "credito": "",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20180620184310263-150x98.jpg",
+            "width": 150,
+            "height": 98
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20180620184310263-300x197.jpg",
+            "width": 300,
+            "height": 197
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20180620184310263-768x503.jpg",
+            "width": 768,
+            "height": 503
+          },
+          {
+            "tipo": "large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20180620184310263-1024x671.jpg",
+            "width": 1024,
+            "height": 671
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20180620184310263.jpg"
+      }
+    },
+    {
+      "id": "3143",
+      "data": 1533630660,
+      "data_formatada": "07/08/2018",
+      "titulo": "Câmara premia ilustrações sobre empoderamento feminino e superação da violência",
+      "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemQuadradaG\">\r\n<div class=\"excluirVideo\"></div>\r\n<div class=\"creditoFoto\" contenteditable=\"false\">Divulgação/SECOM</div>\r\n<div class=\"imagem\"><img style=\"width: 100%; max-height: 100%;\" src=\"http://www2.camara.leg.br/camaranoticias/imagens/imgNoticia-1533563135825.jpg\" alt=\"Direitos Humanos - mulheres - Vencedores do 6º Concurso sobre a Lei Maria da Penha\" border=\"0\" data-height=\"675\" data-width=\"675\" /></div>\r\n</div>\r\nA Secretaria da Mulher da Câmara dos Deputados premia hoje os vencedores do 6º Concurso sobre a <span class=\"termoGlossario\" title=\"Trata-se da Lei 11.340/06 que protege as mulheres contra a violência doméstica e familiar. A lei torna mais rigorosa a punição aos agressores, aumentando o tempo máximo de detenção de um para três anos. Prevê ainda a prisão em flagrante do agressor e a não aplicação de penas alternativas (aquelas em que o réu é condenado a pagar cestas básicas ou multas). Constatada a agressão, poderão também ser aplicadas medidas protetivas como o afastamento do agressor do domicílio e a proibição de sua aproximação da ofendida. O nome da lei é uma homenagem a Maria da Penha Fernandes, que sobreviveu a duas tentativas de homicídio praticadas pelo ex-marido.\">Lei Maria da Penha</span> (<a href=\"http://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-norma-pl.html\" target=\"_blank\" rel=\"noopener\">11.340/06</a>).\r\n\r\nDesde 2012, a Procuradoria da Mulher da Câmara dos Deputados, em um convênio com o Banco Mundial e parceria com a Procuradoria Especial da Mulher do Senado, realiza o concurso cultural sobre a Lei Maria da Penha, já tendo premiado criações artísticas em diversos formatos, como filmes, canções e fotografias.\r\n\r\nNeste ano, serão premiadas as melhores ilustrações sobre o empoderamento feminino como mecanismo de superação da violência. Além do troféu e diploma de menção honrosa, os vencedores receberão um tablet cada um.\r\n\r\n<strong>Confira os vencedores:</strong>\r\n<u>Categoria ilustrador amador </u>\r\n1º lugar - Bárbara Rodrigues Costa Paulo\r\n2º lugar - Chrisleyne Melissa Saqueto\r\n3º lugar - Sarah Luiza Lima da Silva\r\n<u>\r\nCategoria ilustrador profissional </u>\r\n1º lugar - Inaê Pereira Gouveia Coelho\r\n2º lugar - Bruna Pacheco Rison\r\n3º lugar - Lucas Mendes Pinheiro\r\n\r\nA cerimônia de premiação será realizada às 18 horas, no Salão Nobre.",
+      "hora_formatada": "08:31",
+      "tema_principal": "",
+      "link": "/noticias/3143-camara-premia-ilustracoes-sobre-empoderamento-feminino-e-superacao-da-violencia/",
+      "resumo": null,
+      "imagem_destaque": null
+    }
+  ],
+  "materias_relacionadas": [
+    {
+      "id": "3211",
+      "data": 1533229500,
+      "data_formatada": "02/08/2018",
+      "titulo": "Agentes públicos têm condutas proibidas durante o período eleitoral",
+      "conteudo": "As eleições ocorrerão em outubro, mas desde janeiro deste ano já começaram a valer regras sobre as condutas vedadas aos agentes públicos – sejam eles candidatos ou não. Entre essas condutas proibidas pela lei está a distribuição gratuita de bens, valores ou benefícios.\r\n\r\nO Tribunal Superior Eleitoral (TSE) proíbe certas condutas para evitar práticas indevidas e impedir o uso da máquina pública em favor de alguma candidatura. No início do ano, a Advocacia-Geral da União (AGU), órgão do Poder Executivo, publicou cartilha com princípios básicos para nortear as condutas dos agentes públicos até a eleição.\r\n<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\r\n<div class=\"excluirVideo\"></div>\r\n<div class=\"creditoFoto\" contenteditable=\"false\">Divulgação/TSE</div>\r\n<div class=\"imagem\"><img style=\"width: 100%; max-height: 100%;\" src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2017/06/img201706061441375289705.jpg\" alt=\"Direito - geral - TSE Tribunal Superior Eleitoral justiça\" border=\"0\" data-width=\"672\" data-height=\"364\" /></div>\r\n<div class=\"legenda\">Intenção do TSE com as medidas é impedir que a máquina pública seja usada em favor de alguma candidatura</div>\r\n</div>\r\nSegundo a cartilha, são agentes públicos os agentes políticos (presidente, governadores, deputados etc.); servidores públicos efetivos e comissionados; empregados de órgãos públicos sujeitos ao regime celetista ou estatutário; prestadores de serviço para a atividade pública; estagiários em empresas públicas; terceirizados, gestores e permissionários de serviço público.\r\n\r\nO diretor do departamento eleitoral da AGU, Rafael Rossi, explica as normas.\r\n\r\n\"O princípio basilar da legislação eleitoral é a ideia de preservação de forças no pleito eleitoral. A participação em campanha é um direito de todos os cidadãos, mas o agente público deve respeitar as normas eleitorais e os princípios éticos que regem a Administração para que não haja uso da máquina pública de forma indevida. Os agentes públicos podem participar das eleições desde que fora do expediente e sem se valer do status de ser agente público, sem mencionar o cargo ou sua atribuição.\"\r\n\r\nDesde o último dia 7 de julho, os agentes públicos, servidores ou não, estão impedidos de nomear, contratar, demitir sem justa causa, dificultar ou impedir o exercício funcional de servidor público. As exceções são aquelas relacionadas à nomeação para cargos do Poder Judiciário, do Ministério Público, dos Tribunais ou Conselhos de Contas e dos órgãos da Presidência da República.\r\n\r\nNos três meses que antecedem as eleições de outubro, a União também não pode transferir recursos voluntários a estados e municípios. A não ser que se tratem de obras em andamento e com cronograma já fixado ou que atendam situações de emergência. A vedação vale também para as transferências de estados para municípios.\r\n<div id=\"audioContainer\" class=\"alinhadoEsquerda\" style=\"min-width: 50%; height: 4emposition:relative; min-height: 10px; overflow-y: hidden;\">\r\n<div class=\"excluirVideo\"></div>\r\n<div id=\"audioNoticia\" class=\"id1533240608968\">\r\n\r\n<object width=\"300\" height=\"150\"></object><script>mcplayer(\"#audioNoticia.id1533240608968\").live({ id_element: \"playerMP4\", flash_player: \"/comum/js/SampleMediaPlayback.swf\", mp4: \"http://imagem.camara.gov.br/internet/midias/radio/2018/07/ultimas_20180710_lx_condutas_vedadas_eleicoes.mp3\", width: \"100%\", height: \"35em\", type:\"audio\",  muted: false, autoplay: false, controlBarAutoHide: false });</script>\r\n<div class=\"legenda\">Ouça esta matéria na Rádio Câmara</div>\r\n</div>\r\n</div>\r\nSão proibidas, além disso, a publicidade de atos, programas, obras e serviços e as campanhas de órgãos públicos federais, estaduais e municipais, salvo em situação de grave e urgente necessidade pública.\r\n\r\nA três meses da eleição, os agentes públicos não podem fazer pronunciamento em cadeia de rádio e TV nem promover eventos para inauguração de obras.\r\n\r\nNo dia da votação, tanto no primeiro como no segundo turnos, é vedado aos servidores da Justiça Eleitoral, aos mesários e aos escrutinadores, no recinto das seções eleitorais e juntas apuradoras, o uso de vestuário ou objeto que contenha qualquer propaganda de partido político, de coligação ou de candidato.",
+      "hora_formatada": "17:05",
+      "tema_principal": "Agropecuária",
+      "link": "/noticias/3211-agentes-publicos-tem-condutas-proibidas-durante-o-periodo-eleitoral/",
+      "resumo": null,
+      "imagem_destaque": {
+        "nome": "img20190312123049063",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": "",
+        "credito": "",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20190312123049063-150x100.jpg",
+            "width": 150,
+            "height": 100
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20190312123049063-300x200.jpg",
+            "width": 300,
+            "height": 200
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20190312123049063-768x512.jpg",
+            "width": 768,
+            "height": 512
+          },
+          {
+            "tipo": "large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20190312123049063-1024x683.jpg",
+            "width": 1024,
+            "height": 683
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/img20190312123049063.jpg"
+      }
+    },
+    {
+      "id": "2556",
+      "data": 1533631620,
+      "data_formatada": "07/08/2018",
+      "titulo": "Seminário no Paraná debate o \"fim do foro\" privilegiado",
+      "conteudo": "A <span class=\"termoGlossario\" title=\"Comissão temporária criada para analisar e votar proposta de emenda à Constituição (PEC), projeto de código e propostas que envolvam matéria de competência de mais de três comissões de mérito.\">comissão especial </span>que analisa a proposta de emenda à Constituição que pretende extinguir o chamado foro privilegiado <a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=2140446\" data-proposicao=\"PEC 333/2017|PEC|333|2017|2140446\" data-controle=\"proposicao\">PEC 333/2017</a>  discute o assunto nesta manhã em Londrina (PR).\r\n\r\nO foro privilegiado é o direito que a autoridade tem de ser julgada pelas instâncias superiores, seja o STF, ou o Superior Tribunal de Justiça (STJ).\"Embora deliberada pela Constituinte, a realidade se tornou contrária a pretendida: vemos a impunidade em processos por crimes graves\", afirma o deputado <a href=\"http://www.camara.leg.br/internet/Deputado/dep_Detalhe.asp?id=178929\" data-deputado=\"Diego Garcia|PODE-PR|178929|0|1550237630009\">Diego Garcia (PODE-PR)</a>, que pediu a realização do seminário. <a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=2163024\" data-proposicao=\"MSC-463/2017|MSC|463|2017|2163024\" data-controle=\"proposicao\">MSC-463/2017</a>   <a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=2175739\" data-proposicao=\"PDC-936/2018|PDC|936|2018|2175739\" data-controle=\"proposicao\">PDC-936/2018 </a>  <a href=\"http://www.camara.gov.br/proposicoesWeb/fichadetramitacao?idProposicao=2163024\" data-proposicao=\"MSC-463/2017|MSC|463|2017|2163024\" data-controle=\"proposicao\">MSC-463/2017</a>\r\n\r\nPela proposta em discussão na Câmara, o foro especial ficaria restrito aos presidentes da República, da Câmara, do Senado e do STF. Deixariam de ter foro privilegiado os ministros de Estado, governadores, senadores, deputados federais e estaduais, entre outras autoridades. <a href=\"http://www.camara.leg.br/internet/Deputado/dep_Detalhe.asp?id=74693\" data-deputado=\"Rodrigo Maia|DEM-RJ|74693|0|1551987011245\">Rodrigo Maia (DEM-RJ)</a>\r\n\r\nForam convidados para participar do evento:\r\n- especialista em Direito eleitoral e Processo Eleitoral Clodomiro Bannwart;\r\n- o advogado Elve Cenci;\r\n- o membro da Academia Paranaense de Letras Jurídicas Zulmar Fachin; e\r\n- os professores de Direito Constitucional Damásio Educacional Flávio Martins e Taigoara Finardi Martins.\r\n\r\nO seminário será realizado a partir das 9 horas, no auditório da Ordem dos Advogados do Brasil em Londrina.",
+      "hora_formatada": "08:47",
+      "tema_principal": "Administração Pública",
+      "link": "/noticias/2556-seminario-no-parana-debate-o-fim-do-foro-privilegiado/",
+      "resumo": null,
+      "imagem_destaque": {
+        "nome": "img20190206154256013",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": "",
+        "credito": "",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-150x100.jpg",
+            "width": 150,
+            "height": 100
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-300x200.jpg",
+            "width": 300,
+            "height": 200
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-768x512.jpg",
+            "width": 768,
+            "height": 512
+          },
+          {
+            "tipo": "large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-1024x682.jpg",
+            "width": 1024,
+            "height": 682
+          },
+          {
+            "tipo": "Personalizado_1",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013-602x411.jpg",
+            "width": "602",
+            "height": "411"
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/02/img20190206154256013.jpg"
+      }
+    },
+    {
+      "id": "3554",
+      "data": 1531832100,
+      "data_formatada": "17/07/2018",
+      "titulo": "Comissões permanentes da Câmara aprovaram 650 propostas no primeiro semestre",
+      "conteudo": "<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div contenteditable=\"false\" class=\"creditoFoto\">Luis Macedo/C&acirc;mara dos Deputados</div>\n<div class=\"imagem\"><img border=\"0\" src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/07/img20180711201029301.jpg\" alt=\"Sess&atilde;o para delibera&ccedil;&atilde;o dos projetos de lei do congresso nacional n&ordm;s 13, 9, 10 e 2 de 2018\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"655\" /></div>\n<div class=\"legenda\">Nem todas as propostas aprovadas por comiss&otilde;es seguem para vota&ccedil;&atilde;o no Plen&aacute;rio da C&acirc;mara</div>\n</div>\n<p>As 25 <a href=\"http://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes\" target=\"_blank\">comiss&otilde;es permanentes</a> da C&acirc;mara dos Deputados encerraram o primeiro semestre com 650 propostas legislativas aprovadas e 171 rejeitadas. O n&uacute;mero inclui projetos de lei (PLs) e de decreto legislativo (PDCs), entre outras mat&eacute;rias. No total, as comiss&otilde;es t&eacute;cnicas da Casa realizaram 564 reuni&otilde;es entre abril e julho, sendo 272 deliberativas e 292 destinadas a eventos como audi&ecirc;ncias p&uacute;blicas e semin&aacute;rios.<br />\n<br />\nAs comiss&otilde;es permanentes exercem um papel fundamental no processo legislativo, agindo como a primeira inst&acirc;ncia de discuss&atilde;o e an&aacute;lise das proposi&ccedil;&otilde;es. Cada colegiado tem a sua pr&oacute;pria mesa diretiva, formada por um presidente e tr&ecirc;s vices, que coordenam os debates e as vota&ccedil;&otilde;es.<br />\n<br />\nO Plen&aacute;rio Ulysses Guimar&atilde;es funciona como &uacute;ltima inst&acirc;ncia de an&aacute;lise, mas nem todas as propostas em tramita&ccedil;&atilde;o na Casa chegam l&aacute;. Uma parcela dos projetos &eacute; analisada em <span class=\"termoGlossario\" title=\"Rito de tramita&ccedil;&atilde;o pelo qual o projeto &eacute; votado apenas pelas comiss&otilde;es designadas para analis&aacute;-lo, dispensada a delibera&ccedil;&atilde;o do Plen&aacute;rio. O projeto perde o car&aacute;ter conclusivo se houver decis&atilde;o divergente entre as comiss&otilde;es ou se, independentemente de ser aprovado ou rejeitado, houver recurso assinado por 52 deputados para a aprecia&ccedil;&atilde;o da mat&eacute;ria no Plen&aacute;rio.\">car&aacute;ter conclusivo</span>, regime que concentra a vota&ccedil;&atilde;o apenas nas comiss&otilde;es. Das 650 propostas aprovadas, 107 tramitaram de forma conclusiva.<br />\n<br />\nCom a aprova&ccedil;&atilde;o conclusiva as propostas puderam ser remetidas diretamente para o Senado &ndash; que faz o papel de Casa revisora das propostas aprovadas na C&acirc;mara &ndash; ou para san&ccedil;&atilde;o presidencial, dependendo da situa&ccedil;&atilde;o. Um exemplo de mat&eacute;ria que tramitou nesse regime &eacute; o PL 7752/17, que instituiu a Pol&iacute;tica Nacional de Leitura e Escrita. O texto foi <a target=\"_blank\" href=\"http://www2.camara.leg.br/camaranoticias/noticias/EDUCACAO-E-CULTURA/560447-LEI-CRIA-POLITICA-NACIONAL-DE-LEITURA-E-ESCRITA.html\">sancionado</a> na &uacute;ltima quinta-feira (12), tornando-se a Lei <a target=\"_blank\" href=\"http://www2.camara.leg.br/legin/fed/lei/2018/lei-13696-12-julho-2018-786975-norma-pl.html\">13.696/18</a>.</p>\n<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div contenteditable=\"false\" class=\"creditoFoto\">D&ecirc;nio Sim&otilde;es/Ag&ecirc;ncia Bras&iacute;lia</div>\n<div class=\"imagem\"><img border=\"0\" src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2018/04/img20180405164822273.jpg\" alt=\"Meio Ambiente - animais e natureza - hospital veterin&aacute;rios pets sa&uacute;de animal cachorros\" style=\"width:100%; max-height:100%;\" data-width=\"1000\" data-height=\"664\" /></div>\n<div class=\"legenda\">Projeto que permite a veterin&aacute;rio atender de gra&ccedil;a vai ser votado na CCJ</div>\n</div>\n<p><strong>Veterin&aacute;rio de gra&ccedil;a e casamento infantil</strong><br />\nEntre as proposi&ccedil;&otilde;es relevantes aprovadas pelas comiss&otilde;es permanentes nesse semestre destaca-se o Projeto de Lei <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/EDUCACAO-E-CULTURA/559076-COMISSAO-PROIBE-ESCOLAS-DE-COBRAR-MATRICULA-ANTECIPADA-PARA-GARANTIR-VAGA.html\" target=\"_blank\">2959/11</a>, que pro&iacute;be a cobran&ccedil;a, pelas escolas, de taxa de reserva para garantir a vaga do aluno. Outro texto que gerou muitos debates foi o Projeto de Lei <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/EDUCACAO-E-CULTURA/558720-COMISSAO-APROVA-PROGRAMA-DE-INCENTIVO-PARA-PROFESSOR-DE-UNIVERSIDADES-DO-INTERIOR.html\" target=\"_blank\">1285/15</a>, que cria uma pol&iacute;tica para incentivar a presen&ccedil;a de professores nas universidades situadas no interior do Pa&iacute;s.<br />\n<br />\nA Comiss&atilde;o de Trabalho, de Administra&ccedil;&atilde;o e Servi&ccedil;o P&uacute;blico aprovou um texto que assegura &agrave; estudante gr&aacute;vida o direito &agrave; interrup&ccedil;&atilde;o do est&aacute;gio por 120 dias a partir do nono m&ecirc;s de gesta&ccedil;&atilde;o ou do nascimento da crian&ccedil;a (PL <a target=\"_blank\" href=\"http://www2.camara.leg.br/camaranoticias/noticias/TRABALHO-E-PREVIDENCIA/560420-TRABALHO-APROVA-PROJETO-QUE-PERMITE-INTERRUPCAO-DE-ESTAGIO-PARA-ALUNA-GRAVIDA.html\">7109/10</a>). Outra proposi&ccedil;&atilde;o acolhida pelo colegiado garante ao veterin&aacute;rio o direito de prestar servi&ccedil;os gratuitos, ou por pre&ccedil;os m&oacute;dicos, em caso de utilidade p&uacute;blica (PL <a target=\"_blank\" href=\"http://www2.camara.leg.br/camaranoticias/noticias/TRABALHO-E-PREVIDENCIA/557563-TRABALHO-APROVA-PERMISSAO-PARA-VETERINARIOS-ATENDEREM-DE-GRACA.html\">4324/16</a>). O assunto provocou muita pol&ecirc;mica na comiss&atilde;o.<br />\n<br />\nAs comiss&otilde;es tamb&eacute;m aprovaram a proposta que autoriza a jornada acima de 24 horas semanais para profissionais que trabalham diretamente com raio x (PL <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/SAUDE/558023-COMISSAO-DE-SEGURIDADE-APROVA-AUMENTO-DE-JORNADA-PARA-TRABALHADORES-EXPOSTOS-A-RADIACAO.html\" target=\"_blank\">3886/15</a>); a que elimina a possibilidade legal de casamento de pessoas com menos de 16 anos (PL <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/DIREITOS-HUMANOS/555825-COMISSAO-DE-SEGURIDADE-APROVA-PROJETO-QUE-ACABA-COM-POSSIBILIDADE-DE-CASAMENTO-ANTES-DOS-16-ANOS-DE-IDADE.html\" target=\"_blank\">7119/17</a>); e a que exige metas de desempenho para os incentivos fiscais concedidos pelo governo (PLP <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/ADMINISTRACAO-PUBLICA/558740-FINANCAS-APROVA-EXIGENCIA-DE-META-DE-DESEMPENHO-PARA-ACOES-DE-GOVERNO-QUE-ENVOLVAM-BENEFICIOS-FISCAIS.html\" target=\"_blank\">378/17</a>).<strong><br />\n</strong></p>\n<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\n<div contenteditable=\"false\" class=\"creditoFoto\">Arthur Tahara</div>\n<div class=\"imagem\"><img border=\"0\" src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2017/06/img201706071556305739092.jpg\" alt=\"Agropecu&aacute;ria - agrot&oacute;xicos pesticidas\" style=\"width:100%; max-height:100%;\" data-width=\"672\" data-height=\"462\" /></div>\n<div class=\"legenda\">Projeto que altera a lei dos agrot&oacute;xicos ainda ser&aacute; analisado no Plen&aacute;rio</div>\n</div>\n<p><strong>Agrot&oacute;xicos e ag&ecirc;ncias reguladoras</strong><br />\nAl&eacute;m das comiss&otilde;es permanentes, a C&acirc;mara dos Deputados abriga <a href=\"http://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais\" target=\"_blank\">comiss&otilde;es especiais</a>, que s&atilde;o criadas para analisar algumas proposi&ccedil;&otilde;es espec&iacute;ficas, como propostas que alteram a Constitui&ccedil;&atilde;o (PECs) e projetos que deveriam ser analisados por mais de tr&ecirc;s comiss&otilde;es de m&eacute;rito.<br />\n<br />\nNo primeiro semestre, cinco comiss&otilde;es especiais votaram pareceres. A que ganhou mais destaque foi a que aprovou <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/AGROPECUARIA/559559-COMISSAO-ESPECIAL-APROVA-PARECER-QUE-MUDA-LEGISLACAO-BRASILEIRA-SOBRE-AGROTOXICOS.html\" target=\"_blank\">mudan&ccedil;as na legisla&ccedil;&atilde;o brasileira sobre agrot&oacute;xicos</a> (PL 6299/02). Outra comiss&atilde;o especial relevante foi a que analisou e aprovou uma <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/ADMINISTRACAO-PUBLICA/560307-COMISSAO-ESPECIAL-APROVA-PROPOSTA-DE-LEI-GERAL-DAS-AGENCIAS-REGULADORAS.html\" target=\"_blank\">nova legisla&ccedil;&atilde;o para as ag&ecirc;ncias reguladoras</a> (PL 6621/16, do Senado). <br />\n<br />\nFoi aprovado tamb&eacute;m, em comiss&atilde;o especial, o Projeto de Lei Complementar (PLP) 420/14, que <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/ECONOMIA/557950-COMISSAO-ESPECIAL-ATUALIZA-LEGISLACAO-DE-MICRO-E-PEQUENAS-EMPRESAS.html\" target=\"_blank\">altera a legisla&ccedil;&atilde;o das pequenas e microempresas</a>, tema que sempre mobiliza parlamentares na C&acirc;mara. O texto ajusta os limites para enquadramento no Simples Nacional e incentiva a cria&ccedil;&atilde;o de startups (microempresas de inova&ccedil;&atilde;o tecnol&oacute;gica).</p>",
+      "hora_formatada": "12:55",
+      "tema_principal": "",
+      "link": "/3554-comissoes-permanentes-da-camara-aprovaram-650-propostas-no-primeiro-semestre/",
+      "resumo": null,
+      "imagem_destaque": null
+    },
+    {
+      "id": "3525",
+      "data": 1531911240,
+      "data_formatada": "18/07/2018",
+      "titulo": "Divulgada lista de membros da comissão representativa que atuará no recesso",
+      "conteudo": "<p>Foi divulgada nesta quarta-feira (18) a lista com os nomes dos deputados e senadores que comp&otilde;em a Comiss&atilde;o Representativa do Congresso Nacional, que atuar&aacute; durante o per&iacute;odo do <span title=\"Interrup&ccedil;&atilde;o tempor&aacute;ria das atividades legislativas. N&atilde;o havendo convoca&ccedil;&atilde;o para sess&atilde;o legislativa extraordin&aacute;ria, o recesso da C&acirc;mara e do Senado ser&aacute; de 18 a 31 de julho e de 23 de dezembro a 1&ordm; de fevereiro.\" class=\"termoGlossario\">recesso parlamentar</span>, que teve in&iacute;cio hoje e ir&aacute; at&eacute; 31 de julho.<br />\n<br />\nS&atilde;o sete senadores e 16 deputados. O senador Jos&eacute; Pimentel (PT-CE) &eacute; o presidente da comiss&atilde;o. O presidente da C&acirc;mara dos Deputados, Rodrigo Maia (DEM-RJ), ocupa a vice-presid&ecirc;ncia.<br />\n<br />\nPrevista na Constitui&ccedil;&atilde;o, a comiss&atilde;o representativa exerce atribui&ccedil;&otilde;es de car&aacute;ter urgente que n&atilde;o possam aguardar o in&iacute;cio do per&iacute;odo legislativo seguinte sem preju&iacute;zo para o Pa&iacute;s ou para suas institui&ccedil;&otilde;es. Os integrantes da comiss&atilde;o s&atilde;o eleitos separadamente na C&acirc;mara e no Senado, respeitando-se a proporcionalidade partid&aacute;ria. As atribui&ccedil;&otilde;es do colegiado est&atilde;o revistas em uma <a target=\"_blank\" href=\"http://www2.camara.leg.br/legin/fed/rescon/1990/resolucao-3-21-novembro-1990-497950-publicacaooriginal-1-pl.html\">resolu&ccedil;&atilde;o do Congresso</a>.<a target=\"_blank\" href=\"https://www.congressonacional.leg.br/comissoes-mistas/comissao-representativa\"><br />\n<br />\nConfira aqui</a> os deputados e senadores que comp&otilde;em a comiss&atilde;o representativa.</p>",
+      "hora_formatada": "10:54",
+      "tema_principal": "",
+      "link": "/3525-divulgada-lista-de-membros-da-comissao-representativa-que-atuara-no-recesso/",
+      "resumo": null,
+      "imagem_destaque": null
+    },
+    {
+      "id": "3569",
+      "data": 1531766160,
+      "data_formatada": "16/07/2018",
+      "titulo": "Confira projetos aprovados pela Câmara na área de direitos civis",
+      "conteudo": "<strong>Cartão em braile</strong>\r\nAs pessoas com deficiência visual poderão ter o direito de receber cartões bancários de débito e de crédito com as informações em braile. Isso é o que determina o Projeto de Lei <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/DIREITOS-HUMANOS/495178-PROJETO-ASSEGURA-CARTAO-BANCARIO-COM-INFORMACAO-EM-BRAILE-A-PESSOAS-COM-DEFICIENCIA.html\" target=\"_blank\" rel=\"noopener\">1679/15</a>, aprovado em <span class=\"termoGlossario\" title=\"Rito de tramitação pelo qual o projeto é votado apenas pelas comissões designadas para analisá-lo, dispensada a deliberação do Plenário. O projeto perde o caráter conclusivo se houver decisão divergente entre as comissões ou se, independentemente de ser aprovado ou rejeitado, houver recurso assinado por 52 deputados para a apreciação da matéria no Plenário.\">caráter conclusivo</span> pela Comissão de Constituição e Justiça e de Cidadania. A matéria está em análise no Senado.\r\n\r\nO projeto era de autoria do deputado Rômulo Gouveia (BA), 4º secretário da <span class=\"termoGlossario\" title=\"Órgão responsável pela direção dos trabalhos legislativos e dos serviços administrativos da Câmara. É composta por presidente, dois vice-presidentes e quatro secretários, além de quatro suplentes de secretários.\">Mesa Diretora</span> da Câmara, que <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/POLITICA/557293-MORRE-O-DEPUTADO-ROMULO-GOUVEIA,-4-SECRETARIO-DA-CAMARA.html\" target=\"_blank\" rel=\"noopener\">morreu no dia 13 de maio</a>.\r\n<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemHorizontalP\">\r\n<div class=\"excluirVideo\"></div>\r\n<div class=\"creditoFoto\" contenteditable=\"false\">Jakub Krechowicz/Fotolia</div>\r\n<div class=\"imagem\"><img style=\"width: 100%; max-height: 100%;\" src=\"http://www.camara.leg.br/internet/bancoimagem/banco/2016/09/img201609261349304977079.jpg\" alt=\"Direitos Humanos - deficiente - sinalização acessibilidade deficientes visuais cegos braile\" border=\"0\" data-width=\"672\" data-height=\"444\" /></div>\r\n<div class=\"legenda\">Proposta acrescenta à Lei da Acessibilidade medidas voltadas aos deficientes visuais</div>\r\n</div>\r\nAlém dos cartões, o projeto assegura um kit contendo:\r\n- etiqueta em braile fixada ao cartão com informações de identificação do tipo do cartão e os seis dígitos finais do número;\r\n- identificação do tipo de cartão em braile, que consiste no primeiro dígito que identifica o tipo de cartão;\r\n- porta-cartão que deverá conter em braile o número do cartão, o tipo, a identificação da bandeira, o nome do emissor, a data de validade, o código de segurança e o nome do portador.\r\n\r\nO texto acrescenta as medidas à Lei da Acessibilidade (Lei <a href=\"http://www2.camara.leg.br/legin/fed/lei/2000/lei-10098-19-dezembro-2000-377651-publicacaooriginal-1-pl.html\" target=\"_blank\" rel=\"noopener\">10.098/00</a>), que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou mobilidade reduzida.\r\n\r\n<strong>Violência contra a mulher</strong>\r\nA Política Nacional de Dados e Informações relacionadas à Violência contra as Mulheres (Pnainfo) foi criada pelo Projeto de Lei <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/DIREITOS-HUMANOS/512544-PROJETO-CRIA-BANCO-DE-DADOS-NACIONAL-SOBRE-A-VIOLENCIA-CONTRA-A-MULHER.html\" target=\"_blank\" rel=\"noopener\">5000/16</a>, do Senado, aprovado pela Câmara neste primeiro semestre. Devido às mudanças, a matéria volta ao Senado para nova votação.\r\n\r\nA finalidade da política é reunir, organizar, sistematizar e disponibilizar dados e informações sobre todos os tipos de violência contra as mulheres.\r\n\r\nPara os fins da Pnainfo, violência contra a mulher é definido como o ato ou a conduta praticados por razões relacionadas à condição de sexo feminino que causem morte, dano ou sofrimento físico, sexual ou psicológico à mulher, tanto na esfera pública como na esfera privada.\r\n\r\nOs dados serão inseridos no Registro Unificado de Dados e Informações sobre a violência contra as mulheres, abrangendo registros administrativos referentes ao tema, serviços especializados de atendimento às mulheres em situação de violência e políticas públicas da área.\r\n\r\nEsse cadastro permitirá a coleta de dados individualizados sobre as vítimas e o agressor, além da compilação da quantidade de mortes violentas de mulheres.\r\n\r\n<strong>Casamento de menores</strong>\r\nO casamento de menores de 16 anos poderá ser proibido no Brasil. Isso é o que prevê o Projeto de Lei <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/DIREITOS-HUMANOS/547924-BRASIL-E-3%C2%BA-COLOCADO-EM-RANKING-DE-CASAMENTOS-PRECOCES-NA-AMERICA-LATINA.html\" target=\"_blank\" rel=\"noopener\">7119/17</a>, da deputada Laura Carneiro (DEM-RJ), aprovado pela Câmara dos Deputados neste semestre. A matéria está em análise no Senado.\r\n\r\nAtualmente, o Código Civil (Lei <a href=\"http://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-publicacaooriginal-1-pl.html\" target=\"_blank\" rel=\"noopener\">10.406/02</a>) permite o casamento de menores de 16 anos para evitar imposição ou cumprimento de pena criminal ou em caso de gravidez. Ainda assim, é necessária autorização de ambos os pais.\r\n\r\nO casamento para evitar pena criminal decorre do fato de que o Código Penal (Decreto-Lei <a href=\"http://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-2848-7-dezembro-1940-412868-publicacaooriginal-1-pe.html\" target=\"_blank\" rel=\"noopener\">2.848/40</a>) prevê pena de reclusão de 8 a 15 anos para quem tiver relações sexuais ou praticar outro ato libidinoso com menor de 14 anos. A pena somente pode ser aplicada a maiores de 18 anos, pois os menores dessa idade são inimputáveis.\r\n<div id=\"fotoNoticia\" class=\"aDireita margemEsquerda imagemQuadradaP\">\r\n<div class=\"excluirVideo\"></div>\r\n<div class=\"creditoFoto\" contenteditable=\"false\">Hayden Judd</div>\r\n<div class=\"imagem\"><img style=\"width: 100%; max-height: 100%;\" src=\"http://www2.camara.leg.br/camaranoticias/imagens/imgNoticia-1531780284179.jpg\" alt=\"Transporte - geral - carrinhos de bêbê avô avós família paternidade crianças natalidade gerações\" border=\"0\" data-width=\"675\" data-height=\"675\" /></div>\r\n<div class=\"legenda\">Avô pode ter licença no lugar do pai sem nome declarado</div>\r\n</div>\r\n<strong>Licença para avós</strong>\r\nPara suprir a ausência do pai, o Plenário aprovou o Projeto de Lei <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/DIREITO-E-JUSTICA/558523-CAMARA-APROVA-LICENCA-PATERNIDADE-PARA-AVO-OU-AVO-DE-BEBE-QUE-NAO-TIVER-REGISTRO-DE-PAI.html\" target=\"_blank\" rel=\"noopener\">5996/16</a>, do deputado Lucas Vergilio (SD-GO), que permite à avó ou ao avô maternos usufruir de licença de cinco dias para ajudar a parturiente. A matéria será votada ainda pelo Senado.\r\n\r\nA licença substitui a licença-paternidade e somente poderá ser concedida quando o nome do pai não tiver sido declarado.\r\n\r\nO <span class=\"termoGlossario\" title=\"Nome que se dá ao texto que altera substancialmente o conteúdo original da proposta. O substitutivo é apresentado pelo relator e tem preferência na votação sobre o projeto original.\">substitutivo</span> aprovado também concede um dia por mês de dispensa do trabalho para a trabalhadora que doar leite materno, segundo comprovação de banco oficial de leite, incorporando o PL <a href=\"http://www2.camara.leg.br/camaranoticias/noticias/POLITICA/558514-RELATORA-APRESENTA-PARECER-FAVORAVEL-A-LICENCA-PATERNIDADE-PARA-AVOS.html\" target=\"_blank\" rel=\"noopener\">7674/17</a>, da deputada Pollyana Gama (PPS-SP), <span class=\"termoGlossario\" title=\"Instrumento regimental que permite a tramitação conjunta de proposições do mesmo tipo que tratem de matéria idêntica ou semelhante. O relator deve analisar todas as proposições apensadas, mas oferecerá somente um parecer. Se aprovar mais de um projeto apensado, o relator apresentará um texto substitutivo ao original. Poderá, ainda, recomendar a aprovação de um projeto apensado e a rejeição dos demais.\">apensado</span>.\r\n\r\nEsses afastamentos poderão ocorrer após o término da licença-maternidade, cumulativamente, se a doadora fizer as doações durante essa licença.",
+      "hora_formatada": "18:36",
+      "tema_principal": "Indústria e Comércio",
+      "link": "/noticias/3569-confira-projetos-aprovados-pela-camara-na-area-de-direitos-civis/",
+      "resumo": null,
+      "imagem_destaque": null
+    }
+  ],
+  "edicao_programas_radio_relacionados": [
+    {
+      "id": "2719",
+      "data": 1533147780,
+      "data_formatada": "01/08/2018",
+      "titulo": "Câmara analisa proposta que aumenta pena para empresas que formarem cartel",
+      "conteudo": "<p>A C&acirc;mara est&aacute; analisando proposta (PL 9773/18) que aumenta a pena para as empresas que formarem cartel. O cartel &eacute; uma associa&ccedil;&atilde;o entre diversas empresas de um mesmo ramo de produ&ccedil;&atilde;o com o objetivo de fixar os pre&ccedil;os.</p>\n<p>O cartel &eacute; considerado danoso &agrave; economia porque inibe justamente a livre concorr&ecirc;ncia.</p>\n<p>O texto, que j&aacute; foi aprovado na Comiss&atilde;o de Desenvolvimento Econ&ocirc;mico, prev&ecirc; pena de reclus&atilde;o de 4 a 8 anos e multa. E ainda determina a revoga&ccedil;&atilde;o do alvar&aacute; das empresas que forem reincidentes na forma&ccedil;&atilde;o de cartel. Atualmente, a legisla&ccedil;&atilde;o prev&ecirc; apenas reclus&atilde;o de dois a cinco anos e multa.</p>\n<p>O autor do projeto, deputado Fausto Pinato, do PP de S&atilde;o Paulo, lembrou que os cart&eacute;is s&atilde;o formados para controlar a oferta dos produtos e manter os pre&ccedil;os mais altos, prejudicando assim os consumidores. Fausto Pinato destacou que o cartel est&aacute; em v&aacute;rios setores como o de combust&iacute;veis, carnes e refrigerantes.</p>\n<p>&quot;Quem sai perdendo &eacute; o consumidor final sempre. Porque quando n&atilde;o tem a concorr&ecirc;ncia aberta ou n&atilde;o existe a concorr&ecirc;ncia leal, existe manipula&ccedil;&atilde;o do pre&ccedil;o aonde sempre a tend&ecirc;ncia &eacute; subir e n&atilde;o abaixar porque n&atilde;o tem concorr&ecirc;ncia.&quot;</p>\n<p>O superintendente-adjunto do Cade, (Conselho Administrativo de Defesa Econ&ocirc;mica) Diogo Thomson, afirmou que as modifica&ccedil;&otilde;es na lei s&atilde;o necess&aacute;rias, mas &eacute; preciso cuidado ao definir o banimento das empresas.</p>\n<p>&quot;O que se tem que tomar cuidado &eacute; quando voc&ecirc; promove o banimento de um concorrente do mercado voc&ecirc; tem que ver se isso n&atilde;o vai impactar negativamente na competi&ccedil;&atilde;o. Se a inten&ccedil;&atilde;o &eacute; restabelecer a concorr&ecirc;ncia, &agrave;s vezes retirar um concorrente num mercado muito concentrado pode prejudicar a concorr&ecirc;ncia e n&atilde;o restabelecer a concorr&ecirc;ncia da forma como se pretende com esse tipo de puni&ccedil;&atilde;o.&quot;</p>\n<p>A proposta que aumenta a pena para a forma&ccedil;&atilde;o de cartel ainda vai ser analisada pela Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a.</p>",
+      "hora_formatada": "18:23",
+      "tema_principal": "",
+      "link": "/2719-camara-analisa-proposta-que-aumenta-pena-para-empresas-que-formarem-cartel/",
+      "resumo": null,
+      "imagem_destaque": null
+    }
+  ],
+  "edicao_programas_tv_relacionados": [],
+  "comentarios_sisnews": [
+    {
+      "id": "1",
+      "data": "2019-02-15 11:49:52",
+      "autor": "Adriene",
+      "email": "ariane@camara.leg.br",
+      "conteudo": "Isso é um absurdo! Então foi um fantasma que foi lá e puuum estourou a barragem ...Fala desta forma pensando que somos bestas, já foi o tempo. Eles são culpados sim e precisam indenizar cada família, restaurar o rio... Isso os brasileiros não vão esquecer, irão cobrar... Vocês que foram escolhidos pelo povo precisam fazer alguma coisa",
+      "pai": "0"
+    },
+    {
+      "id": "187",
+      "data": "2019-03-12 19:19:24",
+      "autor": "admin",
+      "email": "cesar.alves@camara.leg.br",
+      "conteudo": "obrigado!!!",
+      "pai": "1"
+    },
+    {
+      "id": "188",
+      "data": "2019-03-12 19:27:23",
+      "autor": "admin",
+      "email": "cesar.alves@camara.leg.br",
+      "conteudo": "obrigado 01",
+      "pai": "1"
+    },
+    {
+      "id": "189",
+      "data": "2019-03-12 19:29:14",
+      "autor": "admin",
+      "email": "cesar.alves@camara.leg.br",
+      "conteudo": "obrigado 02!!!",
+      "pai": "1"
+    }
+  ],
+  "total_comentarios_sisnews": 4
+}

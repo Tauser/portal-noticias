@@ -1,0 +1,211 @@
+{
+  "id": 2343,
+  "tipo_conteudo": "programa_radio",
+  "objeto_wp": {
+    "label": "Programa de Rádio",
+    "capability": "post"
+  },
+  "area_conteudo": {
+    "id": 1927,
+    "name": "Rádio Câmara",
+    "slug": "radio"
+  },
+  "link": "/radio-camara/2343-camara-e-noticia/",
+  "path_separado": [
+    "radio-camara",
+    "2343-camara-e-noticia"
+  ],
+  "breadcrumbs": [
+    {
+      "nivel": 0,
+      "name": "Rádio Câmara",
+      "slug": "radio",
+      "id": 1927,
+      "link": "/1927-radio"
+    }
+  ],
+  "menu_local": [
+    {
+      "ID": 1927,
+      "label": "Rádio Câmara",
+      "slug": "radio",
+      "link": "/1927-radio"
+    }
+  ],
+  "titulo": "Câmara é Notícia",
+  "data": 1549622972,
+  "data_formatada": "08/02/2019",
+  "hora_formatada": "10:49",
+  "data_atualizacao": 1553266047,
+  "data_atualizacao_formatada": "22/03/2019",
+  "hora_atualizacao_formatada": "14:47",
+  "conteudo": "<p>Jornal com as últimas notícias da Câmara dos Deputados. Sugestões, críticas e comentários podem ser enviados para o e-mail radio@camara.leg.br</p>\n",
+  "resumo": "Jornal com as últimas notícias da Câmara dos Deputados",
+  "imagem_destaque": {
+    "nome": "william-iven-11247-unsplash",
+    "descricao": "",
+    "legenda": "",
+    "texto_alternativo": "",
+    "credito": "",
+    "sizes": [
+      {
+        "tipo": "thumbnail",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/william-iven-11247-unsplash-1-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      {
+        "tipo": "medium",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/william-iven-11247-unsplash-1-300x199.jpg",
+        "width": 300,
+        "height": 199
+      },
+      {
+        "tipo": "medium_large",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/william-iven-11247-unsplash-1-768x510.jpg",
+        "width": 768,
+        "height": 510
+      },
+      {
+        "tipo": "large",
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/william-iven-11247-unsplash-1-1024x680.jpg",
+        "width": 1024,
+        "height": 680
+      }
+    ],
+    "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/william-iven-11247-unsplash-1.jpg"
+  },
+  "videos": null,
+  "imagem_poster": null,
+  "audios": null,
+  "arquivo_anexo": null,
+  "tags": [],
+  "categorias_selecionadas": [],
+  "comentarios_sisnews": [],
+  "ultimas": [
+    {
+      "id": 3134,
+      "titulo": "Câmara é Notícia - 1ª edição (06/08/2018)",
+      "link": "/radio-camara/3134-camara-e-noticia-1a-edicao-06-08-2018/",
+      "data": "2019-03-27 17:37:11",
+      "data_formatada": "27/03/2019",
+      "hora_formatada": "17:37",
+      "resumo": "Confira os últimos destaques do Plenário, das comissões e dos bastidores do Congresso Nacional",
+      "tema_principal": "",
+      "area": "1927",
+      "conteudo": "Nesta edição:\r\n<ul>\r\n \t<li>Deputados farão esforço concentrado antes das eleições e pretendem votar temas de consenso</li>\r\n \t<li>Em tempo de eleição, ciclistas e pedestres cobram de candidatos políticas públicas na área</li>\r\n \t<li>Venda de parte da Embraer para a norte-americana Boeing recebeu uma série de críticas em debate no Plenário da Câmara</li>\r\n \t<li>E mais: Semana Mundial de Aleitamento Materno inclui audiência pública em comissão da Câmara</li>\r\n</ul>",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 3141,
+      "titulo": "Mudanças na Lei de Licitações podem ser votadas ainda este ano",
+      "link": "/radio-camara/3141-mudancas-na-lei-de-licitacoes-podem-ser-votadas-ainda-este-ano/",
+      "data": "2019-03-27 17:37:01",
+      "data_formatada": "27/03/2019",
+      "hora_formatada": "17:37",
+      "resumo": "Ouça a entrevista do advogado e especialista em direito administrativo Murilo Jacoby Filho sobre o assunto",
+      "tema_principal": "",
+      "area": "1927",
+      "conteudo": "Na volta do recesso parlamentar, o debate em torno da proposta da nova Lei de Licitações vai ser retomado. A comissão especial da Câmara criada para analisar mudanças nas regras para contratação das obras públicas no país tentou, diversas vezes, votar o relatório final do deputado João Arruda (PMDB-PR), mas a falta de consenso impediu que a proposta avançasse no colegiado.\r\n\r\nO texto do relator revoga a atual lei de licitações e contratos, a lei do pregão, o regime diferenciado de contratações, além de incorporar à legislação brasileira o chamado \"diálogo competitivo\", também conhecido como \"diálogo concorrencial\", para a celebração de contratos mais complexos.\r\n\r\nPara falar sobre o assunto, o <strong>Painel Eletrônico</strong> convidou o advogado e especialista em direito administrativo <strong>Murilo Jacoby Filho</strong>. Na entrevista, ele comentou pontos da proposta da nova Lei de Licitações, que completou 25 anos. Segundo o advogado, o projeto em análise, se aprovado, vai trazer segurança jurídica, transparência e tornar as contratações mais eficientes e benéficas tanto para o poder público como para a sociedade.\r\n\r\nEntre as mudanças previstas está a criação de um seguro que vai garantir a conclusão das obras públicas. Segundo o Tribunal de Contas da União, hoje, o Brasil tem mais de 20 mil obras públicas inacabadas. Para Murilo Jacoby Filho esse cenário é resultado da falta de planejamento e da falta de conhecimento das normas por parte dos órgãos públicos.",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 3136,
+      "titulo": "Plenário fará esforço concentrado para votações de consenso; deputados comentam",
+      "link": "/radio-camara/3136-plenario-fara-esforco-concentrado-para-votacoes-de-consenso-deputados-comentam/",
+      "data": "2019-03-27 17:36:52",
+      "data_formatada": "27/03/2019",
+      "hora_formatada": "17:36",
+      "resumo": "Em participação no Painel Eletrônico, os deputados Weverton Rocha (PDT-MA) e Lelo Coimbra (MDB-ES) comentaram as expectativas para os trabalhos legislativos às vésperas das eleições. Ouça a íntegra das entrevistas em dois blocos",
+      "tema_principal": "",
+      "area": "1927",
+      "conteudo": "O Congresso Nacional volta do recesso legislativo em ritmo de eleições gerais. Há dois meses da renovação de mandatos e da escolha do futuro presidente da República e de governadores, a Câmara elegeu uma pauta prioritária, ao lado de outros temas que vão dominar esse período.\r\n\r\nPara falar sobre o assunto, o <strong>Painel Eletrônico</strong> convidou os deputados <strong>Weverton Rocha</strong> (PDT-MA) e <strong>Lelo Coimbra</strong> (MDB-ES). Ouça a íntegra das entrevistas em dois blocos.\r\n\r\n<u><em><a href=\"http://www2.camara.leg.br/camaranoticias/radio/materias/PAINEL-ELETRONICO/560922-PLENARIO-FARA-ESFORCO-CONCENTRADO-PARA-VOTACOES-DE-CONSENSO-DEPUTADOS-COMENTAM-BLOCO-1.html\" target=\"_blank\" rel=\"noopener\">Bloco 1:</a></em></u> Segundo o deputado Weverton Rocha, votações de consenso deverão compor o esforço concentrado e a oposição vai defender, como prioridade, pautas que não prejudiquem a sociedade, como a maioria das propostas encaminhadas pelo governo. Na entrevista, Weverton Rocha também comentou o processo eleitoral. O parlamentar considera um erro a ausência do eleitorado e a falta de participação e espera que a Justiça Eleitoral possa agir mais rápido para definir a inelegibilidade de políticos ficha suja.\r\n\r\n<u><em><a href=\"http://www2.camara.leg.br/camaranoticias/radio/materias/PAINEL-ELETRONICO/560923-PLENARIO-FARA-ESFORCO-CONCENTRADO-PARA-VOTACOES-DE-CONSENSO-DEPUTADOS-COMENTAM-BLOCO-2.html\" target=\"_blank\" rel=\"noopener\">Bloco 2:</a></em></u> O deputado Lelo Coimbra também está confiante no esforço concentrado, mas defende que é preciso ter uma pauta clara e com a definição dos dias de trabalho na Câmara, para evitar desgastes ao Parlamento. Para isso, haverá uma reunião de líderes, nesta terça-feira, com o presidente da Câmara, deputado Rodrigo Maia. Lelo Coimbra disse, ainda, que o parlamento deve assumir o papel de protagonista para evitar o papel de auxiliar do Poder Executivo.",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 3096,
+      "titulo": "Plenário retoma trabalhos com MPs dos acordos com caminhoneiros",
+      "link": "/radio-camara/3096-plenario-retoma-trabalhos-com-mps-dos-acordos-com-caminhoneiros/",
+      "data": "2019-03-27 17:36:21",
+      "data_formatada": "27/03/2019",
+      "hora_formatada": "17:36",
+      "resumo": "Dez medidas provisórias têm o período de validade vencendo daqui até dias após a eleição, ou seja, para se manterem com força de lei, precisam ser aprovadas pelo Plenário da Câmara e do Senado até o prazo final. As primeiras desta fila fazem parte do acordo entre o governo e os caminhoneiros, o que viabilizou o fim da paralisação da categoria em maio.",
+      "tema_principal": "",
+      "area": "1927",
+      "conteudo": "<ul>\r\n \t<li><strong>Frente discute melhor distribuição de água entre as regiões do País\r\n</strong></li>\r\n \t<li><strong>Parlamentares voltam a criticar política de preços de combustíveis\r\n</strong></li>\r\n \t<li><strong>Plenário retoma trabalhos com MPs dos acordos com caminhoneiros</strong></li>\r\n</ul>\r\n&nbsp;\r\n\r\nOs deputados voltam a se reunir em Plenário nesta semana e podem votar medidas provisórias que atendem às reivindicações dos caminhoneiros. As medidas estão na pauta de quarta-feira.\r\n\r\nAmanhã, está na pauta o projeto que permite o controle acionário total de empresas aéreas nacionais por capital estrangeiro. Ginny Morais traz mais detalhes das votações.\r\n<p style=\"margin-left: 40px;\">O plenário da Câmara dos Deputados retoma as votações nesta semana para um período atípico de trabalho, por causa das eleições - lembrando que faltam pouco mais de 2 meses para o dia da eleição em si. O presidente da Câmara, deputado Rodrigo Maia, já anunciou que daqui até lá serão feitas 3 semanas de votações no plenário: esta semana e a próxima, além da primeira semana de setembro.</p>\r\n<p style=\"margin-left: 40px;\">Diversos assuntos estão em negociação, como um pacote de propostas totalmente dedicado à área educacional. Mas alguns projetos devem ter prioridade. Dois deles, inclusive, já foram discutidos por aqui: um é o que muda diversas regras do setor do turismo (PL 2724/15) e pode liberar que estrangeiros sejam totalmente donos de companhias aéreas brasileiras. Hoje só podem ter 20%.</p>\r\n<p style=\"margin-left: 40px;\">Outro projeto é o que aumenta a cobrança de imposto sobre fundos de investimento (PL 10638/18), como aponta o presidente da Câmara, deputado Rodrigo Maia.</p>\r\n<p style=\"margin-left: 40px;\">Rodrigo Maia: A gente vai votar o projeto do turismo, tentar resolver a questão do capital estrangeiro para a aviação, já que a empresa norueguesa mostrou que há espaço para empresas de baixo custo no Brasil, eles querem entrar. Isso resolve o problema dela e de outras empresas que querem investir no setor aéreo brasileiro para reduzir o valor das passagens. E nós vamos começar a construir a votação do projeto sobre a taxação dos fundos exclusivos. Já que é uma demanda do governo, é urgente, aumenta a arrecadação, não mexe em ativo real, só no rentismo, só em renda fixa.</p>\r\n<p style=\"margin-left: 40px;\">Além disso, 10 medidas provisórias têm o período de validade vencendo daqui até dias após a eleição, ou seja, para se manterem com força de lei, precisam ser aprovadas pelo Plenário da Câmara e do Senado até o prazo final.</p>\r\n<p style=\"margin-left: 40px;\">As primeiras desta fila (MPs 831 e 833) fazem parte do acordo entre o governo e os caminhoneiros, o que viabilizou o fim da paralisação da categoria em maio. Para o líder do PCdoB, deputado Orlando Silva, de São Paulo, as votações devem começar por aí.</p>\r\n<p style=\"margin-left: 40px;\">Orlando Silva: Deve ser priorizadas as medidas provisórias que envolvem os caminhoneiros, porque foi uma crise grave que atingiu o Brasil, afetou até o abastecimento das famílias e nós não podemos manter essa pendência.</p>\r\n<p style=\"margin-left: 40px;\">Outro assunto que também pode entrar em pauta tem relação com os caixas dos estados. A proposta muda a chamada Lei Kandir. O Supremo Tribunal Federal deu prazo para que o Congresso crie regras para compensar financeiramente os estados que perdem arrecadação por causa do desconto de Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) dado a produtos que vão para o exterior. Como explica o líder do PT, deputado Paulo Pimenta (PT-RS).</p>\r\n<p style=\"margin-left: 40px;\">Paulo Pimenta: O Supremo Tribunal Federal já reconheceu que a União deve pagar aos estados todo esse montante de recursos que os estados deixaram de arrecadar em função da desoneração das exportações. E o Supremo Tribunal Federal deu um ano para que o Congresso Nacional definisse a maneira como este pagamento deverá ser feito e como deverá funcionar a partir de agora essa compensação tributária para os estados. Esse prazo está se esgotando. Será agora, em agosto.</p>\r\n<p style=\"margin-left: 40px;\">O presidente da Câmara, deputado Rodrigo Maia, diz que há sim a intenção de votar o assunto, mas o desafio está em negociar um texto que não prejudique os cofres do governo, que não tem dinheiro agora para fazer essa compensação aos estados.</p>\r\n<p style=\"margin-left: 40px;\"><em>Da Rádio Câmara, de Brasília, Ginny Morais</em></p>\r\n<strong>Economia</strong>\r\n\r\nNo entendimento de Luciana Santos, do PC do B de Pernambuco, a greve dos caminhoneiros, ocorrida em maio deste ano, demonstra o fracasso da política liberal brasileira, além do equívoco da política energética do atual governo.\r\n\r\nA parlamentar considera um erro a política energética brasileira de exportar a matéria-prima bruta e importar combustíveis refinados a um preço muito mais elevado, além de também de basear o valor dos combustíveis a variação do dólar. Luciana Santos alerta que o óleo diesel subiu 225 vezes em dois anos. Ela entende que uma das soluções está na mudança da política de preços.\r\n\r\nLuciana Santos: Ele precisa estar de acordo com as necessidades da população. Não pode as refinarias, que refinam o óleo cru, reduzir a sua capacidade de produção a 70%. O que que tem ocorrido em 2 anos dessa política que é a política do governo Temer? Você exporta o óleo cru e você importa os derivados, principalmente dos Estados Unidos, o óleo diesel, nós passamos de 40% para 80% a importação de óleo diesel no Brasil. Então, com isso, nós poderíamos refinar aqui. Refinar aqui significa a gente produzir esses derivados no Brasil, que é ¾ mais barato do que você comprar esses derivados fora.\r\n\r\nOutro ponto que Luciana Santos critica é a decisão do governo federal de privatizar as refinarias brasileiras. Segundo a congressista, a Refinaria de Abreu e Lima é responsável por 19 por cento do refino do petróleo no País, e tem condições de chegar a 25 por cento, caso não seja vendida para a iniciativa privada. Ela afirma que vai lutar para evitar que isso ocorra.\r\n\r\nMargarida Salomão, do PT de Minas Gerais, também avalia que a paralisação dos caminhoneiros, ocorrida em maio, foi causada pela política de preços adotada pela Petrobras e por uma postura equivocada do governo sobre a capacidade de o povo brasileiro sobreviver com um salário mínimo cada vez mais desvalorizado.\r\n\r\nMargarida Salomão: O País parou, graças à política de preços praticada pela Petrobras. Uma política de preços chamada de paridade internacional. Quando sobe o dólar, ou quando sobe o custo do barril de petróleo, o que acontece? Isso vai parar no seu bolso. E isso num governo que acha que é possível reduzir a correção do salário mínimo.\r\n\r\nDepois da paralisação, segundo Margarida Salomão, os preços odos combustíveis subiram, o que ameaçou a estabilidade econômica do País. A parlamentar alerta que é necessário cobrar mudanças na política de preços da Petrobras.\r\n\r\nMargarida Salomão: Nós estamos com o gás de cozinha, que é uma matéria de primeira necessidade para a segurança alimentar, o combustível dos carros que foram comprados nos últimos anos, um sonho brasileiro, ter seu próprio carro e poder se deslocar por sua conta, e afinal de contas a conta do combustível, do diesel do transporte de carga e do transporte coletivo. Então, nós precisamos exigir uma mudança nas políticas da Petrobras, para que o orçamento caiba no nosso bolso, e nós possamos ter direito aos benefícios que o desenvolvimento oferece a cada um de nós.\r\n\r\n<strong>Transportes</strong>\r\n\r\nRodrigo Garcia, do Democratas de São Paulo, comemora a decisão do governo de sancionar, sem vetos, a lei que regulamenta os aplicativos de transporte individual de passageiros, como Uber, Cabify e 99.\r\n\r\nAprovado no final de fevereiro, o projeto foi amplamente debatido na Câmara. Rodrigo Garcia ressalta a importância da lei e diz que os aplicativos vieram para ficar. Ele explica as vantagens dessa nova modalidade de prestação de serviço.\r\n\r\nRodrigo Garcia: Em primeiro lugar, isso traz mais concorrência. Você vai ter o cidadão sendo mais bem atendido na ponta da linha seja pelos aplicativos, seja pelos próprios taxistas, que já têm uma regulamentação no País. Além dessa nova concorrência, você pode com isso gerar mais emprego. Os aplicativos têm sido uma boa alternativa para o brasileiro como segundo emprego, como uma segunda oportunidade de trabalho, e a aprovação pela Câmara dos Deputados dá mais segurança jurídica e dá mais previsibilidade para esses aplicativos. É natural que nós temos que gerar a igualdade de oportunidades e a igualdade de concorrência entre esses aplicativos e os taxistas. Eu acho que foi um projeto que vai gerar um ganha-ganha para a sociedade brasileira.\r\n\r\nRodrigo Garcia destaca que caberá aos municípios e ao Distrito Federal regulamentar os aplicativos, mas não será exigida placa vermelha.\r\n\r\n<strong>Agricultura</strong>\r\n\r\nAs atividades de agricultura irrigada e aquicultura poderão ser beneficiadas com desconto na tarifa de energia elétrica durante sábados, domingos e feriados nacionais. A proposta que tramita na Câmara dos Deputados é de autoria do Doutor Jorge Silva, do Solidariedade do Espírito Santo. Segundo ele, o projeto é de extrema importância para o produtor.\r\n\r\nDoutor Jorge Silva: Não tenho dúvida que esse projeto é de extrema importância para o agricultor. Ele vai fazer com que ele possa estar fazendo uma produção dos seus produtos agrícolas com menor custo, beneficiando consequentemente a população, e também estará fazendo uso da energia elétrica fora do horário de pico, que é extremamente importante para as concessionárias de energia elétrica. Entendo eu que é um projeto importante para a agricultura brasileira.\r\n\r\nAtualmente, o agricultor já tem direito, todos os dias, durante a semana, de fazer uso da irrigação por oito horas e meia, com uma tarifa diferenciada.\r\n\r\nDoutor Jorge Silva esclarece que, pela proposta, aos fins de semana, o desconto na tarifa de energia elétrica valerá para uso ininterrupto de 40 horas, das 14 horas do sábado às 6 horas de segunda-feira. Para os feriados, o uso com desconto será válido para as 24 horas.\r\n\r\n<strong>Meio Ambiente</strong>\r\n\r\nZé Silva, do Solidariedade de Minas Gerais, alerta para a crise da água no Brasil e no mundo, destacando a atuação da Frente Parlamentar de Revitalização dos Rios Brasileiros. Ele explica que o colegiado discute a implantação de um sistema nacional que garanta o fim dos racionamentos e uma melhor distribuição entre as cinco regiões.\r\n\r\nZé Silva ressalta que a ideia é construir o sistema a partir de dados científicos e de projetos estaduais bem-sucedidos, como o da Emater em Minas Gerais, realizado quando o parlamentar esteve à frente do órgão. Ele lamenta que um País como o Brasil, que possui a maior reserva de água do mundo, sofra com a seca e com a má distribuição deste recurso natural.\r\n\r\nZé Silva: Nós fizemos um estudo, uma parceria entre a Emater, a Codevasf, os municípios, e em cada um dos 202 municípios da bacia hidrográfica do rio São Francisco, que nasce na nossa querida Minas Gerais, nós fizemos um projeto que chama Revitalização da Sub-Bacia Hidrográfica. Então, a partir dessa experiência, nós queremos que esse projeto de revitalização dos rios, dos córregos, se transforme num programa nacional para cuidar dos rios. E aí não tenhamos que ter racionamento de água. Se cuidar dos rios, pode ter certeza que a vida na Terra será muito mais favorável, especialmente no Brasil que tem uma imensidão de água, mas localizada em lugares não estratégicos. Até porque grande parte da água do Brasil está na região Norte, onde é a menor densidade populacional do País.\r\n\r\n<strong>Educação</strong>\r\n\r\nAlan Rick, do Democratas do Acre, acredita que é preciso ter mais respeito às religiões das famílias de estudantes brasileiros do ensino básico e fundamental. Na opinião do congressista, muitos professores emitem em sala de aula opiniões contra doutrinas religiosas que defendem a existência de Deus, denotando, segundo ele, insulto aos cristãos, principalmente aos evangélicos.\r\n\r\nAlan Rick: Nós lutamos para que a educação básica no Brasil não seja dominada por essa proposta de se ensinar para as crianças desde o início que elas não devem ter sexo biológico, mas uma construção social. Defendemos uma educação ampla, democrática, e que respeite a convicção dos pais a que seus filhos recebam uma educação ética, moral e religiosa que esteja de acordo com suas próprias convicções.\r\n\r\nAlan Rick avalia que a situação tem mudado no ambiente universitário brasileiro, onde, segundo ele, após anos de domínio do pensamento de esquerda, estudantes de direita já conseguem colocar suas ideias nos debates.\r\n\r\nAlan Rick: A academia brasileira, a universidade brasileira, durante muitos anos, foi dominada pela esquerda brasileira, que, com seu discurso antipropriedade privada, anticristianismo, foi moldando uma geração de brasileiros. Hoje, nós temos uma nova geração, muito mais contestadora e, com o crescimento dos ramos evangélicos, defensoras das suas ideologias, das suas convicções religiosas.\r\n\r\n<strong>Saúde</strong>\r\n\r\nMário Heringer, do PDT mineiro, informa que uma das prioridades de seu mandato como deputado federal é lutar para conseguir mais recursos para a saúde, especialmente de pequenas cidades.\r\n\r\nO parlamentar alerta que, muitas vezes, as cidades menores não possuem atendimento básico de saúde e nem maternidade. Por isso, Mário Heringer defende que haja mudanças na distribuição de recursos para esses municípios poderem cuidar mais da população.\r\n\r\nMario Heringer: Alguns tempos atrás, nós tínhamos pequenos hospitais nas pequenas cidades. As crianças nasciam lá. Hoje, nem nascer numa cidade de 20 mil habitantes tem maternidade. É um absurdo isso. Acabar com essa história de grandes projetos. Vamos fazer UPA em todo lugar. Vamos fazer UBS em todo lugar. Isso é presente de grego. O governo federal dá para um município uma estrutura física, dá para um município uma série de equipamentos, mas quem que mantém aquilo todo ano, quem paga o médico, quem paga o medicamento, quem paga o plantonista, a limpeza, o motorista, quem é que paga? O próprio município. E o município não tendo essa estrutura, ele não terá condição. Então a ideia de fazer uma redistribuição adequada dos recursos da saúde, principalmente focada nos municípios e nos pequenos municípios, eu tenho certeza que pode ser um grande caminho.\r\n\r\nMário Heringer acrescenta ainda que destinou emendas para que o município de Manhumirim faça a reabertura da maternidade local.\r\n\r\n<strong>Segurança Pública</strong>\r\n\r\nA destruição de caixas eletrônicos em bancos ou lojas, a explosão de empresas ou carros-fortes, o fechamento de estradas, ferrovias, escolas e até mesmo aeroportos podem ser classificados como crimes de terrorismo. É o que prevê projeto de lei de autoria de Delegado Edson Moreira, do PR de Minas Gerais.\r\n\r\nDelegado Edson Moreira explica que o principal objetivo da proposta, além de garantir mais rigor nas punições, é acabar com o crime organizado.\r\n\r\nDelegado Edson Moreira: Procura pegar exatamente o crime organizado, principalmente na parte em que eles interceptam os carros-fortes, em estradas, usam informações privilegiadas de funcionários que eles corrompem para fazer o serviço de inteligência e sua organização, explodem quarteirões inteiros com essas informações, para pegar uma empresa financeira que mexe com valores, como fizeram em Uberaba há tempos atrás, tomam quartéis, fazem um terror danado, usam explosivos em grande quantidade e desordenadamente, a população fica aterrorizada com isso e levam o pânico e o caos à população. Nossa intenção é pegar os criminosos dessas facções organizadas.\r\n\r\nA proposta foi aprovada na forma de um substitutivo na Comissão de Segurança Pública e Combate ao Crime Organizado. O relator, Hugo Leal, do PSD do Rio de Janeiro, deu parecer favorável ao projeto.\r\n\r\n<strong>Justiça</strong>\r\n\r\nDecano na Câmara, Miro Teixeira, da Rede do Rio de Janeiro, ressalta que foi ele quem propôs, em 1989, logo após a promulgação da Constituição de 88, uma subcomissão para analisar e propor um dos primeiros formatos de colaboração premiada no Brasil. Segundo ele, esse é um instrumento importante para combater a impunidade, mas só ganhou relevância após a Operação Lava Jato.\r\n\r\nMiro Teixeira: A dificuldade de apuração dos fatos, especialmente desses crimes financeiros e de corrupção, a dificuldade é enorme porque se não houver o flagrante como é que você vai apurar? Outros países já adotavam essa colaboração premiada: Estados Unidos, Itália. Que consiste no seguinte: apanhado ou não, o criminoso decide falar tudo, entregar o dinheiro que roubou e dizer também quem eram seus cúmplices, especialmente aqueles que estão no poder. Mas não basta a lei estar publicada, é preciso que ela seja aplicada realmente. E foi a Lava Jato que deu visibilidade a essa colaboração premiada. Não é delação. Chamaram de delação para desqualificar, porque o delator é visto como alguém que não presta. Não. É colaboração premiada e tem permitido ao Brasil acabar com a impunidade e combater a corrupção.\r\n\r\nMiro Teixeira cita ainda pesquisa desenvolvida por um pesquisador norte-americano na qual afirma que o Brasil possui 3 problemas principais: incompetência, impunidade e corrupção. O parlamentar acredita que, combatendo esses 3 problemas, o Brasil com certeza será um País melhor.\r\n\r\n<a href=\"http://www2.camara.leg.br/atividade-legislativa/plenario/discursos\" target=\"_blank\" rel=\"noopener\">Confira a íntegra dos discursos em Plenário</a>",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 3119,
+      "titulo": "Câmara é Notícia - 3ª edição (10/08/2018)",
+      "link": "/radio-camara/3119-camara-e-noticia-3a-edicao-10-08-2018/",
+      "data": "2018-08-10 21:00:00",
+      "data_formatada": "10/08/2018",
+      "hora_formatada": "21:00",
+      "resumo": "Confira os últimos destaques do Plenário, das comissões e dos bastidores do Congresso Nacional",
+      "tema_principal": "Administração Pública",
+      "area": "1927",
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lectus dolor, auctor ut lacinia ac, pharetra nec diam.\r\n\r\nNunc sollicitudin eleifend erat, ut finibus leo. Nunc odio urna, vehicula feugiat enim vitae, fringilla facilisis lacus. Praesent fermentum dolor sapien, ut mollis augue vehicula a. Suspendisse feugiat ullamcorper magna et vulputate. Aenean pharetra massa nisl, vel consectetur ex efficitur eu.\r\n\r\nInteger ac aliquam orci. Fusce varius varius finibus. Quisque in velit sit amet elit interdum dapibus eget eu quam. Integer fringilla enim justo.\r\n\r\nNullam non feugiat urna, et placerat leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam interdum, ligula at molestie maximus, lorem nunc efficitur libero, quis pulvinar lacus felis sed mauris. Phasellus auctor leo enim, quis lobortis tellus dictum et.",
+      "imagem_destaque": {
+        "nome": "emile-perron-190221-unsplash",
+        "descricao": "",
+        "legenda": "",
+        "texto_alternativo": "",
+        "credito": "",
+        "sizes": [
+          {
+            "tipo": "thumbnail",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/emile-perron-190221-unsplash-150x84.jpg",
+            "width": 150,
+            "height": 84
+          },
+          {
+            "tipo": "medium",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/emile-perron-190221-unsplash-300x169.jpg",
+            "width": 300,
+            "height": 169
+          },
+          {
+            "tipo": "medium_large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/emile-perron-190221-unsplash-768x432.jpg",
+            "width": 768,
+            "height": 432
+          },
+          {
+            "tipo": "large",
+            "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/emile-perron-190221-unsplash-1024x576.jpg",
+            "width": 1024,
+            "height": 576
+          }
+        ],
+        "url": "https://socithom.camara.gov.br/portal/portal-backend-wordpress/wp-content/uploads/2019/03/emile-perron-190221-unsplash.jpg"
+      },
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 3124,
+      "titulo": "Câmara é Notícia - 2ª edição (10/08/2018)",
+      "link": "/radio-camara/3124-camara-e-noticia-2a-edicao-10-08-2018/",
+      "data": "2018-08-10 13:30:00",
+      "data_formatada": "10/08/2018",
+      "hora_formatada": "13:30",
+      "resumo": "Confira os últimos destaques do Plenário, das comissões e dos bastidores do Congresso Nacional",
+      "tema_principal": "",
+      "area": "1927",
+      "conteudo": "",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    }
+  ],
+  "total_comentarios_sisnews": 0
+}

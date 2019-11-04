@@ -1,0 +1,17 @@
+<section class="secao-banner fundo-2">
+  <div class="container container--inner-page">
+
+    <div class="l-grid l-grid--lg-4-8">
+      <div class="l-grid__item">
+        {{#if dados.imagemPrograma}}
+        <img class="logo-programa" src="{{dados.imagemPrograma}}" alt="{{dados.titulo}}">
+        {{/if}}
+      </div>
+      <div class="l-grid__item">
+        {{{dados.resumo}}}
+        <p class="grade-programacao">{{dados.horario}}</p>
+      </div>
+    </div>
+
+  </div>
+</section>

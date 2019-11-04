@@ -1,0 +1,99 @@
+<div class="container container--inner-page">
+    
+    <ul class="l-lista-noticias" aria-label="Áudio Preview">
+        <li class="l-lista-noticias__item">
+            <article class="g-chamada mt-3 mb-4">
+                <p class="g-chamada__data">{{dados.dataFormatada}} {{dados.horaFormatada}} -
+                    <span style="font-size: .9em; font-weight: bold;">{{dados.temaPrincipal.titulo}}</span>
+                </p>
+                {{#if dados.audios}}
+                {{#each dados.audios}}
+                <div class="l-players__item">
+                    <div class="g-player-audio">
+                        <p class="g-player-audio__titulo">
+                            {{incremented @index}} - {{../dados.titulo}}
+                        </p>
+                        <div class="g-player-audio__controles">
+                            <audio class="mejs__player" preload="none" controls data-mejsoptions='{"stretching":"responsive",
+                                    "audioVolume":"none",
+                                    "features":["playpause","current","progress","duration"]}'>
+                                <source src="{{this.url}}" type="audio/mp3">
+                            </audio>
+                            <div class="g-player-audio__acoes">
+                                <a class="g-player-audio__acao" href="#codigo-incorporado" data-toggle="modal"
+                                    data-target=".codigo-incorporado-{{this.id}}">
+                                    <i class="fas fa-align-left g-player-audio__icone-acao"></i>
+                                    <span class="g-player-audio__texto-acao">Texto</span>
+                                </a>
+                                <a class="g-player-audio__acao" href="{{this.url}}" target="_blank">
+                                    <i class="fas fa-cloud-download-alt g-player-audio__icone-acao"></i>
+                                    <span class="g-player-audio__texto-acao">Baixe</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+
+                {{#unless dados.audios}}
+                
+                <div class="l-players__item" style="padding: 1rem 15px 45px">
+                    <div class="g-player-audio">
+                        <p class="g-player-audio__titulo">
+                            {{this.nome}}
+                        </p>
+                        <div style="position: absolute; right: 0; padding-bottom: 20px;">
+                            <div class="g-player-audio__acoes">
+                                <a class="g-player-audio__acao" href="#codigo-incorporado" data-toggle="modal"
+                                    data-target=".codigo-incorporado-{{this.id}}">
+                                    <i class="fas fa-align-left g-player-audio__icone-acao"></i>
+                                    <span class="g-player-audio__texto-acao">Texto</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{/unless}}
+
+                {{else}}
+                    <p>{{dados.titulo}} </p>
+                    <br />
+                    <p style="font-size: .9em; font-weight: bold;text-align: center;">Nenhum áudio associado</p>
+                {{/if}}
+            </article>
+        </li>
+    </ul>
+
+    {{#if dados.audios}}
+    <section id="secao-incorporacao" class="secao-incorporacao">
+        {{#each dados.audios}}
+        <div class="modal fade codigo-incorporado-{{this.id}}" tabindex="-1" role="dialog" aria-hidden="true"
+            aria-labelledby="codigo-incorporado--title" style="margin-top: 10%;">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 id="codigo-incorporado-title" class="modal-title">{{../dados.titulo}}</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body" style="overflow: auto; height: 300px;">
+                        <div id="codigo-incorporado">
+                            {{{../dados.conteudo}}}
+                        </div>
+                        <pre class="codigo-incorporacao">
+                        </pre>
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="button" class="button" data-dismiss="modal">Fechar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+         {{/each}}
+    </section>
+    {{/if}}
+
+
+</div>

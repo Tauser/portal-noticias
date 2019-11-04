@@ -1,0 +1,135 @@
+<section class="secao-assista">
+  <div class="fundo-2">
+    <div class="container">
+
+      {{> templates/titulo-secao title="Assista"}}
+
+      <div class="g-l-assista">
+        <div class="g-l-assista__principal">
+          <div class="video-principal">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{videosAssista.0.idYoutube}}?rel=0&modestbranding=1&loop=1&showinfo=0&playlist={{videosAssista.0.idYoutube}}"
+                frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            <div class="g-l-assista__acessorio-principal">
+              <span class="texto-ao-vivo">Agora</span>
+              <h3 class="video-principal__titulo">{{videosAssista.0.descricao}}</h3>
+              <a href="{{videosAssista.0.linkVideo}}" class="selo-acompanhe">Acompanhe</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="g-l-assista__outros">
+          {{#if videosAssista}}
+          <ul class="g-l-assista__outros-videos g-l-assista__outros-videos--esconder-mobile">
+            <li class="g-l-assista__item-outros-videos">
+              <article class="g-chamada">
+                <div class="g-l-chamada-lateral g-l-chamada-lateral--icone-flutuante">
+                  {{#if videosAssista.1.thumbnailDefault}}
+                  <div class="g-l-chamada-lateral__imagem">
+                    <img class="g-chamada__imagem" src="{{videosAssista.1.thumbnailDefault}}" alt="{{videosAssista.1.retranca}}">
+                  </div>
+                  {{/if}}
+                  <div class="g-l-chamada-lateral__texto">
+                    <span class="g-chamada__retranca">{{videosAssista.1.retranca}}</span>
+                    <h3 class="g-chamada__titulo g-chamada__titulo--simples">
+                      <a class="g-chamada__titulo-link" href="{{videosAssista.1.linkVideo}}">{{videosAssista.1.descricao}}</a>
+                    </h3>
+                    {{#if videosAssista.1.eventoInterativo}}
+                    <a class="g-chamada-lateral__audiencia-interativa" href="{{videosAssista.1.linkAudienciaInterativa}}">
+                      <span class="icon-fa  fa fa-comments" aria-hidden="true"></span>
+                      <span class="sr-only">Audiência Interativa</span>
+                    </a>
+                    {{/if}}
+                  </div>
+                </div>
+              </article>
+            </li>
+
+            <li class="g-l-assista__item-outros-videos">
+              <article class="g-chamada">
+                <div class="g-l-chamada-lateral g-l-chamada-lateral--icone-flutuante">
+                  {{#if videosAssista.2.thumbnailDefault}}
+                  <div class="g-l-chamada-lateral__imagem">
+                    <img class="g-chamada__imagem" src="{{videosAssista.2.thumbnailDefault}}" alt="{{videosAssista.2.retranca}}">
+                  </div>
+                  {{/if}}
+                  <div class="g-l-chamada-lateral__texto">
+                    <span class="g-chamada__retranca">{{videosAssista.2.retranca}}</span>
+                    <h3 class="g-chamada__titulo g-chamada__titulo--simples">
+                      <a class="g-chamada__titulo-link" href="{{videosAssista.2.linkVideo}}">{{videosAssista.2.descricao}}</a>
+                    </h3>
+                    {{#if videosAssista.2.eventoInterativo}}
+                    <a class="g-chamada-lateral__audiencia-interativa" href="{{videosAssista.2.linkAudienciaInterativa}}">
+                      <span class="icon-fa  fa fa-comments" aria-hidden="true"></span>
+                      <span class="sr-only">Audiência Interativa</span>
+                    </a>
+                    {{/if}}
+                  </div>
+                </div>
+              </article>
+            </li>
+
+            <li class="g-l-assista__item-outros-videos">
+              <article class="g-chamada">
+                <div class="g-l-chamada-lateral g-l-chamada-lateral--icone-flutuante">
+                  {{#if videosAssista.3.thumbnailDefault}}
+                  <div class="g-l-chamada-lateral__imagem">
+                    <img class="g-chamada__imagem" src="{{videosAssista.3.thumbnailDefault}}" alt="{{videosAssista.3.retranca}}">
+                  </div>
+                  {{/if}}
+                  <div class="g-l-chamada-lateral__texto">
+                    <span class="g-chamada__retranca">{{videosAssista.3.retranca}}</span>
+                    <h3 class="g-chamada__titulo g-chamada__titulo--simples">
+                      <a class="g-chamada__titulo-link" href="{{videosAssista.3.linkVideo}}">{{videosAssista.3.descricao}}</a>
+                    </h3>
+                    {{#if videosAssista.3.eventoInterativo}}
+                    <a class="g-chamada-lateral__audiencia-interativa" href="{{videosAssista.3.linkAudienciaInterativa}}">
+                      <span class="icon-fa  fa fa-comments" aria-hidden="true"></span>
+                      <span class="sr-only">Audiência Interativa</span>
+                    </a>
+                    {{/if}}
+                  </div>
+                </div>
+              </article>
+            </li>
+          </ul>
+          {{/if}}
+
+          <div class="g-l-assista__acessorio-outros g-l-assista__ordem">
+
+            <div class="g-l-assista__item-ordem g-l-assista__item-ordem--todas-transmissoes">
+              {{!-- bloco todas transmissões (veja mais) --}}
+              <div class="l-ordem-coluna-transmissoes__item">
+                <div class="veja-mais veja-mais--divisor-superior veja-mais--todas-transmissoes veja-mais--sem-fundo-mobile">
+                  <a href="{{baseURLPortalPlone}}/atividade-legislativa/webcamara/ao-vivo/transmissoes-do-dia" class="veja-mais__item"><span
+                      class="veja-mais__icone veja-mais__icone--transmissoes fas fa-wifi"></span>
+                    Todas as transmissões <span class="" aria-hidden="true">&rarr;</span></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="g-l-assista__item-ordem g-l-assista__item-ordem--veiculos">
+              {{!-- bloco veículos --}}
+              <ul class="g-l-bloco-veiculos">
+                <li class="g-l-bloco-veiculos__tv">
+                  <a class="g-l-bloco-veiculos__link" href="{{baseURLPortalSisnews}}/camaranoticias/tv/">
+                    TV Câmara
+                  </a>&nbsp;
+                </li>
+                <li class="g-l-bloco-veiculos__radio">
+                  <a class="g-l-bloco-veiculos__link" href="{{baseURLPortalSisnews}}/camaranoticias/radio/">
+                    Rádio Câmara
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+</section>
+</div>
+</div>

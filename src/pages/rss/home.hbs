@@ -1,0 +1,24 @@
+{{#> templates/landing-pages title="Assinar RSS - Câmara Notícias" 
+description="Portal da Câmara dos Deputados - Notícias"
+main-heading="Notícias"
+breadcrumbs-itens='[
+{"rotulo":"Comunicação", "link":"http://www2.camara.leg.br/comunicacao"},
+{"rotulo":" Notícias", "link":"http://www2.camara.leg.br/camaranoticias"}
+]'}}
+
+{{#*inline "content-block-landing-pages"}}
+<div id="content" class="container">
+    {{> pages/rss/_home--conteudo}}
+</div>
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/noticias.css">
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/comunicacao-rss.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/home/index.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}               

@@ -1,0 +1,71 @@
+<div id="marcacao-conteudo-portal" class="conteudo-portal container nopadding-right nopadding-left">
+    <div class="coluna-centro col-md-offset-2 col-md-8">
+        <div id="portal-column-content">
+            <div id="portal-content-wrapper">
+                <div class="documentContent">
+                    <div id="content" onclick="void(0)">
+                        <div id="conteudoSite">
+                            <!-- inicio Conteúdo Site -->
+                            <div class="tarjaPrograma">
+                                <div class="navProgramas">
+                                    <a href="{{baseURL}}">{{dados.programa.titulo}}</a>
+                                </div>
+                            </div>
+
+                            <!-- Data da matéria -->
+                            <div id="datahoraNoticia" class="data">{{dados.dataFormatada}} {{dados.horaFormatada}}</div>
+                            {{#if dados.dataAtualizacao}}
+                            <div class="dataAtualizacao">Atualizado em {{dados.dataAtualizacaoFormatada}} {{dados.horaAtualizacaoFormatada}}</div>
+                            {{/if}}
+
+                            <!-- Título da Matéria -->
+                            <div id="tituloNoticia">
+                                <!-- // ATENÇÃO: >>>>> NÃO ALTERAR ID <<<<< -->
+                                <h2>{{dados.titulo}}</h2>
+                            </div>
+
+                            <div id="resumoNoticia">
+                                <p>{{dados.resumo}}</p>
+                            </div>
+
+                            <!--  Início player Rádio -->
+                            <div class="audio">
+
+                                <div class="audiocontainer" style="position: relative; height: 32px; overflow-y: hidden;">
+
+                                    <div id="audioPlayer"></div>
+
+                                </div>
+
+                                <span><script type='text/javascript'>mcplayer('#audioPlayer').live({ id_element: 'playerRadioCamara', mp4: 'http://imagem.camara.gov.br/internet/midias/Radio/2018/09/paineleletronico_20180926_antonio_geraldo.mp3', height: 32, muted: false, autoplay: false, type: 'audio', controlBarAutoHide: false, style: 'width:100%' });</script></span>
+
+                            </div>
+                            <!--  Fim player Rádio -->
+
+                            <!--  Conteúdo da Matéria -->
+                            <div id="conteudoNoticia">
+                                <div>{{{dados.conteudo}}}
+                                </div>
+                                <!--  Proposições  -->
+
+                                <div id="creditosMateria" style="float: none !important;;">
+                                    <span>{{{dados.rodape}}}</span>
+                                </div>
+                            </div>
+                            <!--  Rodapé -->
+
+                        </div>
+                        <!-- final Conteúdo Site -->
+
+                    </div>
+                    <!-- content //-->
+                </div>
+                <!-- documentContent //-->
+            </div>
+            <!-- portal-content-wrapper //-->
+        </div>
+        <!-- portal-column-content //-->
+
+    </div>
+
+</div>

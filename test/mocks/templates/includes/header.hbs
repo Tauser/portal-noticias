@@ -1,0 +1,96 @@
+<header class="l-cabecalho-portal" role="banner">
+    <ul aria-label="Acesso direto" class="acesso-direto">
+        <!-- Links para saltar diretamente para áreas importantes da página accesskey 2 = conteúdo e 3 = navegação -->
+        <li><a class="acesso-direto__link" href="#main-content" accesskey="2">Ir ao conteúdo</a></li>
+        <li><a class="acesso-direto__link" href="#main-nav" accesskey="3">Ir à navegação principal</a></li>
+    </ul>
+
+    <!--[if lte IE 9]>
+    <p class="browserupgrade">Você está usando um navegador <strong>defasado</strong>. Por favor, <a href="https://browsehappy.com/">atualize seu navegador</a> para melhorar sua experiência e sua segurança.</p>
+    <![endif]-->
+
+    <div class="nav-top">
+      <div class="container nav-top--container">
+
+        {{> includes/header__ferramentas-apoio }}
+
+        <ul class="orgaos-parceiros" aria-label="Órgãos parceiros">
+            <li class="orgaos-parceiros__item orgaos-parceiros__item--congresso"><a href="http://www.congressonacional.leg.br"><span>Congresso</span></a></li>
+            <li class="orgaos-parceiros__item orgaos-parceiros__item--senado"><a href="http://www.senado.leg.br"><span>Senado</span></a></li>
+            <li class="orgaos-parceiros__item orgaos-parceiros__item--tcu"><a href="http://www.tcu.leg.br"><span>Tribunal de Contas da União</span></a></li>
+        </ul>
+
+        {{!-- Sera criado uma API especifica para acessar o Login Cidadao
+        
+        <input type="button" class="btn nav-top__botao-entrar" value="Entrar">
+
+        <div class="navbar-user">
+          <div class="dropdown">
+            <a href="#" class="navbar-user__logged-info dropdown-toggle" role="button" data-toggle="dropdown" aria-expanded="false">
+              <img src="{{baseUrlTema}}/assets/images/avatar-user.png" alt="Foto usuário" class="navbar-user__logged-info-foto">
+              <span class="navbar-user__logged-info-nome"> Nome do usuário</span>
+            </a>
+
+            <ul class="dropdown-menu navbar-user__dropdown" role="menu">
+              <li><a href="#">Preferências</a></li>
+              <li><a href="#">Sair</a></li>
+            </ul>
+          </div>
+        </div> --}}
+
+      </div>
+    </div>
+
+    <nav class="menu-global navbar navbar-expand-lg" role="navigation" aria-label="Navegação principal" id="menuglobal">
+      <div class="container menu-global--container">
+        <a href="{{baseUrlPortal}}" class="menu-global__logo navbar-brand" accesskey="1"><span class="sr-only">Página inicial</span></a>
+
+        <!-- icone menu -->
+        <button class="menu-global--btnmenu navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarportal" aria-controls="navbarportal" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="menu-global--icon"></span>
+        </button>
+
+        <!-- icone busca -->
+        <button class="menu-global--btnsearch" type="button" data-toggle="collapse" data-target="#buscaportal" aria-controls="buscaportal" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="fa fa-search"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarportal">
+          <ul aria-label="Navegação Principal" id="main-nav" class="navbar-nav">
+            {{#each menu}}
+            <li class="nav-item dropdown">
+              <a class="menu-global__item-{{id}} nav-link dropdown-toggle" href="#" id="{{id}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{titulo}}</a>
+              <ul class="dropdown-menu" aria-labelledby="{{id}}">
+                {{#each subMenu}}
+                <li class="dropdown-item"><a href="{{url}}">{{titulo}}</a></li>
+                {{/each}}
+              </ul>
+            </li>
+            {{/each}}
+          </ul>
+
+          <div class="outras-opcoes-menu-usuario">
+            {{!-- <div class="navbar-user">
+              <div class="navbar-user__logged-info">
+                  <img src="{{baseUrlTema}}/assets/images/avatar-user.png" alt="Foto usuário" class="navbar-user__logged-info-foto">
+                  <span class="navbar-user__logged-info-nome"> Nome do usuário</span>
+              </div>
+            </div> --}}
+
+            {{> includes/header__ferramentas-apoio mostrarMenu="true" }}
+
+          </div>
+        </div>
+
+        <div class="collapse box-search" id="buscaportal">
+          <form role="search" accesskey="4" class="box-search__busca form-inline" method="get" action="{{baseUrlPortal}}/busca-portal">
+            <label for="termo-busca-geral" class="sr-only box-search__label">Pesquise no Portal da Câmara</label>
+            <input class="form-control box-search__campo" type="search" name="pesquisa" id="termo-busca-geral" placeholder="O que você busca ?" aria-label="Search">
+            <button class="btn sr-only box-search__botao" type="submit">Buscar</button>
+            <!-- Colque aqui a estrutura de seu formulário de busca -->
+          </form>
+        </div>
+      </div>
+    </nav>
+
+</header>

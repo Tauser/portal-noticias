@@ -1,0 +1,99 @@
+<div id="marcacao-conteudo-portal" class="conteudo-portal container nopadding-right nopadding-left">
+  <div class="coluna-centro col-md-offset-2 col-md-8">
+    <div id="portal-column-content">
+      <div id="portal-content-wrapper">
+        <div class="documentContent">
+
+          <div id="content" onclick="void(0)">
+            <div id="conteudoSite">
+              <!-- inicio Conteúdo Site -->
+              <div class="tarjaPrograma">
+                <div class="navProgramas">
+                  <a href="{{baseURL}}">{{dados.temaPrincipal}}</a>
+                </div>
+              </div>
+
+              <!-- Data da matéria -->
+              <div id="datahoraNoticia" class="data">{{dados.dataFormatada}} {{dados.horaFormatada}}</div>
+              {{#if dados.dataAtualizacao}}
+              <div class="dataAtualizacao">Atualizado em {{dados.dataAtualizacaoFormatada}}
+                {{dados.horaAtualizacaoFormatada}}</div>
+              {{/if}}
+              <!-- Área de Videos -->
+              <div>
+                <div class="noticia-player">
+                  <div>
+                    {{#each dados.ultimasPrim}}
+                    <strong>{{this.titulo}}</strong></br>
+                    {{this.data_formatada}}
+                    <div class="mp4-video-container">
+                      <div id="mp4Player" class="mp4-div"></div>
+                    </div>
+                    <span>
+                      <script type='text/javascript'>mcplayer('#mp4Player').live({ id_element: 'playerMP4', mp4: '{{#video}}{{url}}{{/video}}', poster: '{{#imagem_destaque}}{{sizes.1.url}}{{/imagem_destaque}}', style: 'background-color:black', muted: false, autoplay: false });</script></span>
+                    <a href="">BAIXAR VIDEO</a>
+                  </div>
+                  {{/each}}
+                </div>
+              </div>
+
+              <div id="tituloNoticia">
+                <h2>{{dados.titulo}}</h2>
+              </div>
+
+              <div id="resumoNoticia">
+                <p>{{dados.resumo}}</p>
+              </div>
+
+              <!--  Conteúdo da Matéria -->
+              <div id="conteudoNoticia">
+                {{{dados.conteudo}}}
+              </div>
+              <div class="tarjaPrograma">
+                <div id="tituloNoticia">
+                  <h2>Edições Anteriores</h2>
+                </div>
+              </div>
+              {{#each dados.ultimas}}
+              <div class="tarjaPrograma">
+                <div>
+                  <strong>{{this.titulo}}</strong>
+                </div>
+                <div>
+                  {{this.resumo}}
+                </div>
+                <div>Data
+                  {{this.data_formatada}}
+                </div>
+                <div>
+                  {{#imagem_destaque}}
+                  <img src="{{sizes.1.url}}">
+                  {{/imagem_destaque}}
+                </div>
+                <div>
+                  {{#video}}
+                  <a href="{{url}}">BAIXAR VIDEO</a>
+                  {{/video}}
+                </div>
+              </div>
+              {{/each}}
+            </div>
+
+            <!--  Rodapé -->
+            <div id="creditosMateria">
+              <span>{{{dados.rodape}}}</span>
+            </div>
+            <br>
+
+          </div>
+          <!-- final Conteúdo Site -->
+
+        </div>
+        <!-- content //-->
+      </div>
+      <!-- documentContent //-->
+    </div>
+    <!-- portal-content-wrapper //-->
+  </div>
+  <!-- portal-column-content //-->
+</div>

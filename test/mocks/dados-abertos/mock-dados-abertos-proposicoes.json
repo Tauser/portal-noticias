@@ -1,0 +1,45 @@
+{
+    "dados": [
+        {
+            "id": 2210141,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210141",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 103,
+            "ano": 2019,
+            "ementa": "Altera o Ato das Disposições Constitucionais Transitórias para incluir, no Novo Regime Fiscal, limites para as despesas com pagamento da dívida pública."
+        },
+        {
+            "id": 2211757,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211757",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 112,
+            "ano": 2019,
+            "ementa": "Altera o art. 168 da Constituição, para dispor sobre a entrega dos duodécimos."
+        },
+        {
+            "id": 2212117,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212117",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 115,
+            "ano": 2019,
+            "ementa": "Acrescenta ao artigo 58 da Constituição Federal os §§ 3.º-A e 3.º-B, para assegurar às pessoas convocadas a prestar depoimento perante as Comissões Parlamentares de Inquérito a observância plena aos seus direitos fundamentais ao silêncio e à não autoincriminação, independentemente de decisão judicial nesse sentido, assim como aos colegiados o poder para realizar conduções coercitivas de testemunhas, de investigados ou de acusados, nas hipóteses neles previstas."
+        }
+    ],
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?id=2210141&id=2212117&id=2211757&ordem=ASC&ordenarPor=id"
+        },
+        {
+            "rel": "first",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?id=2210141&id=2212117&id=2211757&ordem=ASC&ordenarPor=id&pagina=1&itens=15"
+        },
+        {
+            "rel": "last",
+            "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?id=2210141&id=2212117&id=2211757&ordem=ASC&ordenarPor=id&pagina=1&itens=15"
+        }
+    ]
+}

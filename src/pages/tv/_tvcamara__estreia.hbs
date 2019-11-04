@@ -1,0 +1,35 @@
+<section class="secao-estreia">
+  <div class="fundo-1">
+    <div class="container container--estreia">
+
+      <div class="l-grid l-grid--lg-8-4">
+
+        <div class="l-grid__item video-estreia">
+          <h2 class="titulo-secao video-estreia__titulo titulo-secao--sem-borda"><a href="#" class="titulo-secao--com-link__link">Estreia</a></h2>
+
+          <div class="video-estreia__video">
+            <video class="mejs__player" controls poster="{{baseUrlTema}}/assets/images/_placeholders/video-placeholder.png"
+              data-mejsoptions='{"stretching":"responsive"}'>
+              <source src="{{destaqueEstreia.urlVideo}}" type='video/mp4;codecs="avc1.4D401E, mp4a.40.2"'>
+              <p>Seu navegador não consegue mostrar o vídeo aqui. Você pode tentar fazer o seu <a href="{{destaqueEstreia.urlVideo}}">download</a>.</p>
+            </video>
+          </div>
+        </div>
+
+        <div class="l-grid__item">
+          <article class="g-chamada g-chamada--estreia">
+            <span class="g-chamada__retranca g-chamada__retranca--destacada g-chamada__retranca--fundo-gray-37">{{destaqueEstreia.tema}}</span>
+
+            <div class="g-chamada__destaque-lateral g-chamada__destaque-lateral--gray-37">
+              <h3 class="g-chamada__titulo">
+                <a class="g-chamada__titulo-link" href="{{destaqueEstreia.link}}">{{destaqueEstreia.titulo}}</a>
+              </h3>
+
+              <p class="g-chamada__descricao">{{destaqueEstreia.resumo}}</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

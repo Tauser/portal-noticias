@@ -1,0 +1,31 @@
+
+<h{{#if nivel}}{{nivel}}{{else}}2{{/if}} {{#if id}}id="{{id}}"{{/if}} class="titulo-secao {{#if link}}titulo-secao--com-link{{/if}} {{#if titulo-icone-esquerda}}titulo-secao--titulo-icone-esquerda{{/if}} {{modificador}}">
+    {{#if link}}
+        <a href="{{link}}" class="titulo-secao--com-link__link">
+    {{/if}}
+
+    {{!-- Abre collapse único --}}
+    {{#if single-collapse}}
+        <a href="#{{single-collapse}}" class="titulo-secao__collapse collapsed" data-toggle="collapse" role="button" aria-expanded="false">
+    {{/if}}
+    {{!-- .\ Abre collapse único --}}
+
+    {{!-- Inclui ícone associado à classe .titulo-secao--titulo-icone-esquerda --}}
+    {{#if titulo-icone-esquerda}}
+    <span class="titulo-secao__icone titulo-secao__icone--{{titulo-icone-esquerda}}"></span>
+    {{/if}}
+
+    <span class="titulo-secao__texto">{{title}}</span>
+
+    {{!-- Fecha collapse único --}}
+    {{#if single-collapse}}
+            <span class="titulo-secao__icone titulo-secao__icone--collapse"></span>
+        </a>
+    {{/if}}
+    {{!-- Fecha collapse único --}}
+
+    {{#if link}}
+        </a>
+    {{/if}}
+
+</h{{#if nivel}}{{nivel}}{{else}}2{{/if}}>

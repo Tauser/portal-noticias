@@ -1,0 +1,50 @@
+{
+    "id": 3657,
+    "tipo_conteudo": "pagina_radio",
+    "objeto_wp": {
+        "label": "P\u00e1gina R\u00e1dio",
+        "capability": "post"
+    },
+    "area_conteudo": {
+        "id": 1927,
+        "name": "R\u00e1dio C\u00e2mara",
+        "slug": "radio-camara"
+    },
+    "link": "\/radio-camara\/3657-expediente\/",
+    "path_separado": [
+        "radio-camara",
+        "3657-expediente"
+    ],
+    "breadcrumbs": [
+        {
+            "nivel": 0,
+            "name": "R\u00e1dio C\u00e2mara",
+            "slug": "radio-camara",
+            "id": 1927,
+            "link": "\/1927-radio-camara"
+        }
+    ],
+    "menu_local": [
+        {
+            "ID": 1927,
+            "label": "R\u00e1dio C\u00e2mara",
+            "slug": "radio-camara",
+            "link": "\/1927-radio-camara"
+        }
+    ],
+    "titulo": "Expediente",
+    "data": 1552489590,
+    "data_formatada": "13\/03\/2019",
+    "hora_formatada": "15:06",
+    "data_atualizacao": 1552489590,
+    "data_atualizacao_formatada": "13\/03\/2019",
+    "hora_atualizacao_formatada": "15:06",
+    "conteudo": "<h3><small><strong>SECRETARIA DE COMUNICA\u00c7\u00c3O SOCIAL<\/strong><\/small><\/h3>\n<p class=\"espacado\">Dep. M\u00e1rcio Marinho (PRB-BA)<\/p>\n<h3><small><strong>DIRETORIA-EXECUTIVA DE COMUNICA\u00c7\u00c3O SOCIAL<\/strong><\/small><\/h3>\n<p class=\"espacado\"><strong>Diretor:\u00a0<\/strong>David Miranda \u2013 (61) 3216-1501<\/p>\n<h3><small><strong>M\u00cdDIAS INTEGRADAS<\/strong><\/small><\/h3>\n<p class=\"espacado\"><strong>Diretor:\u00a0<\/strong>Pedro Noleto \u2013 (61) 3216-1600<\/p>\n<h3><small><strong>CONTE\u00daDO MULTIM\u00cdDIA<\/strong><\/small><\/h3>\n<p class=\"espacado\"><strong>Diretor:\u00a0<\/strong>Wilson Silveira \u2013 (61) 3216-1858<\/p>\n<h3><small><strong>AG\u00caNCIA C\u00c2MARA NOT\u00cdCIAS<\/strong><\/small><\/h3>\n<p class=\"espacado\"><strong>Editora-chefe:\u00a0<\/strong>Natalia Doederlein \u2013 (61) 3216-1862<\/p>\n",
+    "resumo": [],
+    "imagem_destaque": null,
+    "videos": null,
+    "imagem_poster": null,
+    "audios": null,
+    "arquivo_anexo": null,
+    "tags": []
+}

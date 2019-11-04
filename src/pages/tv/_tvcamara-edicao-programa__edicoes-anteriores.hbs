@@ -1,0 +1,34 @@
+<section class="secao-edicoes-anteriores">
+  <div class="container">
+
+    <h2 class="titulo-secao titulo-secao--sem-borda">Edições anteriores</h2>
+
+    <div class="l-documentarios l-grid l-grid--lg-3-3-3-3">
+      {{#each dados.ultimas as |materia key|}}
+      <div class="l-documentarios__item l-grid__item">
+        <article class="g-chamada">
+          {{#if materia.imagens}}
+          <img class="g-chamada__imagem" src="{{materia.imagens.0.url}}" alt="">
+          {{/if}}
+          <div class="l-grid">
+            <div class="l-grid__item">
+              <div class="g-chamada__data">{{materia.data_formatada}}</div>
+            </div>
+            {{!-- <div class="l-grid__item l-grid__item--link-baixar">
+              <a href="#" class="g-chamada__link"><span class="g-chamada__link-icone fas fa-cloud-download-alt"></span>Baixar</a>
+            </div> --}}
+          </div>
+
+          <h3 class="g-chamada__titulo">
+            <a class="g-chamada__titulo-link" href="{{materia.link}}">{{materia.titulo}}</a>
+          </h3>
+        </article>
+      </div>
+      {{/each}}
+    </div>
+
+    {{!-- <div class="veja-mais">
+      <a href="#" class="veja-mais__item">mais edições <span class="" aria-hidden="true">&rarr;</span></a>
+    </div> --}}
+  </div>
+</section>

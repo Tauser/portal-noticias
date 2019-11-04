@@ -1,0 +1,17 @@
+<section class="comentarios-conteiner">
+  <div class="container container--inner-page">
+    {{> pages/comum/comentarios}}
+  </div>
+  {{!-- Início .container --}}
+  {{#if dados.comentariosSisnews.length}}
+  <div class="container container--inner-page">
+    <div class="g-comentarios">
+      <div class="text-right">
+        <a href="{{dados.linkComentariosAnteriores}}">Comentários Anteriores</a>
+        <span class="" aria-hidden="true">→</span>
+      </div>
+    </div>
+  </div>
+  {{/if}}
+  {{!-- .\ Fim .container --}}
+</section>

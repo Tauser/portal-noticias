@@ -1,0 +1,40 @@
+<div id="eh-assista-container" class="eh-bloco-dinamico eh-bloco-dinamico-row-wide eh-bloco-dinamico-height-redux">
+  {{#each dados}}
+  <section class="secao-assista">
+    {{#if this.fundo }}
+    <div class="fundo-2">
+    {{/if}}
+      {{#if this.notFound}}
+        {{> pages/comum/programas/_conteudo-programas-vazio}}
+      {{else}}
+        {{> pages/comum/programas/_conteudo-programas}}      
+      {{/if}}
+    {{#if this.fundo }}
+    </div>
+    {{/if}}
+  </section>
+  {{/each}}
+  <div class="modal fade media-modal" id="noticia-modal" tabindex="-1" role="dialog"
+    aria-labelledby="noticia-modal-label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content media-modal__conteudo">
+        <div class="modal-header media-modal__titulo">
+          <h5 class="modal-title" id="noticia-modal-label">Por quê boa parte dos projetos não passa pelo plenário?
+          </h5>
+          <button type="button" class="close media-modal__close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <video class="media-modal__video js-mejs-reset-on-hide" controls
+            data-mejsoptions='{"stretching":"responsive"}'>
+            <source
+              src="https://www.youtube.com/embed/bUQThBwN1nM?rel=0&modestbranding=1&loop=1&showinfo=0&playlist=bUQThBwN1nM"
+              type='video/youtube'>
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

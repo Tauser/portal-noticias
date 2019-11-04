@@ -1,0 +1,57 @@
+<div class="carregar-mais">
+    {{!-- Botão para carregar resultados aparece apenas na resolução mobile --}}
+    <!--<a class="button button--circular carregar-mais__botao"-->
+      <!--href="?pagina={{#carregarProximas paginacao.pagina}}{{/carregarProximas}}">Carregar mais últimas</a>-->
+
+    {{!-- Paginação aparece apenas na resolução desktop --}}
+    {{!-- Observação: O nome da categoria (aba) é alterado ao final do aria-label, conforme a aba selecionada --}}
+
+    {{#if this.paginador }}
+    <nav class="pagination" aria-label="Navegação entre páginas de Últimas Notícias">
+
+      <ul class="pagination-list pagination-list--circular">
+        {{!-- Anterior - Classe disabled utilizada quando o elemento estiver desabilitado --}}
+        <li class="pagination-list__nav pagination-list__nav--prev {{#if paginador.anterior.disabled }} disabled{{/if}}">
+          {{!-- Tabindex utilizado apenas quando existir a classe 'disabled' --}}
+          {{!-- Anterior --}}
+          <a href="?pagina={{paginador.anterior.voltar}}" class="pagination-list__nav-link" tabindex="-1">
+            <span class="sr-only">Página </span>Anterior
+            <span class="pagination-list__btn pagination-list__btn--prev fas fa-chevron-left" aria-hidden="true"></span>
+          </a>
+        </li>
+
+        {{!-- Números das páginas --}}
+        {{#each paginador.paginas}}
+        <li class="pagination-list__number{{#if this.active}} active{{/if}}{{#if this.hidden}} hidden{{/if}}">
+          <a class="pagination-list__number-link" id="numero-{{this.pagina}}" href="?pagina={{this.pagina}}">
+            <span class="sr-only">página </span>
+            {{this.pagina}}
+          </a>
+        </li>
+        {{/each}}
+
+        {{!-- .\ Fim Números das páginas --}}
+
+        {{!-- Tabindex utilizado apenas quando existir a classe 'disabled' --}}
+        {{!-- Próximo --}}
+        <li
+          class="pagination-list__nav pagination-list__nav--next {{#if paginador.proxima.disabled }} disabled{{/if}}">
+          <a href="?pagina={{paginador.proxima.avancar}}" class="pagination-list__nav-link">
+            <span class="pagination-list__btn pagination-list__btn--next fas fa-chevron-right"
+              aria-hidden="true"></span>
+            Próxima<span class="sr-only"> página</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+    {{/if}}    
+    {{#if paginador.buscaAvancada }}
+        <a class="button button--circular" href="https://www.camara.leg.br/busca-portal?contextoBusca=BuscaNoticias&pagina=1&order=data&abaEspecifica=true&filtros=%5B%7B%22veiculo%22%3A%22Ag%C3%AAncia%20C%C3%A2mara%20de%20Not%C3%ADcias%22%7D%5D">Busca avançada</a>
+    {{/if}}
+  </div>
+
+  <style>
+      .hidden { 
+          display: none;
+      }
+  </style>

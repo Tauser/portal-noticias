@@ -1,0 +1,213 @@
+{
+  "id": 418,
+  "tipo_conteudo": "edicao_programa_radi",
+  "objeto_wp": {
+    "label": "Edição de Programa de Rádio",
+    "capability": "post"
+  },
+  "link": "/radio/418-camara-e-noticia-3a-edicao-10-08-2018/",
+  "area_conteudo": {
+    "id": null,
+    "name": null,
+    "slug": null
+  },
+  "path_separado": [
+    "radio",
+    "418-camara-e-noticia-3a-edicao-10-08-2018"
+  ],
+  "breadcrumbs": [
+    {
+      "nivel": 0,
+      "name": null,
+      "slug": null,
+      "id": null,
+      "link": "/-"
+    }
+  ],
+  "menu_local": "",
+  "titulo": "Câmara é Notícia - 3ª edição (10/08/2018)",
+  "data": 1533934800,
+  "data_formatada": "10/08/2018",
+  "hora_formatada": "21:00",
+  "data_atualizacao": 1555952525,
+  "data_atualizacao_formatada": "22/04/2019",
+  "hora_atualizacao_formatada": "17:02",
+  "conteudo": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta quis ligula et rhoncus. Pellentesque interdum, mauris sed tempor accumsan, leo ante fermentum mauris, vitae gravida magna lectus sed neque. Duis diam dui, hendrerit at euismod ac, imperdiet et magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent accumsan tincidunt lacus ac interdum. Pellentesque nisi metus, pellentesque eu risus sit amet, elementum consectetur diam. Ut non ligula id dolor pretium volutpat. In gravida porttitor leo. Mauris posuere in quam ac sollicitudin. Proin non sapien non elit commodo consectetur quis quis quam. Donec egestas faucibus nisl.</p>\n<p>Aliquam sollicitudin, mauris faucibus lacinia volutpat, augue ipsum fermentum turpis, vel gravida tellus augue ac ipsum. Ut consectetur felis vel tortor pellentesque vulputate. Nullam sit amet nisi purus. Vivamus tristique eros enim, in auctor ipsum lacinia sed. Vestibulum sed lacus aliquet, pellentesque augue quis, iaculis tellus. Donec dignissim sagittis condimentum. Curabitur tristique ac dui non efficitur. Curabitur dui magna, luctus at metus sed, vulputate congue augue.</p>\n<p>Vestibulum libero enim, sodales id aliquam non, dapibus vitae lectus. Phasellus eu nisl scelerisque, finibus nisl in, malesuada ex. Nullam euismod nulla eget ultrices hendrerit. Donec in arcu eros. Suspendisse potenti. Curabitur nec feugiat sapien. Vivamus auctor condimentum urna, sed dictum libero ornare pretium. Maecenas enim justo, semper in ultrices sit amet, lobortis ac turpis. Nullam sit amet dictum diam. Pellentesque molestie arcu vitae dui scelerisque accumsan.</p>\n",
+  "resumo": "Confira os últimos destaques do Plenário, das comissões e dos bastidores do Congresso Nacional",
+  "imagemDestaque": null,
+  "videoDestaque": null,
+  "audioDestaque": null,
+  "arquivoDestaque": null,
+  "tags_conteudo": [],
+  "horario": null,
+  "tema_principal": {
+    "id": 133,
+    "titulo": "Política"
+  },
+  "outros_temas": [
+    {
+      "id": 116,
+      "titulo": "Administração Pública"
+    },
+    {
+      "id": 118,
+      "titulo": "Economia"
+    },
+    {
+      "id": 119,
+      "titulo": "Educação e Cultura"
+    },
+    {
+      "id": 133,
+      "titulo": "Política"
+    },
+    {
+      "id": 126,
+      "titulo": "Saúde"
+    },
+    {
+      "id": 123,
+      "titulo": "Segurança"
+    },
+    {
+      "id": 122,
+      "titulo": "Trabalho e Previdência"
+    }
+  ],
+  "rodape": "Apresentação - Paulo Gonçalves Edição - Marcelo Larcher, Ana Raquel Macedo e Silvia Mugnatto Trabalhos Técnicos - Antônio Araújo",
+  "tipo_midia": "AUDIO",
+  "tipo_noticia": "INTEGRA",
+  "materias_relacionadas": [],
+  "visivel_boletim": "sim",
+  "visivel_home": "sim",
+  "portal_congresso": "não",
+  "programa_principal": {
+    "id": 171,
+    "data": 1555083081,
+    "data_formatada": "12/04/2019",
+    "titulo": "Câmara é Notícia",
+    "conteudo": "Jornal com as últimas notícias da Câmara dos Deputados. Sugestões, críticas e comentários podem ser enviados para o e-mail radio@camara.leg.br",
+    "hora_formatada": "15:31",
+    "tema_principal": "",
+    "link": "/171-camara-e-noticia/",
+    "horario": "",
+    "resumo": "Jornal com as últimas notícias da Câmara dos Deputados",
+    "imagem_destaque": null
+  },
+  "outros_programas": [
+    {
+      "id": 323,
+      "data": 1555083101,
+      "data_formatada": "12/04/2019",
+      "titulo": "Voto Consciente",
+      "conteudo": "A ideia da campanha é mostrar que existe uma correlação direta entre a escolha feita pelo eleitor e a qualidade da representação popular no parlamento.",
+      "hora_formatada": "15:31",
+      "tema_principal": "",
+      "link": "/323-voto-consciente/",
+      "horario": "",
+      "resumo": "A ideia da capanha é mostrar que existe uma correlação direta entre a escolha feita pelo eleitor e a qualidade da representação popular no parlamento",
+      "imagem_destaque": null
+    }
+  ],
+  "data_estreia": "",
+  "hora_estreia": "",
+  "destaque_home_programa": "não",
+  "destaque_home_tematica": "não",
+  "deputados": [],
+  "projetos_de_lei": [],
+  "projeto_lei_principal": [],
+  "comentarios_sisnews": [],
+  "total_comentarios_sisnews": 0,
+  "ultimas": [
+    {
+      "id": 418,
+      "titulo": "Câmara é Notícia - 3ª edição (10/08/2018)",
+      "link": "/radio/418-camara-e-noticia-3a-edicao-10-08-2018/",
+      "data": "2018-08-10 21:00:00",
+      "data_formatada": "10/08/2018",
+      "hora_formatada": "21:00",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta quis ligula et rhoncus. Pellentesque interdum, mauris sed tempor accumsan, leo ante fermentum mauris, vitae gravida magna lectus sed neque. Duis diam dui, hendrerit at euismod ac, imperdiet et magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent accumsan tincidunt lacus ac interdum. Pellentesque nisi metus, pellentesque eu risus sit amet, elementum consectetur diam. Ut non ligula id dolor pretium volutpat. In gravida porttitor leo. Mauris posuere in quam ac sollicitudin. Proin non sapien non elit commodo consectetur quis quis quam. Donec egestas faucibus nisl.\r\n\r\nAliquam sollicitudin, mauris faucibus lacinia volutpat, augue ipsum fermentum turpis, vel gravida tellus augue ac ipsum. Ut consectetur felis vel tortor pellentesque vulputate. Nullam sit amet nisi purus. Vivamus tristique eros enim, in auctor ipsum lacinia sed. Vestibulum sed lacus aliquet, pellentesque augue quis, iaculis tellus. Donec dignissim sagittis condimentum. Curabitur tristique ac dui non efficitur. Curabitur dui magna, luctus at metus sed, vulputate congue augue.\r\n\r\nVestibulum libero enim, sodales id aliquam non, dapibus vitae lectus. Phasellus eu nisl scelerisque, finibus nisl in, malesuada ex. Nullam euismod nulla eget ultrices hendrerit. Donec in arcu eros. Suspendisse potenti. Curabitur nec feugiat sapien. Vivamus auctor condimentum urna, sed dictum libero ornare pretium. Maecenas enim justo, semper in ultrices sit amet, lobortis ac turpis. Nullam sit amet dictum diam. Pellentesque molestie arcu vitae dui scelerisque accumsan.",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 423,
+      "titulo": "Câmara é Notícia - 2ª edição (10/08/2018)",
+      "link": "/radio/423-camara-e-noticia-2a-edicao-10-08-2018/",
+      "data": "2018-08-10 13:30:00",
+      "data_formatada": "10/08/2018",
+      "hora_formatada": "13:30",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 428,
+      "titulo": "Câmara é Notícia - 1ª edição (10/08/2018)",
+      "link": "/radio/428-camara-e-noticia-1a-edicao-10-08-2018/",
+      "data": "2018-08-10 09:00:00",
+      "data_formatada": "10/08/2018",
+      "hora_formatada": "09:00",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 419,
+      "titulo": "Câmara é Notícia - 3ª edição (09/08/2018)",
+      "link": "/radio/419-camara-e-noticia-3a-edicao-09-08-2018/",
+      "data": "2018-08-09 21:00:00",
+      "data_formatada": "09/08/2018",
+      "hora_formatada": "21:00",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 424,
+      "titulo": "Câmara é Notícia - 2ª edição (09/08/2018)",
+      "link": "/radio/424-camara-e-noticia-2a-edicao-09-08-2018/",
+      "data": "2018-08-09 13:30:00",
+      "data_formatada": "09/08/2018",
+      "hora_formatada": "13:30",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    },
+    {
+      "id": 429,
+      "titulo": "Câmara é Notícia - 1ª edição (09/08/2018)",
+      "link": "/radio/429-camara-e-noticia-1a-edicao-09-08-2018/",
+      "data": "2018-08-09 09:00:00",
+      "data_formatada": "09/08/2018",
+      "hora_formatada": "09:00",
+      "resumo": "",
+      "tema_principal": "",
+      "area": "",
+      "conteudo": "",
+      "imagem_destaque": null,
+      "video": null,
+      "horario": ""
+    }
+  ]
+}

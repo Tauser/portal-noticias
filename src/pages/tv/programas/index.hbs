@@ -1,0 +1,23 @@
+{{#> templates/landing-pages 
+title="Portal da Câmara dos Deputados" 
+description="Últimos Programas no Portal da Câmara dos Deputados"
+main-heading=titulo
+breadcrumbs-itens=breadcrumbs
+}}
+
+{{#*inline "content-block-landing-pages"}}
+<div class="noticias-conteiner">
+    {{> pages/comum/programas/_conteudo-ultimos-programas}}
+</div>
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/ultimas-noticias.css">
+<link rel="stylesheet" href="/noticias/static/css/programas.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/comunicacao/ultimas-noticias.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}

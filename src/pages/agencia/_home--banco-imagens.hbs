@@ -1,0 +1,60 @@
+<div class="container">
+  <div class="l-grid l-grid--lg-8-4">
+    <div class="l-grid__item">
+      <section>
+        <h2 class="titulo-secao titulo-secao--sem-borda">
+          <a href="https://www.camara.leg.br/internet/bancoimagem/ultimas" class="titulo-secao__link link-com-icone">Banco de Imagens</a>
+        </h2>
+        <div class="banco-imagens">
+          <div class="l-banco-imagens">
+            {{!-- Imagem principal --}}
+            <div class="l-banco-imagens__item l-banco-imagens__item--principal">
+              <a href="https://www.camara.leg.br/internet/bancoimagem/ultimas">
+              <img class="banco-imagens__imagem" src="{{bImgPrincipal.pathImagemM}}" alt="{{bImgPrincipal.desImagem}}"
+                title="{{bImgPrincipal.desImagem}}">
+              </a>  
+            </div>
+            {{!-- Imagens secundárias --}}
+            {{#each bImgSecundarias as |imagem key|}}
+            <div class="l-banco-imagens__item l-banco-imagens__item--secundario">
+               <a href="https://www.camara.leg.br/internet/bancoimagem/ultimas">
+              <img class="banco-imagens__imagem" src="{{imagem.pathImagemP}}" alt="{{imagem.desImagem}}" title="{{imagem.desImagem}}">
+              </a>
+            </div>
+            {{/each}}
+          </div>
+        </div>
+        <div class="veja-mais">
+          <a href="https://www.camara.leg.br/internet/bancoimagem/ultimas" class="veja-mais__item">
+            Mais em banco de imagens <span class="" aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
+      </section>
+    </div>
+    <div class="l-grid__item">
+      <section>
+        <h2 class="titulo-secao titulo-secao--sem-borda">
+          INFOGRÁFICOS
+        </h2>
+        <div class="infografico-estatico">
+          <div class="infografico-estatico-item">
+            <img class="infografico-estatico-item__imagem" src="/noticias/static/banner_home_reforma.jpg" alt="">
+            <div class="infografico-estatico-item__titulo">
+              <a href="https://www.camara.leg.br/internet/agencia/infograficos-html5/ReformaTributaria/index.html">
+                Entenda a proposta de reforma tributária em análise na Câmara
+              </a>
+            </div>
+          </div>
+          <div class="infografico-estatico-item">
+            <img class="infografico-estatico-item__imagem" src="/noticias/static/banner_home_balanco.jpg" alt="">
+            <div class="infografico-estatico-item__titulo">
+              <a href="https://www.camara.leg.br/internet/agencia/infograficos-html5/camarabalanco2019/index.html">
+                Veja os principais projetos aprovados pela Câmara no primeiro semestre
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>

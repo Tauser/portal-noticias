@@ -1,0 +1,81 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-br"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt-br"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>
+    {{#if title}}
+    {{title}}
+    {{else}}
+    Novo Portal da Câmara
+    {{/if}}
+  </title>
+  {{#if description}}
+  <meta name="description" content="{{description}}">
+  {{else}}
+  <meta name="description" content="Uma template system deve abrir para customização da página que a estende.">
+  {{/if}}
+
+  <link rel="apple-touch-icon" sizes="180x180" href="{{baseUrlTema}}/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{baseUrlTema}}/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{baseUrlTema}}/favicon-16x16.png">
+  <link rel="manifest" href="{{baseUrlTema}}/site.webmanifest">
+  <link rel="mask-icon" href="{{baseUrlTema}}/safari-pinned-tab.svg" color="#009e49">
+  <meta name="msapplication-TileColor" content="#00a300">
+  <meta name="msapplication-TileImage" content="{{baseUrlTema}}/mstile-144x144.png">
+  <meta property="og:site_name" content="Portal da Câmara dos Deputados" />
+  <meta name="theme-color" content="#009e49">
+  <link rel="stylesheet" href="{{baseUrlTema}}/global/vendor-bundle.css">
+  <link rel="stylesheet" href="{{baseUrlTema}}/global/camara-custom.css">
+
+  {{#> custom-head-block}}
+  {{/custom-head-block}}
+</head>
+
+<body>
+  <div class="js-mmenu-container">
+    {{#> header-block}}
+    {{> includes/header}}
+    {{/header-block}}
+
+    {{#if nav}}
+    <nav role="navigation" aria-label="Navegação local" accesskey="6">
+      {{#> nav-block}}
+      <!-- coloque aqui o menu local, se houver -->
+      {{/nav-block}}
+    </nav>
+    {{/if}}
+
+    <main role="main" id="main-content">
+      <!-- Os cabeçalhos devem aparecer nesta área -->
+      {{#> content-block}}
+      <h1>Conteúdo base</h1>
+      {{/content-block}}
+    </main>
+
+    {{#if aside}}
+    <aside role="complimentary" aria-label="Conteúdo relacionado">
+      {{#> aside-block}}
+      <!-- coloque aqui o conteúdo relacionado -->
+      {{/aside-block}}
+    </aside>
+    {{/if}}
+
+    {{#> footer-block}}
+    {{> includes/footer}}
+    {{/footer-block}}
+
+    {{#> custom-scripts-block}}
+    {{/custom-scripts-block}}
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,29 @@
+{{#if dados.relacionadas.length}}
+<section class="veja-tambem-conteiner">
+  {{!-- Início .container --}}
+  <div class="container">
+    {{> templates/titulo-secao title="Veja Também" modificador="titulo-secao--noticia-interna"}}
+    <ul class="l-lista-noticia-veja">
+      {{#eachVejaTambem dados.relacionadas}}
+      <li class="l-lista-noticia-veja__item">
+        <article class="g-chamada">
+          {{#with this.imagens.[1]}}
+            {{#each sizes}}
+              {{#eq this.tipo 'medium'}}
+                <img class="g-chamada__imagem" src="{{this.url}}" alt="{{../this.imagem_destaque.legenda}}">
+              {{/eq}}
+            {{/each}}
+          {{/with}}
+          <span class="g-chamada__retranca">{{this.tema_principal}}</span>
+          <h3 class="g-chamada__titulo">
+            <a class="g-chamada__titulo-link" href="{{this.link}}">{{this.titulo}}</a>
+          </h3>
+        </article>
+      </li>
+      {{/eachVejaTambem}}
+    </ul>
+
+  </div>
+  {{!-- .\ Fim .container --}}
+</section>
+{{/if}}

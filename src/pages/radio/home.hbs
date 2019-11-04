@@ -1,0 +1,33 @@
+{{#> templates/landing-pages title="Rádio Câmara" description="Portal da Câmara dos Deputados - Rádio Câmara"
+main-heading="Rádio Câmara"
+breadcrumbs-itens=breadcrumbs
+menu-itens='[
+{"rotulo":"NOTÍCIAS", "link":"/radio/ultimas?data=&pagina=1"},
+{"rotulo":"SEJA UMA RÁDIO PARCEIRA", "link":"https://www2.camara.leg.br/comunicacao/radio-camara/cadastroEmissora"},
+{"rotulo":"COMO SINTONIZAR", "link":"/radio/562846-como-sintonizar/"},
+{"rotulo":"CONHEÇA A RÁDIO", "link":"/radio/562845-conheca-a-radio-camara/"},
+{"rotulo":"REDE LEGISLATIVA DE RÁDIO E TV", "link":"https://www2.camara.leg.br/comunicacao/rede-legislativa-radio-tv"},
+{"rotulo":"BOLETIM", "link":"https://www2.camara.leg.br/transparencia/sispush"},
+{"rotulo":"PROGRAMAS POR CATEGORIA", "link":"https://www.camara.leg.br/radio/programas"}
+]'}}
+
+{{#*inline "content-block-landing-pages"}}
+
+<div>
+
+  {{{dados.html}}}
+
+</div>
+
+
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/radio.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/home/index.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}

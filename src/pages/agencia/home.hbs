@@ -1,0 +1,30 @@
+{{#> templates/landing-pages title="Notícias" description="Portal da Câmara dos Deputados - Notícias"
+main-heading="Notícias"
+breadcrumbs-itens=breadcrumbs
+menu-itens='[
+{"rotulo":"BANCO DE IMAGENS", "link":"https://www.camara.leg.br/internet/bancoimagem/ultimas"},
+{"rotulo":"SIGA NOTÍCIAS POR TEMA",
+"link":"https://www2.camara.leg.br/transparencia/sispush/inscricaoServicoSispushAgencia?idServico=2"},
+{"rotulo":"RSS", "link":"https://www.camara.leg.br/noticias/rss"}
+]'}}
+
+{{#*inline "content-block-landing-pages"}}
+
+
+{{{dados.html}}}
+
+{{> templates/modal/modal-video-mediaelement}}
+
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/noticias.css">
+{{!--
+<link rel="stylesheet" href="{{baseUrlTema}}/home/index.css"> --}}
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/home/index.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}

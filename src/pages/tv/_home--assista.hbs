@@ -1,0 +1,102 @@
+<section class="secao-assista">
+  <div class="fundo-2">
+    <div class="container">
+
+      <div class="titulo-assista">
+        <h2 class="titulo-secao titulo-secao--sem-borda">Assista</h2>
+        <a class="destaque-youtube" href="https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA">YouTube</a>
+      </div>
+
+      <div class="g-l-assista">
+        <div class="g-l-assista__principal">
+          <div class="video-principal">
+            <video class="mejs__player" controls poster="{{baseUrlTema}}/assets/images/_placeholders/video-placeholder.png" data-mejsoptions='{"stretching":"responsive"}'>
+              <source src="https://stream3.camara.gov.br/tv1/manifest.m3u8" type='application/x-mpegURL'>
+              <p>Seu navegador não consegue mostrar o vídeo aqui.</p>
+            </video>
+          </div>
+          <div class="g-l-assista__acessorio-principal">
+            <a href="https://www.camara.leg.br/tv/programacao-semanal" class="button button--sm link-programacao">
+              <span class="btn__icon"><i class="far fa-play-circle"></i></span>
+              Programação
+            </a>
+          </div>
+        </div>
+
+        <div class="g-l-assista__outros">
+          <ul class="g-l-assista__outros-videos multiple-collapse collapse" id="outros-videos">
+            <!-- podem ser mostradas até três transmissões concorrentes -->
+            {{#each videosAssistaMaisAtualPlaylist}}
+              {{#eq @index 0}}
+                <li class="g-l-assista__item-outros-videos">
+                  <article class="g-chamada">
+
+                    <div class="g-l-chamada-lateral">
+                      <div class="g-l-chamada-lateral__imagem">
+                        <img class="g-chamada__imagem" src="{{thumbnailMedium}}" alt="{{tituloPlaylist}} - {{titulo}}">
+                      </div>
+
+                      <div class="g-l-chamada-lateral__texto"> <span
+                          class="g-chamada__retranca g-chamada__retranca--enfatizada">{{tituloPlaylist}}</span>
+                        <h3 class="g-chamada__titulo g-chamada__titulo--simples"><a class="g-chamada__titulo-link"
+                            href="{{urlYoutube}}">{{titulo}}</a></h3>
+                      </div>
+                    </div>
+
+                  </article>
+                </li>
+              {{/eq}}
+            {{/each}}
+            {{#each videosAssistaSecaoPlaylists}}
+            <li class="g-l-assista__item-outros-videos">
+              <article class="g-chamada">
+                <div class="g-l-chamada-lateral">
+                  <div class="g-l-chamada-lateral__imagem">
+                    <img class="g-chamada__imagem" src="{{thumbnailMedium}}" alt="{{tituloPlaylist}} - {{titulo}}">
+                  </div>
+
+                  <div class="g-l-chamada-lateral__texto"> <span
+                      class="g-chamada__retranca g-chamada__retranca--enfatizada">{{tituloPlaylist}}</span>
+                    <h3 class="g-chamada__titulo g-chamada__titulo--simples"><a class="g-chamada__titulo-link"
+                        href="{{urlYoutube}}">{{titulo}}</a></h3>
+                  </div>
+                </div>
+
+              </article>
+            </li>
+            {{/each}}
+          </ul>
+
+          <div class="g-l-assista__acessorio-outros">
+            {{!-- bloco mais programas --}}
+            <div class="veja-mais veja-mais--divisor-superior veja-mais--outros-videos multiple-collapse collapse">
+              <a href="{{baseURLPortalSisnews}}/tv/programas/" class="veja-mais__item">mais programas <span
+                  class="" aria-hidden="true">&rarr;</span></a>
+            </div>
+
+            {{!-- todas as transmissões --}}
+            <div class="">
+              <div class="todas-transmissoes todas-transmissoes--fundo-branco-centralizado">
+                <a href="{{baseURLPortalPlone}}/atividade-legislativa/webcamara/ao-vivo/transmissoes-do-dia"
+                  class="todas-transmissoes__link"><span class="todas-transmissoes__icone fas fa-wifi"></span>
+                  Todas as transmissões</a>
+              </div>
+            </div>
+
+            {{!-- bloco expandir outros vídeos --}}
+            <div class="expandir-outros-videos">
+              <button class="expandir-outros-videos__botao collapsed" type="button" data-toggle="collapse"
+                data-target=".multiple-collapse" aria-expanded="false" aria-controls="outros-videos"><span
+                  class="sr-only">Mostrar outros vídeos</span></button>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+
+    </div>
+  </div>
+
+</section>

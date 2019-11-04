@@ -1,0 +1,42 @@
+{{#> templates/landing-pages
+title="Portal da Câmara dos Deputados"
+description="Últimas Notícias de Radioagência no Portal da Câmara dos Deputados"
+main-heading="RADIOAGÊNCIA"
+breadcrumbs-itens='[{"rotulo":"Rádio", "link":"/radio"}]'
+}}
+
+{{#*inline "content-block-landing-pages"}}
+<div class="noticias-conteiner">
+  {{> pages/radio-agencia/ultimas-noticias/_conteudo-ultimas-noticias}}
+</div>
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/ultimas-noticias.css">
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/radio-programa.css">
+<link rel="stylesheet" href="https://www.camara.leg.br/deputados/static/tempusdominus-bootstrap-4.min.css" />
+<link rel="stylesheet" href="/noticias/static/css/modalPrint.css" />
+
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/comunicacao/ultimas-noticias.js"></script>
+<script type="text/javascript" src="/noticias/static/modalPrint.js"></script>
+<script type="text/javascript" src="https://www.camara.leg.br/deputados/static/jquery.mask.min.js"></script>
+<script type="text/javascript" src="https://www.camara.leg.br/deputados/static/moment.min.js"></script>
+<script type="text/javascript" src="https://www.camara.leg.br/deputados/static/tempusdominus-bootstrap-4.min.js"></script>
+<script type="text/javascript" src="https://www.camara.leg.br/deputados/static/moment-pt-br.js"></script>
+
+<script type="text/javascript">
+        $(function () {
+             $('.dias-eventos-legislativo__data').mask('00/00/0000');
+            $('#datetimepicker1').datetimepicker({
+                locale: 'pt-br',
+                format: 'L'
+            });
+        });
+</script>
+
+{{/inline}}
+
+{{/templates/landing-pages}}

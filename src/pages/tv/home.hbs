@@ -1,0 +1,30 @@
+{{#> templates/landing-pages title="TV Câmara" description="Portal da Câmara dos Deputados - TV Câmara"
+main-heading="TV Câmara"
+breadcrumbs-itens=breadcrumbs
+menu-itens='[
+{"rotulo":"ACERVO", "link":"/tv/programa/acervo"},
+{"rotulo":"PROGRAMAS COM AUDIODESCRIÇÃO", "link":"https://www.youtube.com/playlist?list=PLitz1J-q25kMCBycRGlRXoCGpi9kvPbxP"},
+{"rotulo":"COMO SINTONIZAR", "link":"/tv/562842-instrucoes-para-sintonizar-a-tv-camara/"},
+{"rotulo":"CONHEÇA A TV", "link":"/tv/562841-tv-camara-o-brasil-passa-aqui/"},
+{"rotulo":"TERMOS DE USO", "link":"/tv/562840-termos-de-uso/"},
+{"rotulo":"REDE LEGISLATIVA DE RÁDIO E TV", "link":"https://www2.camara.leg.br/comunicacao/rede-legislativa-radio-tv"}
+]'}}
+
+{{#*inline "content-block-landing-pages"}}
+
+
+{{{dados.html}}}
+
+
+
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/tvcamara.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/home/index.js"></script>
+{{/inline}}
+
+{{/templates/landing-pages}}

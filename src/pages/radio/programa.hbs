@@ -1,0 +1,20 @@
+{{#> templates/base--breadcrumbs title="Portal da Câmara dos Deputados" description="Portal da Câmara dos Deputados"
+breadcrumbs-itens=breadcrumbs }}
+
+{{#*inline "content-block-base--breadcrumbs"}}
+<div class="container">
+  {{> pages/radio/_radio-programa__principal}}
+  {{> pages/radio/_radio-programa__banner}}
+</div>
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+
+
+<link rel="stylesheet" href="{{baseUrlTema}}/home/index.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/home/index.js"></script>
+{{/inline}}
+{{/templates/base--breadcrumbs}}

@@ -1,0 +1,21 @@
+<section class="secao-banner fundo-1">
+  <div class="container container--inner-page">
+
+      <div class="l-grid l-grid--lg-4-8">
+        <div class="l-grid__item">
+          {{#if dados.imagemPrograma}}
+          <img class="logo-programa" src="{{dados.imagemPrograma}}" alt="{{dados.titulo}}">
+          {{/if}}
+        </div>
+        <div class="l-grid__item">
+          {{{dados.conteudo}}}
+          <p class="grade-programacao">{{dados.horario}}</p>
+          {{!-- <div class="l-siga">
+            <a class="button button--secondary siga-programa" href="/noticias{{dados.linkPrograma}}"><i class="fas fa-play-circle siga-programa__icone"></i>
+              Siga este programa</a>
+          </div> --}}
+        </div>
+      </div>
+
+  </div>
+</section>

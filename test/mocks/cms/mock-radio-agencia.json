@@ -1,0 +1,66 @@
+    {
+        "id": 2219,
+        "tipo_conteudo": "radioagencia",
+        "objeto_wp": {
+            "label":    "Notícias",
+            "capability":   "post"
+        },
+        "area_conteudo": {
+            "id": 1927,
+            "name": "Rádio Câmara",
+            "slug": "radio-camara"
+        },
+        "link": "/radio-camara/2219-teste-radio-agencia/",
+        "path_separado": [
+            "radio-camara",
+            "2219-teste-radio-agencia"
+        ],
+        "breadcrumbs": [
+            {
+                "nivel": 0,
+                "name": "Rádio Câmara",
+                "slug": "radio-camara",
+                "id": 1927,
+                "link": "/portal/1927-radio-camara"
+            },
+            {
+                "nivel": 1,
+                "name": "TESTE RADIO AGENCIA",
+                "slug": "teste-radio-agencia",
+                "id": 2219,
+                "link": "/portal/radio-camara/2219-teste-radio-agencia"
+            }
+        ],
+        "menu_local": [
+            {
+                "ID": 1927,
+                "label": "Rádio Câmara",
+                "slug": "radio-camara",
+                "link": "/portal/1927-radio-camara"
+            }
+        ],
+        "titulo": "TESTE RADIO AGENCIA",
+        "data": 1549560140,
+        "data_formatada": "07/02/2019",
+        "hora_formatada": "17:22",
+        "data_atualizacao": 1549560140,
+        "data_atualizacao_formatada": "07/02/2019",
+        "hora_atualizacao_formatada": "17:22",
+        "tipo_noticia": false,
+        "resumo": "",
+        "tema_principal": false,
+        "conteudo": "TESTE RADIO AGENCIA",
+        "rodape": "",
+        "imagem_destaque": null,
+        "video": null,
+        "audio": null,
+        "arquivo_anexo": null,
+        "continuacao_noticia": [],
+        "relacionadas": [],
+        "programas_relacionados_radio": [],
+        "relacionadas_agencia": [],
+        "programas_relacionados_tv": [],
+        "deputados": [],
+        "projetos_de_lei": [],
+        "tags": []
+    }

@@ -1,0 +1,7 @@
+redis:
+  image: redis:5.0.2-alpine
+  command: redis-server /usr/local/etc/redis/redis.conf
+  volumes:
+    - ./src/main/config/redis-teste.conf:/usr/local/etc/redis/redis.conf
+  ports:
+    - "6379:6379"

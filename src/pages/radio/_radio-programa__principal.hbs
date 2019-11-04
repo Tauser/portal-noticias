@@ -1,0 +1,65 @@
+<section class="secao-principal">
+  <div class="container container--inner-page">
+
+    <article class="g-artigo artigo--radio">
+      <h2 class="g-artigo__categoria g-artigo__categoria--fundo-laranja g-artigo__categoria--grande">
+        {{dados.titulo}}
+      </h2>
+
+      <h3 class="g-artigo__titulo">{{dados._ultimas.0.titulo}}</h3>
+
+      <aside class="l-acoes-apoio">
+        <div class="acoes-apoio">
+          <button class="acoes-apoio__item js-acao-compartilhamento">
+            <i class="fas fa-share-alt" aria-hidden="true"></i><span class="sr-only">Compartilhe</span>
+          </button>
+
+          <button class="acoes-apoio__item js-acao-impressao">
+            <i class="fas fa-print" aria-hidden="true"></i><span class="sr-only">Versão para impressão</span>
+          </button> <!-- versão para impressão em telas pequenas? -->
+
+          <button class="acoes-apoio__item">
+            <i class="far fa-comment-alt" aria-hidden="true"></i><span class="acoes-apoio__qtd-comentario">11</span><span
+              class="sr-only">Comentários</span>
+          </button> <!-- versão para impressão em telas pequenas? -->
+        </div>
+      </aside>
+
+      <p class="g-artigo__data-hora">
+        {{dados._ultimas.0.dataHora}}
+      </p>
+
+      {{#if dados._ultimas.0.audios}}
+      {{#each dados._ultimas.0.audios as |audio key|}}
+      <ul class="l-players">
+        <li class="l-players__item">
+          <div class="g-player-audio">
+            <p class="g-player-audio__titulo">{{audio.nome}}</p>
+            <div class="g-player-audio__controles">
+              <audio class="mejs__player" preload="none" controls data-mejsoptions='{"stretching":"responsive",
+                                "audioVolume":"none",
+                                "features":["playpause","current","progress","duration"]}'>
+                <source src="{{audio.url}}" type="audio/mp3">
+              </audio>
+              <div class="g-player-audio__acoes">
+                {{!-- <a class="g-player-audio__acao" href=".">
+                  <i class="fas fa-align-left g-player-audio__icone-acao"></i>
+                  <span class="g-player-audio__texto-acao">Texto</span>
+
+                </a> --}}
+                <a class="g-player-audio__acao" href="{{audio.url}}" download="{{audio.nome}}">
+                  <i class="fas fa-cloud-download-alt g-player-audio__icone-acao"></i>
+                  <span class="g-player-audio__texto-acao">Baixe</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+      {{/each}}
+      {{/if}}
+      <p class="g-artigo__descricao">{{{dados._ultimas.0.conteudo}}}</p>
+    </article>
+
+  </div>
+</section>

@@ -1,0 +1,24 @@
+<section class="mais-conteudo-conteiner">
+  {{!-- Início .container --}}
+  <div class="container">
+    {{#if dados.tags.length}}
+    {{> templates/titulo-secao title="Mais conteúdo sobre" modificador="titulo-secao--noticia-interna"}}
+
+    <ul class="tags tags--link tags--bg-white" aria-label="Lista de assuntos relacionados a esta notícia">
+      {{#each dados.tags}}
+      <li class="tags__tag">
+        <a class="tags__link" href="/noticias/ultimas/tags?tag={{this.nome}}">{{this.nome}}</a>
+      </li>
+      {{/each}}
+    </ul>
+    {{/if}}
+    <div class="siga-noticia">
+      {{!-- https://www2.camara.leg.br/transparencia/sispush --}}
+      <a class="siga-noticia__botao button button--simple button--sm" href="https://www2.camara.leg.br/transparencia/sispush">
+        <span class="siga-noticia__icone" aria-hidden="true"></span>
+        <span class="siga-noticia__texto">Siga notícias deste tema</span>
+      </a>
+    </div>
+  </div>
+  {{!-- .\ Fim .container --}}
+</section>

@@ -1,0 +1,53 @@
+[
+    {
+        "titulo": "Acervo", 
+        "tv": true, 
+        "radio": true
+    },
+    {
+        "titulo": "Cultura",
+        "tv": false,
+        "radio": true
+    },
+    {
+        "titulo": "Documentários",
+        "tv": true,
+        "radio": true
+    },
+    {
+        "titulo": "Entrevistas e debates",
+        "tv": true,
+        "radio": true
+    },
+    {
+        "titulo": "Jornalismo",
+        "tv": true,
+        "radio": true
+    },
+    {
+        "titulo": "Parcerias", 
+        "tv": false,
+        "radio": true
+    },
+    {
+        "titulo": "Programas com Audiodescrição",
+        "tv": true,
+        "radio": true,
+        "url": "https://www.youtube.com/playlist?list=PLitz1J-q25kMCBycRGlRXoCGpi9kvPbxP"
+    },
+    {
+        "titulo": "Radionovela", 
+        "tv": false,
+        "radio": true
+    },
+    {
+        "titulo": "Spots e campanhas", 
+        "tv": false,
+        "radio": true
+    },
+    {
+        "titulo": "Outras produções", 
+        "tv": false, 
+        "radio": true
+    }
+]

@@ -1,0 +1,33 @@
+<div class="container">
+  <div class="titulo-secao">
+    <a href="{{baseUrlTema}}{{this.url}}" title="{{this.categoria}}">
+      <span class="titulo-secao__texto">{{this.categoria}}</span>
+    </a>
+  </div>
+  <div class="g-l-assista">
+    {{#if this.conteudos}}
+    <div class="l-documentarios l-grid l-grid--lg-3-3-3-3" >
+      {{#each this.conteudos}}
+      <div class="l-documentarios__item l-grid__item grid-item-programa" style="min-width: 300px;">
+        <aticle class="g-chamada">
+          {{#if this.urlImagem}}
+          <img class="g-chamada__imagem" src="{{this.urlImagem}}" alt="{{this.titulo}}">
+          {{/if}}
+          <div class="g-chamada__destaque-lateral g-chamada__destaque-lateral--red-orange">
+            <h3 class="g-chamada__titulo">
+              <a class="g-chamada__titulo-link" href="{{this.link}}">
+                <span class="eh-titulo-7">{{this.titulo}}</span>
+                {{!-- <span class="icone-midia fas fa-video"></span> --}}
+              </a>
+            </h3>
+          </div>
+        </aticle>
+      </div>
+      {{/each}}
+    </div>
+    {{/if}}
+  </div> 
+  {{#if paginador }}
+    {{> pages/comum/_pagination}}
+  {{/if}}
+</div>

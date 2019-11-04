@@ -1,0 +1,21 @@
+{{#> templates/base--breadcrumbs
+title="Notícias na Câmara dos Deputados"
+description="Notícias no Portal da Câmara dos Deputados"
+breadcrumbs-itens=breadcrumbs
+}}
+
+{{#*inline "content-block-base--breadcrumbs"}}
+
+{{> pages/comum/comentario/_comentarios__anteriores }}
+
+{{/inline}}
+
+{{#*inline "custom-head-block"}}
+<link rel="stylesheet" href="{{baseUrlTema}}/comunicacao/noticia-interna.css">
+{{/inline}}
+
+{{#*inline "custom-scripts-block"}}
+<script src="{{baseUrlTema}}/comunicacao/noticia-interna.js"></script>
+{{/inline}}
+
+{{/templates/base--breadcrumbs}}

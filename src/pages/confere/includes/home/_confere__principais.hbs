@@ -1,0 +1,132 @@
+<section class="noticias-principais-conteiner">
+    {{!-- Início container --}}
+    <div class="container confere">
+
+        <h2 class="sr-only">Notícias principais</h2>
+        <div class="l-grid l-grid--lg-8-4">
+            {{!-- Coluna 1 --}}
+            <div class="l-grid__item">
+                <div class="confere-descricao">
+                    {{!-- Descrição da página --}}
+                    <article class="confere-descricao">
+                        {{> templates/titulo-secao title="Combate às notícias falsas"}}
+                        <p class="confere-descricao__texto">O Confere é o canal de checagem de notícias relacionadas à Câmara dos
+                            Deputados. Por meio dele, o cidadão pode tirar dúvidas sobre conteúdos recebidos pelas redes sociais ou
+                            divulgados em sites da internet. Nesta página, o usuário também tem à disposição esclarecimento sobre
+                            boas práticas de uso da rede mundial de computadores para não se deixar enganar facilmente.</p>
+                        <p id="paragrafo-oculto" class="collapse">
+                            Com o novo canal, a Câmara dos Deputados entra na luta pelo combate às notícias falsas, também conhecidas
+                            pelo termo em inglês fake news, por acreditar que sua proliferação consiste em uma ameaça à democracia.
+                            Atacar o Legislativo com informações incorretas ou maledicentes é atacar a instituição que representa o
+                            espaço de debates e de representação do povo dentro de uma nação democrática.
+                            A política deve ser baseada em debates, argumentos, dados concretos, não em mentiras. Críticas e
+                            sugestões
+                            serão sempre bem-vindas para o aprimoramento do trabalho do Legislativo, mas dentro de regras
+                            democráticas.
+                        </p>
+                        <div class="confere-descricao__mais">
+                            <a data-toggle="collapse" href="#paragrafo-oculto" role="button" aria-expanded="false" aria-controls="paragrafo-oculto">Ver
+                                mais <span class="" aria-hidden="true">→</span></a>
+                        </div>
+                    </article>
+                </div>
+                <div class="confere-resultado">
+                    <div class="l-grid l-grid--lg-6-6">
+                        <div class="l-grid__item">
+                            <article class="confere-resultado__item">
+                                <div class="confere-resultado__item compartilhar">{{!-- Falta Implementar --}}</div>
+                                <div class="confere-resultado__item imagem">
+                                    <img class="img-fluid" src="{{baseUrlTema}}/assets/images/confere-imagem-destaque-placeholder.png"
+                                         alt="Selo de item falso">
+                                </div>
+                                <div class="confere-resultado__item titulo">
+                                    <img src="{{baseUrlTema}}/assets/images/confere-item-selo-placeholder.png" width="40px" height="40px"
+                                         alt="Selo de item falso">
+                                    <span>É falso que deputados federais recebem 14º e 15º salários</span>
+                                </div>
+                                <div class="confere-resultado__item descricao">
+                                    <p>Os únicos benefícios extras são no início e no fim do mandato para ajudar com mudança e transporte</p>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="l-grid__item">
+                            <article class="confere-resultado__item">
+                                <div class="confere-resultado__item compartilhar">{{!-- Falta Implementar --}}</div>
+                                <div class="confere-resultado__item imagem">
+                                    <img class="img-fluid" src="{{baseUrlTema}}/assets/images/confere-imagem-destaque-placeholder.png"
+                                         alt="Selo de item falso">
+                                </div>
+                                <div class="confere-resultado__item titulo">
+                                    <img src="{{baseUrlTema}}/assets/images/confere-item-selo-placeholder.png" width="40px" height="40px"
+                                         alt="Selo de item falso">
+                                    <span>É falso que deputados federais recebem 14º e 15º salários</span>
+                                </div>
+                                <div class="confere-resultado__item descricao">
+                                    <p>Os únicos benefícios extras são no início e no fim do mandato para ajudar com mudança e transporte</p>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="confere-resultado__mais">
+                            <a href="#">Todas as checagens <span class="" aria-hidden="true">→</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{!-- .\ Fim Coluna 1 --}}
+
+
+            {{!-- Coluna 3 --}}
+            {{!-- Últimas Notícias --}}
+            <div class="l-grid__item">
+                <div class="destaque-lateral">
+                    <h2 id="destaque-lateral__titulo" class="destaque-lateral__titulo">
+                        Como usar o serviço
+                    </h2>
+                    <div class="destaque-lateral__texto">
+                        <p>Envie as demandas pelo WhatsApp <strong>+55 (61) xxxxx-xxxx</strong> e
+                            responderemos pelo
+                            mesmo canal. Acrescente imagens ou textos que tenha recebido nas redes sociais para confirmar se a
+                            informação procede.</p>
+                    </div>
+                    <div class="destaque-lateral__botao">
+                        <button class="button">
+                            <img width="20px;" src="{{baseUrlTema}}/assets/images/compartilhe/whatsapp-transparent.png" alt="Selo de item falso">
+                            <span>Mande uma mensagem</span>
+                        </button>
+                    </div>
+                </div>
+                <div class="destaque-lateral selos">
+                    <h2 id="destaque-lateral__titulo" class="destaque-lateral__titulo">
+                        Nossos selos
+                    </h2>
+                    <div class="destaque-lateral__texto">
+                        <div class="item-selo">
+                            <div class="item-selo__imagem">
+                                <img src="{{baseUrlTema}}/assets/images/confere-item-selo-placeholder.png" alt="Selo de item falso">
+                            </div>
+                            <div class="item-selo__label">Falso</div>
+                        </div>
+                        <div class="item-selo">
+                            <div class="item-selo__imagem">
+                                <img src="{{baseUrlTema}}/assets/images/confere-item-selo-placeholder.png" alt="Selo de item falso">
+                            </div>
+                            <div class="item-selo__label">Impreciso</div>
+                        </div>
+                        <div class="item-selo">
+                            <div class="item-selo__imagem">
+                                <img src="{{baseUrlTema}}/assets/images/confere-item-selo-placeholder.png" alt="Selo de item falso">
+                            </div>
+                            <div class="item-selo__label">Fato</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{!-- .\ Fim Coluna 3 --}}
+        </div>
+
+        {{!-- // Modal --}}
+        {{> global/templates/modal/modal-video-mediaelement}}
+
+    </div>
+    {{!-- .\ Fim container --}}
+</section>

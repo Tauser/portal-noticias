@@ -1,0 +1,143 @@
+{
+    "id":1928,
+    "name":"Assessoria de Imprensa",
+    "slug":"assessoria-de-imprensa",
+    "tipo_conteudo":"areaconteudo",
+    "objeto_wp":{
+       "label":"\u00c1reas de Conte\u00fado",
+       "capability":"post"
+    },
+    "link":"\/1928-assessoria-de-imprensa\/",
+    "path_separado":"\/1928-assessoria-de-imprensa\/",
+    "breadcrumbs":[
+ 
+    ],
+    "menu":[
+ 
+    ],
+    "titulo":"Assessoria de Imprensa",
+    "home_conteudo_html":"<div class=\"institucional-home institucional-container\">\n\n<!--  hotsites -->\n\n<div id=\"institucional-hotsites-container\" class=\"eh_noedt eh_conteudo-desabilitado\">\n\n<div class=\"fundo-1 assessoria-hotsites\">\n\n    <div class=\"container\">\n\n        <section class=\"l-lateral-heading\">\n            <div class=\"l-lateral-heading__heading\">\n                <h2 class=\"titulo-secao titulo-secao--com-link  \">\n                        <a href=\"https:\/\/www2.camara.leg.br\/comunicacao\/camara-noticias\/camara-destaca\" class=\"titulo-secao--com-link__link\">\n                            <span class=\"titulo-secao__texto\">Hotsites<\/span>\n                        <\/a>\n                <\/h2>                \n                <span class=\"descricao-secao\">P\u00e1ginas tempor\u00e1rias de <br>divulga\u00e7\u00e3o tem\u00e1tica<\/span>\n                <a href=\"https:\/\/www2.camara.leg.br\/comunicacao\/camara-noticias\/camara-destaca\" class=\"link-secao\">Veja os anteriores <span class=\"\" aria-hidden=\"true\">\u2192<\/span><\/a>\n            <\/div>\n\n            <div class=\"l-lateral-heading__body\">\n            \n                <div class=\"js-sly u-no-fouc\">\n                    <!-- slider -->\n                    <ul class=\"l-tiles\">\n                        <!-- slider__list -->\n                        <li class=\"l-tiles__tile\">\n                            <!-- slider__item -->\n                            <div class=\"link-hotsite\">\n                                <a href=\"https:\/\/www2.camara.leg.br\/comunicacao\/camara-noticias\/camara-destaca\/simplificou\" class=\"link-hotsite__link\">\n                                    <span class=\"link-hotsite__icone-container\" aria-hidden=\"true\">\n                                        <span class=\"icone-circulo-congresso\"><\/span>\n                                    <\/span>\n                                    <span class=\"link-hotsite__texto-container\">\n                                        Simplificou\n                                    <\/span>\n                                <\/a>\n                            <\/div>\n                        <\/li>\n                        <li class=\"l-tiles__tile l-tiles__tile--portal\">\n                            <div class=\"link-hotsite\">\n                                <a href=\"https:\/\/www2.camara.leg.br\/deputados\/pesquisa\/56a-legislatura\" class=\"link-hotsite__link\">\n                                    <span class=\"link-hotsite__icone-container\" aria-hidden=\"true\">\n                                        <span class=\"icone-circulo-56-legislatura\"><\/span>\n                                    <\/span>\n                                    <span class=\"link-hotsite__texto-container\">\n                                        Portal da Posse 56\u00aa Legislatura\n                                    <\/span>\n                                <\/a>\n                            <\/div>\n                        <\/li>\n                        <li class=\"l-tiles__tile l-tiles__tile--xl-flex-2\">\n                            <div class=\"link-hotsite\">\n                                <a href=\"https:\/\/www2.camara.leg.br\/comunicacao\/camara-noticias\/camara-destaca\/200-anos-de-independencia-do-brasil\" class=\"link-hotsite__link\">\n                                    <span class=\"link-hotsite__icone-container\" aria-hidden=\"true\">\n                                        <span class=\"icone-circulo-mapa-brasil\"><\/span>\n                                    <\/span>\n                                    <span class=\"link-hotsite__texto-container\">\n                                        200 anos de Independ\u00eancia do Brasil\n                                    <\/span>\n                                <\/a>\n                            <\/div>\n                        <\/li>\n                        <li class=\"l-tiles__tile l-tiles__tile--xl-flex-2\">\n                            <div class=\"link-hotsite\">\n                                <a href=\"https:\/\/www.camara.leg.br\/internet\/agencia\/infograficos-html5\/constituinte\/index.html\" class=\"link-hotsite__link\">\n                                    <span class=\"link-hotsite__icone-container\" aria-hidden=\"true\">\n                                        <span class=\"icone-circulo-30-anos-constituicao\"><\/span>\n                                    <\/span>\n                                    <span class=\"link-hotsite__texto-container\">\n                                        30 anos da constitui\u00e7\u00e3o\n                                    <\/span>\n                                <\/a>\n                            <\/div>\n                        <\/li>\n                    <\/ul>\n                <\/div>\n            <\/div>\n        <\/section>\n    <\/div>\n\n<\/div> \n<\/div>\n<!-- fim destaques -->\n\n<section class=\"noticias-conteiner\">\n\n    <div class=\"container\">\n\n        <h2 class=\"sr-only\">Not\u00edcias de Assessoria de Imprensa<\/h2>\n        \n        <div class=\"l-grid l-grid--lg-6-3-3\">\n            <div class=\"l-grid__item\">\n\n                <article id=\"eh-1\" class=\"g-chamada g-chamada--manchete\">\n                    <a id=\"midia-1\" class=\"midia-wrapper\">\n                        <img id=\"imagem-1\" class=\"g-chamada__imagem\" src=\"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/1280px-painel_de_azulejos_-_athos_bulcao_-_brasilia-960x536.jpg\" alt=\"\">\n                    <\/a>\n        \n                    <span id=\"tema-1\" class=\"g-chamada__retranca\">Tema<\/span>\n        \n                    <h3 class=\"g-chamada__titulo\">\n                        <a id=\"link-1\" class=\"g-chamada__titulo-link\" href=\"\/3210-camara-comemora-centenario-de-athos-bulcao-com-exposicao-do-artista\/\"><span id=\"titulo-1\">C\u00e2mara comemora centen\u00e1rio de Athos Bulc\u00e3o com exposi\u00e7\u00e3o do artista<\/span><\/a>\n                    <\/h3>\n        \n                    <p id=\"resumo-1\" class=\"g-chamada__descricao \">Mostra re\u00fane 44 obras de diferentes fases, entre desenhos, pinturas e gravuras pouco conhecidos do p\u00fablico<\/p>\n                <\/article>\n        \n                <div class=\"l-grid l-grid--lg-6-6\">\n\n                    <div class=\"l-grid__item\">\n\n                        <article id=\"eh-2\" class=\"g-chamada chamada--abaixo-manchete\">\n                            <span id=\"tema-2\" class=\"g-chamada__retranca\">Tema<\/span>\n        \n                            <h3 class=\"g-chamada__titulo\">\n                                <a id=\"link-2\" class=\"g-chamada__titulo-link\" href=\"\/3112-camara-premia-vencedores-do-6o-concurso-sobre-a-lei-maria-da-penha-nesta-terca-7\/\"><span id=\"titulo-2\">C\u00e2mara premia vencedores do 6\u00ba Concurso sobre a Lei Maria da Penha nesta ter\u00e7a (7)<\/span><\/a>\n                            <\/h3>\n                        <\/article>\n\n                    <\/div>\n        \n                    <div class=\"l-grid__item\">\n\n                        <article id=\"eh-3\" class=\"g-chamada chamada--abaixo-manchete\">\n                            <span id=\"tema-3\" class=\"g-chamada__retranca\">Tema<\/span>\n        \n                            <h3 class=\"g-chamada__titulo\">\n                                <a id=\"link-3\" class=\"g-chamada__titulo-link\" href=\"\/3111-estao-abertas-as-inscricoes-para-ix-jornada-de-pesquisa-e-extensao\/\"><span id=\"titulo-3\">Est\u00e3o abertas as inscri\u00e7\u00f5es para IX Jornada de Pesquisa e Extens\u00e3o<\/span><\/a>\n                            <\/h3>\n                        <\/article>\n\n                    <\/div>\n                <\/div>\n            <\/div>\n        \n            <div class=\"l-grid__item\">\n\n                <div class=\"noticias-centro\">\n\n                    <article id=\"eh-4\" class=\"g-chamada\">\n                        <div class=\"g-l-chamada-lateral-xs\">\n                            <div class=\"g-l-chamada-lateral-xs__imagem\">\n                                <a id=\"midia-4\" class=\"midia-wrapper\">\n                                   <img id=\"imagem-4\" class=\"g-chamada__imagem\" src=\"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/turmadamonica1-1022x571.jpg\" alt=\"\">\n                                <\/a>\n                            <\/div>\n        \n                            <div class=\"g-l-chamada-lateral-xs__texto\">\n                                <span id=\"tema-4\" class=\"g-chamada__retranca\">Tema<\/span>\n        \n                                <h3 class=\"g-chamada__titulo\">\n                                    <a id=\"link-4\" class=\"g-chamada__titulo-link\" href=\"\/assessoria-de-imprensa\/3802-camara-e-instituto-mauricio-de-sousa-apresentam-exposicao-com-a-turma-da-monica\/\"><span id=\"titulo-4\">C\u00e2mara e Instituto Mauricio de Sousa apresentam exposi\u00e7\u00e3o com a Turma da M\u00f4nica<\/span><\/a>\n                                <\/h3>\n\n                                <p id=\"resumo-4\" class=\"g-chamada__descricao\">Exposi\u00e7\u00e3o mostra hist\u00f3rias da Turma da M\u00f4nica que fizeram parte de campanhas institucionais sobre direito das crian\u00e7as, inclus\u00e3o e diversidade, entre outros<\/p>\n                            <\/div>\n                        <\/div>\n                    <\/article>\n        \n                    <article id=\"eh-5\" class=\"g-chamada\">\n                        <div class=\"g-l-chamada-lateral-xs\">\n                            <div class=\"g-l-chamada-lateral-xs__imagem\">\n                                <a id=\"midia-5\" class=\"midia-wrapper\">\n                                    <img id=\"imagem-5\" class=\"g-chamada__imagem\" src=\"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/Instituto-3M-lanc\u0327a-edital-para-estudantes.jpg\" alt=\"\">\n                                <\/a>\n                            <\/div>\n        \n                            <div class=\"g-l-chamada-lateral-xs__texto\">\n                                <span id=\"tema-5\" class=\"g-chamada__retranca\">Tema<\/span>\n        \n                                <h3 class=\"g-chamada__titulo\">\n                                    <a id=\"link-5\" class=\"g-chamada__titulo-link\" href=\"\/3357-projeto-politeia-reune-universitarios-na-camara\/\"><span id=\"titulo-5\">Projeto Politeia re\u00fane universit\u00e1rios na C\u00e2mara<\/span><\/a>\n                                <\/h3>\n                            <\/div>\n                        <\/div>\n                    <\/article>\n\n                <\/div>\n            <\/div>\n        \n            <div class=\"l-grid__item\">\n\n                <article id=\"eh-6\" class=\"g-chamada\">\n                    <div class=\"g-l-chamada-lateral-xs\">\n                        <div class=\"g-l-chamada-lateral-xs__imagem\">\n                            <a id=\"midia-6\" class=\"midia-wrapper\">\n                               <img id=\"imagem-6\" class=\"g-chamada__imagem\" src=\"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/body-934x521.jpeg\" alt=\"\">\n                            <\/a>\n                        <\/div>\n                \n                        <div class=\"g-l-chamada-lateral-xs__texto\">\n                            <span id=\"tema-6\" class=\"g-chamada__retranca\">Tema<\/span>\n                \n                            <h3 class=\"g-chamada__titulo\">\n                                <a id=\"link-6\" class=\"g-chamada__titulo-link\" href=\"\/assessoria-de-imprensa\/3233-exposicao-fotografica-body-pode-ser-visitada-ate-o-dia-8-de-agosto\/\"><span id=\"titulo-6\">Exposi\u00e7\u00e3o fotogr\u00e1fica Body pode ser visitada at\u00e9 o dia 8 de agosto<\/span><\/a>\n                            <\/h3>\n                \n                            <p id=\"resumo-6\" class=\"g-chamada__descricao\">At\u00e9 o dia 8 de agosto, \u00e9 poss\u00edvel visitar a exposi\u00e7\u00e3o fotogr\u00e1fica Body, de Cl\u00e1udio Macedo e Renata Machado.<\/p>\n                        <\/div>\n                    <\/div>\n\n                <\/article>\n                \n                <!--  ultimas not\u00edcias container -->\n                <div id=\"ultimas-noticias-container\" class=\"ultimas-noticias bloco-dinamico\">[ultimas-noticias-container]<\/div><!-- fim ultimas -->\n\n            <\/div>\n\n        <\/div>\n        \n<\/div><\/section>\n\n<section class=\"secao-banners eh_conteudo-desabilitado\">\n    <div class=\"container eh_conteudo-desabilitado\">\n        <h2 class=\"sr-only\">Conte\u00fado Relacionado<\/h2>\n\n        <div class=\"banners-container\">\n            <ul class=\"l-grid-banners\" aria-label=\"Conte\u00fado Relacionado\">\n                <li class=\"l-grid-banners__item\">\n                    <a href=\"https:\/\/www2.camara.leg.br\/comunicacao\/assessoria-de-imprensa\/guia-para-jornalistas\" class=\"banner banner--guia button button--big-circular button--xl\">\n                        <span class=\"banner__texto\">Guia para Jornalistas<\/span>\n                    <\/a>\n                <\/li>\n        \n                <li class=\"l-grid-banners__item\">\n                    <a href=\"https:\/\/www2.camara.leg.br\/comunicacao\/assessoria-de-imprensa\/credenciamento-de-jornalistas\" class=\"banner banner--cred button button--big-circular button--xl\">\n                        <span class=\"banner__texto\">Credenciamento <br>de Imprensa<\/span>\n                    <\/a>\n                <\/li>\n            <\/ul>\n        <\/div>\n    <\/div>\n<\/section>\n\n<\/div>",
+    "home_conteudo_json":[
+       {
+          "id_wp":3210,
+          "item_conteudo":"eh-item-conteudo_4",
+          "objeto_wp":null,
+          "tema":"Tema",
+          "titulo":"C\u00e2mara comemora centen\u00e1rio de Athos Bulc\u00e3o com exposi\u00e7\u00e3o do artista",
+          "resumo":"Mostra re\u00fane 44 obras de diferentes fases, entre desenhos, pinturas e gravuras pouco conhecidos do p\u00fablico",
+          "credito":"",
+          "legenda":"",
+          "alt":"",
+          "imagem":"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/1280px-painel_de_azulejos_-_athos_bulcao_-_brasilia-960x536.jpg",
+          "thumbnail":"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/1280px-Painel_de_azulejos_-_Athos_Bulcao_-_Brasilia-150x98.jpg",
+          "video":null,
+          "poster":null,
+          "audio":null,
+          "link":"\/3210-camara-comemora-centenario-de-athos-bulcao-com-exposicao-do-artista\/"
+       },
+       {
+          "id_wp":3112,
+          "item_conteudo":"eh-item-conteudo_2",
+          "objeto_wp":null,
+          "tema":"Tema",
+          "titulo":"C\u00e2mara premia vencedores do 6\u00ba Concurso sobre a Lei Maria da Penha nesta ter\u00e7a (7)",
+          "resumo":"A C\u00e2mara dos Deputados realiza, nesta ter\u00e7a-feira (7), o evento de premia\u00e7\u00e3o do 6\u00ba Concurso sobre a Lei Maria da Penha. A cerim\u00f4nia est\u00e1 marcada para as 18h, no Sal\u00e3o Nobre. Realizado pela Secretaria da Mulher, com apoio do Banco Mundial, o concurso escolhe a cada ano uma diferente forma de disseminar a lei. Nesta  ... ",
+          "credito":null,
+          "legenda":null,
+          "alt":null,
+          "imagem":null,
+          "thumbnail":null,
+          "video":null,
+          "poster":null,
+          "audio":null,
+          "link":"\/3112-camara-premia-vencedores-do-6o-concurso-sobre-a-lei-maria-da-penha-nesta-terca-7\/"
+       },
+       {
+          "id_wp":3111,
+          "item_conteudo":"eh-item-conteudo_3",
+          "objeto_wp":null,
+          "tema":"Tema",
+          "titulo":"Est\u00e3o abertas as inscri\u00e7\u00f5es para IX Jornada de Pesquisa e Extens\u00e3o",
+          "resumo":"O Programa de P\u00f3s-Gradua\u00e7\u00e3o do Centro de Forma\u00e7\u00e3o, Treinamento e Aperfei\u00e7oamento (Cefor) da C\u00e2mara dos Deputados est\u00e1 com inscri\u00e7\u00f5es abertas desta segunda-feira (6) at\u00e9 6 de setembro, sem a necessidade de submiss\u00e3o de trabalhos, para a IX Jornada de Pesquisa e Extens\u00e3o. O evento ser\u00e1 realizado nos dias 17 e 18 de setembro, no Cefor,  ... ",
+          "credito":null,
+          "legenda":null,
+          "alt":null,
+          "imagem":null,
+          "thumbnail":null,
+          "video":null,
+          "poster":null,
+          "audio":null,
+          "link":"\/3111-estao-abertas-as-inscricoes-para-ix-jornada-de-pesquisa-e-extensao\/"
+       },
+       {
+          "id_wp":3802,
+          "item_conteudo":"eh-item-conteudo_1",
+          "objeto_wp":null,
+          "tema":"Tema",
+          "titulo":"C\u00e2mara e Instituto Mauricio de Sousa apresentam exposi\u00e7\u00e3o com a Turma da M\u00f4nica",
+          "resumo":"Exposi\u00e7\u00e3o mostra hist\u00f3rias da Turma da M\u00f4nica que fizeram parte de campanhas institucionais sobre direito das crian\u00e7as, inclus\u00e3o e diversidade, entre outros",
+          "credito":"",
+          "legenda":"",
+          "alt":"",
+          "imagem":"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/turmadamonica1-1022x571.jpg",
+          "thumbnail":"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/turmadamonica1-150x84.jpg",
+          "video":null,
+          "poster":null,
+          "audio":null,
+          "link":"\/assessoria-de-imprensa\/3802-camara-e-instituto-mauricio-de-sousa-apresentam-exposicao-com-a-turma-da-monica\/"
+       },
+       {
+          "id_wp":3357,
+          "item_conteudo":"eh-item-conteudo_5",
+          "objeto_wp":null,
+          "tema":"Tema",
+          "titulo":"Projeto Politeia re\u00fane universit\u00e1rios na C\u00e2mara",
+          "resumo":"Evento \u00e9 uma parceria entre a Universidade de Bras\u00edlia e a Casa. Atividades que simulam o processo legislativo ocorrem na pr\u00f3xima semana",
+          "credito":"",
+          "legenda":"",
+          "alt":"",
+          "imagem":"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/Instituto-3M-lanc\u0327a-edital-para-estudantes.jpg",
+          "thumbnail":"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/Instituto-3M-lanc\u0327a-edital-para-estudantes-150x83.jpg",
+          "video":null,
+          "poster":null,
+          "audio":null,
+          "link":"\/3357-projeto-politeia-reune-universitarios-na-camara\/"
+       },
+       {
+          "id_wp":3233,
+          "item_conteudo":"eh-item-conteudo_6",
+          "objeto_wp":null,
+          "tema":"Tema",
+          "titulo":"Exposi\u00e7\u00e3o fotogr\u00e1fica Body pode ser visitada at\u00e9 o dia 8 de agosto",
+          "resumo":"At\u00e9 o dia 8 de agosto, \u00e9 poss\u00edvel visitar a exposi\u00e7\u00e3o fotogr\u00e1fica Body, de Cl\u00e1udio Macedo e Renata Machado.",
+          "credito":"",
+          "legenda":"",
+          "alt":"",
+          "imagem":"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/body-934x521.jpeg",
+          "thumbnail":"https:\/\/socithom.camara.gov.br\/portal\/portal-backend-wordpress\/wp-content\/uploads\/2019\/03\/body-150x107.jpeg",
+          "video":null,
+          "poster":null,
+          "audio":null,
+          "link":"\/assessoria-de-imprensa\/3233-exposicao-fotografica-body-pode-ser-visitada-ate-o-dia-8-de-agosto\/"
+       }
+    ],
+    "objeto_conteudo_externo":"",
+    "id_conteudo_externo":0,
+    "conteudo_externo":null,
+    "destaqueTopo":{
+       "id":"",
+       "titulo":"",
+       "nome":"",
+       "link":""
+    },
+    "estreia":{
+       "id":"",
+       "titulo":"",
+       "nome":"",
+       "tema":"",
+       "resumo":"",
+       "poster":"",
+       "video":"",
+       "audio":""
+    }
+ }

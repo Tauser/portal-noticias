@@ -1,0 +1,22 @@
+
+<h{{#if nivel}}{{nivel}}{{else}}2{{/if}} {{#if id}}id="{{id}}"{{/if}} 
+        class="titulo-secao 
+            {{#if texto-link-adicional}}titulo-secao--com-link-adicional{{else}}texto do link{{/if}} 
+            {{#if link-adicional}}titulo-secao--com-link-adicional{{/if}} 
+            {{#if titulo-icone-esquerda}}titulo-secao--titulo-icone-esquerda{{/if}} 
+            {{modificador}}">
+
+    {{!-- Inclui ícone associado à classe .titulo-secao--titulo-icone-esquerda --}}
+    {{#if titulo-icone-esquerda}}
+    <span class="titulo-secao__icone titulo-secao__icone--{{titulo-icone-esquerda}}"></span>
+    {{/if}}
+
+    <span class="titulo-secao__texto">{{title}}</span>
+
+    {{#if link-adicional}}
+        <a href="{{link-adicional}}" class="titulo-secao__link-adicional ">
+            {{texto-link-adicional}}
+        </a>
+    {{/if}}
+
+</h{{#if nivel}}{{nivel}}{{else}}2{{/if}}>

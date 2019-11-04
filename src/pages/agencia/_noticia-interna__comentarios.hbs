@@ -1,0 +1,20 @@
+<section class="comentarios-conteiner">
+  <div id="comentario"  class="container container--inner-page">
+   <p class="g-artigo__data-hora">
+        A reprodução das notícias é autorizada desde que contenha a assinatura 'Agência Câmara Notícias'.
+    </p><br />
+    {{> pages/comum/comentarios}}
+  </div>
+  {{!-- Início .container --}}
+  {{#if dados.comentariosSisnews.length}}
+  <div class="container container--inner-page">
+    <div class="g-comentarios">
+      <div class="text-right">
+        <a href="{{path}}comentarios">Comentários Anteriores</a>
+        <span class="" aria-hidden="true">→</span>
+      </div>
+    </div>
+  </div>
+  {{/if}}
+  {{!-- .\ Fim .container --}}
+</section>

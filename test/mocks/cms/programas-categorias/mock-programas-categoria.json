@@ -1,0 +1,104 @@
+[
+    {
+        "categoria": "jornalismo",
+        "titulo": "15 Minutos de Cidadania",
+        "link": "http://localhost:3001/radio/180-15-minutos-de-cidadania/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20180716173348865MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "A Vez do Plenarinho",
+        "link": "http://localhost:3001/radio/392-a-vez-do-plenarinho/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img201706261439335277359MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "A Voz do Brasil",
+        "link": "http://localhost:3001/radio/164-a-voz-do-brasil/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20180508202844823MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Aqui Se Faz História",
+        "link": "http://localhost:3001/radio/387-aqui-se-faz-historia/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img201702151551525711271MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Câmara é Notícia",
+        "link": "http://localhost:3001/radio/204-camara-e-noticia/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20170322124264572635MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Coisas do Brasil",
+        "link": "http://localhost:3001/radio/377-coisas-do-brasil/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img201603281739136355358MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Especial Reforma Trabalhista",
+        "link": "http://localhost:3001/radio/403-especial-reforma-trabalhista/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20180726154128902MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Fator de Risco",
+        "link": "http://localhost:3001/radio/192-fator-de-risco/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20161202142835208367MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Feijoada Completa",
+        "link": "http://localhost:3001/radio/323-feijoada-completa/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img2015022015625436243MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Jogo Rápido",
+        "link": "http://localhost:3001/radio/163-jogo-rapido/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img201703221242414576122MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Minuto da Economia",
+        "link": "http://localhost:3001/radio/195-minuto-da-economia/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20150220157165443637MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Mulheres de Palavra",
+        "link": "http://localhost:3001/radio/384-mulheres-de-palavra/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img201702021626225918241MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Painel Eletrônico",
+        "link": "http://localhost:3001/radio/402-painel-eletronico/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20180507085316095MED.png"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Previdência – Ponto a Ponto",
+        "link": "http://localhost:3001/radio/409-previdencia-ponto-a-ponto/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20190322143011252.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Reportagem Especial",
+        "link": "http://localhost:3001/radio/199-reportagem-especial/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20150220151625496267MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Salão Verde",
+        "link": "http://localhost:3001/radio/206-salao-verde/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img201606291530235582398MED.jpg"
+    },
+    {
+        "categoria": "jornalismo",
+        "titulo": "Vida Longa",
+        "link": "http://localhost:3001/radio/393-vida-longa/",
+        "urlImagem": "http://localhost:3001/midias/image/2019/07/img20170626144685316804MED.jpg"
+    }
+]

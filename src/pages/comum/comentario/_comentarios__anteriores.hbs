@@ -1,0 +1,49 @@
+<section class="comentarios-conteiner">
+
+  {{!-- Início .container --}}
+  {{#compare dados.countComentariosSisnews '>'0}}
+  <div class="container container--inner-page">
+    <article class="g-artigo artigo--noticia">
+      <span class="g-artigo__categoria">{{dados.temaPrincipal.titulo}}</span> 
+      <h1 class="g-artigo__titulo">{{dados.titulo}}</h1>
+      <div class="g-comentarios">
+        <h2 class="g-comentarios__titulo mt-5">
+          <span class="g-comentarios__titulo-icone" aria-hidden="true"></span>
+          <span class="g-comentarios__titulo-texto"><strong>{{dados.countComentariosSisnews}}</strong>
+            Comentários Anteriores
+          </span>
+        </h2>
+        <ul class="g-l-comentarios-lista outer" aria-label="Lista de comentários">
+          {{#each dados.comentariosSisnews}}
+          <li class="g-l-comentarios-lista__item">
+            <article class="g-comentario">
+              <header>
+                <div class="g-comentario-usuario">
+                  {{!-- <img class="g-comentario-usuario__avatar" src="https://via.placeholder.com/100x100?text=1x1"
+                    alt="Imagem de perfil do usuário">
+                  --}}
+                  <h3 class="g-comentario-usuario__nome">
+                    <span class="sr-only">Escrito por: </span>
+                    <span>{{this.autor}}</span>
+                  </h3>
+                </div>
+                <p class="g-comentario__data">{{retornarDataHoraFormatada this.data}}</p>
+              </header>
+
+              <div class="g-comentario__conteudo">
+                <p>{{this.conteudo}}</p>
+              </div>
+            </article>
+          </li>
+          {{/each}}
+        </ul>
+        {{!-- <div class="g-comentarios__carregar">
+          <button class="g-comentarios__carregar-botao button button--simple">Carregar mais comentários</button>
+        </div> --}}
+      </div>
+    </article>
+  </div>
+  {{/compare}}
+
+  {{!-- .\ Fim .container --}}
+</section>
